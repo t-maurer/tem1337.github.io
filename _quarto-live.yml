@@ -1,6 +1,0 @@
-project: 
-   type: website
-#   output-dir: _site-live
-# 
-execute:
-  freeze: false
