@@ -1,3 +1,3 @@
 quarto render --profile live
 
-quarto publish gh-pages
+quarto publish gh-pages --no-browser
