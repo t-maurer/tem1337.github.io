@@ -1,0 +1,32 @@
+---
+title: "Smartphones reduzieren Aufmerksamkeit und Leistung – selbst wenn sie nicht da sind"
+date: 2023-09-23
+categories: [studie, smartphone, kognition]
+image: "thumbnail.jpg"
+description: "Meta-Studie untersucht den Brain-Drain-Effekt durch Smartphones und zeigt kulturelle Unterschiede." 
+toc: true
+draft: false
+---
+
+[**Universität Augsburg: Pressemitteilung 68/23 - 19.09.2023**](https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2023/09/19/brain-drain-effekt-von-smartphones/)
+
+### Meta-Studie untersucht den Brain-Drain-Effekt durch Smartphones und zeigt kulturelle Unterschiede
+
+![](thumbnail.jpg)
+
+**Wie stark Smartphones die Aufmerksamkeit als auch die Gedächtnisleistung reduzieren, ist seit 2017 als Brain-Drain-Effekt bekannt. Ein Forschungsteam der Universität Augsburg um den Schulpädagogen Prof. Dr. Klaus Zierer hat in einer Meta-Analyse, die in der Fachzeitschrift Behavioral Sciences kürzlich veröffentlicht wurde, 22 Studien verglichen und bestätigt den Effekt. Gerade für die Medienerziehung von Kindern und Jugendlichen folgt daraus eine besondere Herausforderung.**
+
+Ein Blick in die Parlamente zeigt: viele Abgeordnete hören nicht zu, sondern wischen, was das Zeug hält. Selbst auf der Regierungsbank ist diese Haltung weit verbreitet, was Bundestagspräsidentin Bärbel Bas im Herbst 2022 dazu bewogen hat, eine „Handy-Enthaltsamkeit" im Deutschen Bundestag anzumahnen. Solch ein Verhalten schade der Außenwirkung der Demokratie, so Bas.
+
+Viel schwerwiegender als der unkontrollierte Gebrauch ist jedoch ein Effekt, der in der Forschung als Brain-Drain-Effekt bezeichnet wird. Klaus Zierer, Lehrstuhlinhaber für Schulpädagogik, erläutert: „Der Brain-Drain-Effekt geht zurück auf die gleichnamige Studie von Ward und Kollegen aus dem Jahr 2017, die als erstes belegten, dass alleine die Anwesenheit des Smartphones sowohl die Aufmerksamkeit als auch die Gedächtnisleistung reduziert."
+
+Wie so oft in der psychologischen Forschung konnten diese Ergebnisse nicht Eins zu Eins repliziert werden, sodass sich die Frage stellt, ob es den Brain-Drain-Effekt nun wirklich gibt oder nicht. Dieser Forschungsfrage geht deshalb eine Arbeitsgruppe unter der Leitung von Prof. Dr. Klaus Zierer in einer kürzlich veröffentlichten Meta-Analyse „Does the Brain Drain Effect Really Exist?" nach.
+
+Hierfür suchten sie internationale Studien, die sich mit diesem Effekt befassten. Sie fanden 22 solcher Studien, die im Ergebnis bestätigen, was Ward und Kollegen bereits 2017 festgestellt hatten: Die bloße physische Präsenz des Smartphones beeinflusst die kognitive Leistungsfähigkeit ihrer Besitzerinnen und Besitzer, wenn auch unterschiedlich: Gedächtnisleistungen und Aufmerksamkeit sind stärker betroffen als das Erledigen einfacher Leistungstests, beispielsweise Buchstabieren. Interessant ist auch, dass kulturelle Unterschiede in den Studien festzustellen sind. In Asien beispielsweise sind die negativen Effekte noch stärker ausgeprägt als in Nordamerika und Europa. Ein Grund für divergierende Ergebnisse sieht Zierer in sich immer mehr anbahnenden und ausbreitenden Abhängigkeitsmechanismen: „Menschen, die bereits viel Zeit mit ihrem Smartphone verbringen, sind von der Abwesenheit des Smartphones mittlerweile sogar mehr gestresst als von der Anwesenheit."
+
+Dieses Ergebnis ist vor allem für Bildung und Erziehung hochrelevant, da Kinder und Jugendliche Smartphones besonders intensiv nutzen. Die Augsburger Forscher der Meta-Analyse, Tobias Böttger, Michael Poschik und Klaus Zierer, kommen in dieser Frage zu einer klaren Empfehlung: Der Gebrauch digitaler Medien muss aus pädagogischen Gründen reguliert, kontrolliert und begleitet werden. Medienerziehung müsse deshalb zwei Perspektiven umfassen: „Zum einen müssen insbesondere Kinder vor einer inhaltlich und zeitlich unkontrollierten Nutzung von Smartphones geschützt werden." Dafür seien auch generelle Verbote insbesondere in Schulen hilfreich, wie es zuletzt die UNESCO in ihrem Global Education Monitoring Report (2023) angesprochen habe. Hierbei sei vor allem an die Grundschule, aber auch an die Unterstufen der weiterführenden Schulen zu denken. „Zum anderen müssen schulische Konzepte entwickelt werden", argumentiert die Augsburger Forschergruppe in ihrem Artikel, „die Jugendliche an die Nutzung von Smartphones mit Augenmaß heranführen und dabei ein hohes Maß an Selbstreflexion und Eigenverantwortung in den Mittelpunkt stellen." Dies erfordere auch seitens der Lehrpersonen nicht nur technische Kenntnisse, sondern vor allem auch Wissen über das Ablenkungspotenzial von Smartphones und deren Einfluss auf Gedächtnis, Aufmerksamkeit und allgemeine kognitive Leistungen. „Es wäre unverantwortlich, die naive Nutzung digitaler Medien unreflektiert in pädagogische Kontexte zu übertragen", betont Zierer.
+
+**Originalpublikation:**\
+Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? A Meta-Analysis. Behav. Sci. 2023, 13, 751. <https://doi.org/10.3390/bs13090751>
+
+Bild: [Cyn Yoder / Pixabay](https://pixabay.com/de/users/cyndidyoder83-4721719/)

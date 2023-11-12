@@ -1,0 +1,81 @@
+project:
+  type: website
+  resources: 
+   - "uploads"
+   - .htaccess
+
+lang: de
+
+website:
+  title: "Tobias Maurer"
+  site-url: "https://maurer-online.eu"
+  navbar:
+    background: primary
+    left:
+      - href: empfehlungen/index.qmd
+        text: Empfehlungen
+      - href: medienskript/index.qmd
+        text: Medienskript
+      #- seminar.qmd
+      #- text: Downloads
+      - href: faq/index.qmd
+        text: Fragen und Tipps
+      - href: blog.qmd
+        text: Blog
+        
+      
+    right:
+      - href: about.qmd
+        text: Über mich
+      - icon: rss
+        href: index.xml
+  
+  sidebar:
+    - title: Empfehlungen
+      contents: empfehlungen
+    - title: Medienskript
+      contents: medienskript
+      
+  page-footer:
+    background: primary
+    border: true
+    center: 
+      - href: impressum.qmd
+      - href: about.qmd
+        text: Kontakt
+    right: |
+      <span>Built with [Quarto](https://quarto.org/)</span>
+      
+  search:
+    location: navbar
+    type: overlay
+  
+  back-to-top-navigation: true
+  page-navigation: true
+  
+
+bibliography: medienskript/references.bib
+#csl: springer-socpsych-brackets.csl
+
+
+format:
+  html:
+    theme: [custom.scss, sandstone]
+    css: styles.css
+    lang: de
+    backgroundcolor: "#FAF8F5"
+    fontsize: 1.25rem
+    linkcolor: "#325D88"
+    link-external-newwindow: true
+    link-external-icon: true
+    toc-expand: true
+    email-obfuscation: javascript
+     
+    grid: 
+      gutter-width: 1.2rem
+      
+    include-in-header:
+      - text: |
+          <script async src="https://analytics.umami.is/script.js" data-website-id="a14cbb87-c4fb-4e31-a596-071da2ea3700"></script>
+editor: visual
+

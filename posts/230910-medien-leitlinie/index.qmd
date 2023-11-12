@@ -1,0 +1,69 @@
+---
+title: "Erste offizielle Medien-Leitlinie veröffentlicht"
+date: "2023-09-10"
+categories: [news, empfehlungen, medienleitlinie]
+image: "thumbnail.jpg"
+---
+
+Im Juli 2023 wurde die offizielle „Leitlinie zur Prävention dysregulierten Bildschirmmediengebrauchs in Kindheit und Jugend" als gemeinsame Empfehlung von zehn deutschen Fachverbänden aus Medizin und Psychologie sowie der Bundeszentrale für gesundheitliche Aufklärung (BZgA) auf dem Leitlinienportal der [AWMF](/posts/230910-medien-leitlinie/index.qmd#was-ist-die-awmf) publiziert. Die Universität Witten/Herdecke hat die Koordination der Leitlinienerstellung übernommen.
+
+![](thumbnail.jpg)
+
+In der Leitlinie werden sowohl allgemeine als auch altersspezifische Empfehlungen zum Bildschirmmediengebrauch gegeben. Darüber hinaus gibt Empfehlungen für die Schule (Fernunterricht), für Eltern und Geschwister als Vorbilder und Vorgehensweisen für den Fall der übermäßigen Bildschirmmediennutzung.
+
+In der Leitlinie werden auch die Hauptrisiken der Mediennutzung in der Kindheit analysiert:
+
+-   Übergewicht
+-   Schlafstörungen
+-   Augenerkrankungen
+-   Entwicklungsstörungen in Motorik und Sprache
+-   Bindungsstörungen
+-   Verhaltensstörungen
+-   Internetsucht
+-   Mobbing und sexuelle Belästigung
+-   Glücksspiel
+-   Strahlung
+
+Außerdem werden Risiken von „Bildschirmmedien in der Schwangerschaft" beleuchtet und die Leitlinie geht auch auf das Thema „Bildschirmmedien für Kinder mit besonderen Bedürfnissen" ein.
+
+Sie finden hier eine bildschirmoptimierte Leseversion der vollständigen Leitlinie:
+
+```{=html}
+<p><a href="https://leitlinie.bildschirmfrei-bis-3.de" target="_blank"><button class="btn btn-primary">Jetzt lesen</button></a></p>
+```
+Hier finden Sie die Leitlinie im Original bei der AWMF: <https://register.awmf.org/de/leitlinien/detail/027-075>
+
+Für Eltern gibt es einen grafisch aufbereiten Flyer mit den wichtigsten Empfehlungen. Dieser ersetzt nicht die Lektüre der Medien-Leitlinie im Original.
+
+![](/images/eltern-ll.jpg)
+
+```{=html}
+<button class="btn btn-primary" data-umami-event="dl Elternversion" onclick="window.open('../../uploads/027-075eltern_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf')"><i class="bi bi-file-earmark-pdf"></i> Herunterladen</button>
+```
+### **Was ist die AWMF?**
+
+Bei der AWMF (Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V.) werden [Leitlinien](https://register.awmf.org/de/start) zur Verbesserung der medizinischen Versorgung und Vermittlung von aktuellem Wissen publiziert. Verantwortlich dafür sind Fachgesellschaften, die mit dem jeweiligen Thema Berührungspunkte haben. Im Fall der Medienleitlinie die
+
+-   Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V. (DGKJ)
+
+-   Deutsche Gesellschaft für Suchtforschung und Suchttherapie e.V. (DG-Sucht)
+
+-   Deutsche Gesellschaft für Sozialpädiatrie und Jugendmedizin e.V. (DGSPJ)
+
+-   Deutsche Gesellschaft für Sozialmedizin und Prävention e.V. (DGSMP)
+
+-   Berufsverband der Kinder- und Jugendärzt\*innen e. V. (BVKJ)
+
+-   Gesellschaft für Seelische Gesundheit in der Frühen Kindheit (GAIMH)
+
+-   Bundeszentrale für gesundheitliche Aufklärung (BZgA)
+
+-   Deutsche Gesellschaft für Hebammenwissenschaft e.V. (DGHWi)
+
+-   Deutsche Gesellschaft für Psychologie e.V. (DGPs)
+
+Sowie der
+
+-   Bundesverband der Ärztinnen und Ärzte des öffentlichen Gesundheitsdienstes e. V. (BVÖGD)
+
+-   Fachverband Medienabhängigkeit e.V.

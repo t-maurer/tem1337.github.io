@@ -1,0 +1,54 @@
+project:
+  type: book
+  output-dir: skript-seminar
+  
+book:
+  title: "Skript-RSI"
+  author: 
+    name: "Tobias Maurer"
+    url: https://maurer-online.eu
+    email: tobias@maurer-online.eu
+  date: August 2023
+  date-format: "MMMM YYYY"
+  site-url: https://example.com
+  downloads: [pdf, epub]
+  body-header: | 
+    This page brought to you by <https://example.com>
+  chapters:
+      - index.qmd
+      - part: Teil I
+        chapters:
+        - 01-kindesentwicklung.qmd
+        - 02-medienpaedagogik.qmd
+        - 03-eigenschaften-medien.qmd
+        - 04-mediennutzung.qmd
+        - 05-medienmuendigkeit.qmd
+        - 06-chancen-risiken.qmd
+        - 07-gesundheitsquellen.qmd
+        - 100-literatur.qmd
+
+
+bibliography: references.bib
+lang: de
+
+format:
+  html:
+
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    link-external-icon: true
+    theme: sandstone
+    include-in-header:
+      - text: |
+          <script src="https://examples.org/demo.js"></script>
+          
+
+  pdf:
+    documentclass: scrreprt
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+
+editor: visual
+

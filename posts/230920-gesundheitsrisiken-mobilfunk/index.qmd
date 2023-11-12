@@ -1,0 +1,56 @@
+---
+title: "Umfassender wissenschaftlicher Review zu Gesundheitsrisiken von Mobilfunk- und WLAN-Strahlung"
+date: "2023-09-20"
+categories: [studie, strahlung, mobilfunk, wlan, empfehlungen]
+image: "thumbnail.jpg"
+toc: true
+draft: false
+---
+
+Ein internationales Team mit Experten aus den Bereichen Medizin, Epidemiologie, Toxikologie, Physik, Bioverfahrenstechnik und dem öffentlichen Gesundheitswesen untersuchte die Gefährdung durch Strahlung von Drahtlostechnologien, insbesondere für Kinder.
+
+## Ergebnisse
+
+Die Autoren werteten über 250 Studien aus. Sie weisen folgende Auswirkungen von Mobilfunkstrahlung nach:
+
+-   Schädigung der Fortpflanzungsfähigkeit, insbesondere der Spermien
+
+-   Auswirkungen pränataler Bestrahlung des Embryos auf die postnatale Entwicklung
+
+-   Beeinträchtigung der Entwicklung von Gehirn und Gedächtnis
+
+-   Entwicklungsverzögerungen und Verhaltensauffälligkeiten
+
+-   Erhöhte Krebsraten in jüngerem Alter von Kindern und bei jungen Erwachsenen
+
+-   Psycho-soziale Auswirkungen wie Bindungsstörungen, Sucht und gestörtes Sozialverhalten.
+
+Zudem wird auf zahlreiche Studien über die zugrundeliegenden Wirkungsmechanismen verwiesen, insbesondere zu oxidati­vem Stress, eine Ursache entzündlicher Erkrankungen, und von DNA-Schäden.
+
+Die Autoren stellen fest, dass die Grenzwerte für den Schutz von Menschen gegenüber Mobilfunkstrahlung nicht mehr dem Stand der Wissenschaft entsprechen. Der Schutz der Menschen ist durch sie nicht gewährleistet.
+
+## Präventionsmaßnahmen
+
+Die Experten fordern eine Prävention durch Aufklärung und formulieren Tipps für Familien, um die Exposition ihrer Kinder zu minimieren. Die wichtigsten Maßnahmen sind unter anderem, ...
+
+-   ...strahlende Geräte von Gehirn und Körper fernzuhalten Dazu gehört auch, Mobiltelefone im Freisprechmodus zu verwenden und möglichst auch auf drahtlose Headsets zu verzichten.
+
+-   ...dass Eltern, wenn sie ihr Kind auf dem Arm halten, keine Drahtlosgeräte nutzen.
+
+-   ...WLAN-Router nicht in Bereichen aufzustellen, wo Kinder schlafen oder spielen.
+
+-   ...WLAN- und Drahtlosverbindungen nachts auszustellen.
+
+-   ...wenn immer möglich, kabelgebundene Verbindungen zu nutzen.
+
+In einem eigenen Leitfaden schlagen sie unter anderem auch spezifische Maßnahmen zur Verringerung der Exposition in Schulen vor. Weiterhin wird auf zahlreiche Empfehlungen anderer US-Gesundheitsbehörden zur Reduzierung der Funkstrahlung zu Hause und in der Schule verwiesen.
+
+diagnose:funk hat die Studie auf deutsch übersetzt, dazu gibt es ein Faktenblatt mit den wichtigsten Informationen im Überblick.
+
+[Hier weiterlesen](https://diagnose-funk.org/2004)
+
+#### **Quellen**
+
+Davis, D., Birnbaum, L., Ben-Ishai, P., Taylor, H., Sears, M., Butler, T., & Scarato, T. (2023). Wireless technologies, non-ionizing electromagnetic fields and children: Identifying and reducing health risks. *Current Problems in Pediatric and Adolescent Health Care*, *53*(2), 101374. <https://doi.org/10.1016/j.cppeds.2023.101374>
+
+Bild: [Rayyân BEN RAHMA / Unsplash](https://unsplash.com/de/@rayyanbrh)
