@@ -1,7 +1,7 @@
 ---
 title: "Warum wir so viel Zeit am Handy verbringen"
 date: 2023-10-15
-#date-modified: 2023-11-13
+date-modified: 2023-11-13
 categories: [smartphone, produktbindung, apps, abhängigkeit, sucht]
 image: "thumbnail.jpg"
 description: "" 
@@ -17,9 +17,23 @@ Kennen Sie das? Eigentlich wollten Sie nur eben etwas auf Ihrem Smartphone nachs
 
 Wir verbringen oft mehr Zeit als nötig vor dem Bildschirm und das ist Absicht! Viele Anwendungen und Online-Dienste setzen gezielt Mechanismen ein, die uns an das Produkt binden sollen. Das ist nicht neu und gilt für Cornflakes genauso wie für den Streamingdienst. Die digitalen Methoden uns an den "Haken" zu nehmen sind teilweise simpel, teilweise kommen aber auch hocheffiziente Algorithmen zum Einsatz. So werden beispielsweise Nachrichten oder Videos, die den persönlichen Interessen entsprechen, mit solchen vermischt, die man weniger interessant findet. Was ich mag habe ich der App entweder mitgeteilt, und/oder die App ermittelt es anhand meiner Nutzungs- und Suchmuster. Und so geht man immer noch ein bisschen weiter, man könnte ja noch etwas verpassen. Darauf wird aber direkt abgezielt: FOMO (Fear Of Missing Out) beschreibt den Effekt, der diese Angst ständig anspricht.
 
-Das perfide daran: **Selbst wenn man die Methoden kennt, ist man nicht vor ihnen gefeit!**
+In den Apps wird auch viel mit sogenannten [salienten (auffälligen) Reizen](https://de.wikipedia.org/wiki/Salienz) gearbeitet, die aus einem bestimmten Kontext hervorgehoben sind, dadurch leichter wahrgenommen werden und somit auch unserem Bewusstsein besser zugänglich sind.
 
-Im Folgenden seien deshalb die gängigsten dieser Methoden kurz vorgestellt:
+Auf saliente Reize trifft unter anderem zu, dass sie...
+
+-   ...besonders intensiv sind
+
+-   ...einen hohen Neuigkeitswert haben
+
+-   ...ein bestimmtes Bedürfnis erfüllen
+
+-   ...in bestimmten, oft unerwarteten Kontexten auftreten
+
+So haben z. B. App-Benachrichtigungen oft einen farbigen Marker (meistens rot), der über dem App-Logo erscheint, bei besonders auffällige Benachrichtigungen fängt das ganze Icon an zu pulsieren etc., kurz, man kann kann gar nicht anders als hinzusehen und zu reagieren.
+
+Das perfide an all diesen Mechanismen ist aber: **Selbst wenn man die Methoden kennt, ist man nicht vor ihnen gefeit!**
+
+Im Folgenden seien deshalb die Gängigsten kurz vorgestellt:
 
 ### Pull-to-Refresh
 
@@ -59,4 +73,3 @@ Immer wieder Thema bei solchen Spielen sind virtuelle Währungen, die man sich i
 
 Auch sogenannte [Lootboxen](https://de.wikipedia.org/wiki/Lootbox), virtuelle Behälter in Computerspielen, die eine zufällige Sammlung bestimmter Items, zum Beispiel Waffen und spezielle Gegenstände, enthalten stehen immer wieder als glücksspielähnliche Elemente in der Kritik. Die Boxen können im Spiel freigeschaltet, gefunden oder gekauft werden. Der Kauf kann dabei durch eine Spielewährung oder Echtgeld stattfinden.\
 *Weitere Infos:* <https://www.schau-hin.info/sicherheit-risiken/lootboxen-gefahr-fuer-kinder>
-
