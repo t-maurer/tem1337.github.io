@@ -11,9 +11,9 @@ draft: false
 
 Eine systematische Literaturrecherche, bei der 28 Studien aus den letzten 10 Jahren mit Daten von Kindern bis 17 Jahre ausgewählt wurden, zeigen einen wechselseitigen Zusammenhang zwischen der Nutzung digitaler Medien und ADHS-Symptomen bei Kindern und Jugendlichen.
 
-*Veröffentlicht: 2022 in "European Child & Adolescent Psychiatry"*
+*Veröffentlicht: [2022 in "European Child & Adolescent Psychiatry"](#sec-sources)*
 
-![](thumbnail.jpg)
+![<span class="img-credits">Bild: [Chen / Pixabay](https://pixabay.com/de/users/chenspec-7784448/)</span>](thumbnail.jpg){fig-align="left"}
 
 ## Ausgangssituation
 
@@ -73,8 +73,6 @@ Zusammenfassend lässt sich sagen, dass Kinder mit ADHS-Symptomen möglicherweis
 
 Die Autoren betonen jedoch, dass die Durchführung weiterer Studien zur Untersuchung potenzieller Moderatoren und Mediatoren erforderlich sind, um die komplexen Zusammenhänge zwischen der Nutzung digitaler Medien und ADHS-Symptomen besser zu verstehen.
 
-#### **Quellen**
+#### Quellen {#sec-sources}
 
 Thorell, L. B., Burén, J., Ström Wiman, J., Sandberg, D., & Nutley, S. B. (2022). Longitudinal associations between digital media use and ADHD symptoms in children and adolescents: a systematic literature review. *European Child & Adolescent Psychiatry*. <https://doi.org/10.1007/s00787-022-02130-3>
-
-Bild: [Chen / Pixabay](https://pixabay.com/de/users/chenspec-7784448/)

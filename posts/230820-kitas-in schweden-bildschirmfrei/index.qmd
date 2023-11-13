@@ -5,7 +5,7 @@ categories: [news, schule, kita, politik]
 image: "thumbnail.jpg"
 ---
 
-![](thumbnail.jpg){fig-align="left"}
+![[Bild: [Pavel Danilyuk / Pexels](https://www.pexels.com/@pavel-danilyuk/)]{.img-credits}](thumbnail.jpg){fig-align="left"}
 
 Die schwedische Digitalisierungsstrategie von 2017 verlangte, dass in in Grundschulen und Kitas jedes Kind das Recht auf ein Tablet hat und dieses auch benutzt werden muss. Forscher\*innen der Karolisnka Universität hatten daraufhin Alarm geschlagen. Nun hat Bildungsministerin Lotta Edholm diesen Beschluss wieder aufgehoben.
 
@@ -19,5 +19,3 @@ Interessant ist, dass 2020 die Vereinigung der Waldorfkindergärten in Schweden 
 #### Quellen
 
 Weitere Hintergründe: <https://www.diagnose-funk.org/aktuelles/artikel-archiv/detail&newsid=1991>
-
-Bild: [Pavel Danilyuk / Pexels](https://www.pexels.com/@pavel-danilyuk/)

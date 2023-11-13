@@ -102,6 +102,26 @@ h1 {
   display: none;
 }
 
+
+/*bildunterschriften anpassen*/
+.figure-img{
+  margin-bottom: 0;
+}
+
+figcaption {
+  margin-top: 0 !important;
+  display: inline-block;
+  font-size: 0.8rem;
+}
+
+.img-credits, .img-credits a {
+  color: #737470;
+}
+
+.img-credits{
+  margin-left: .25rem;
+}
+
 /*news*/
 .news ul{
   padding: 0;

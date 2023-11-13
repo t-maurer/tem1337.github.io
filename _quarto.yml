@@ -67,7 +67,7 @@ format:
     fontsize: 1.25rem
     linkcolor: "#325D88"
     link-external-newwindow: true
-    link-external-icon: true
+    link-external-icon: false
     toc-expand: true
     email-obfuscation: javascript
      

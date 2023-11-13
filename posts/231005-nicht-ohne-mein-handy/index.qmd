@@ -10,7 +10,7 @@ draft: false
 
 **Kinder, Jugendliche und Erwachsene müssen sich immer öfter eingestehen: Wir sind süchtig!**
 
-![](thumbnail.jpg)
+![[Bild: Screenshot aus der Dokumentation]{.img-credits}](thumbnail.jpg){fig-align="left"}
 
 **Link zur Sendung: <https://tv.orf.at/program/orf1/dok366.html>**
 
@@ -24,6 +24,5 @@ Dr. Oliver Scheibenbogen vom Anton-Proksch Institut demonstriert in einem Experi
 
 Eine komplette Handyabstinenz ist in der heutigen Zeit für die meisten Menschen ausgeschlossen. Doch auch hier gilt: Die Dosis macht das Gift. Aber wie bekommt man das Problem in den Griff? Geht alles über die Eigenverantwortung oder ist doch die Politik gefordert? Diesen Fragen geht Lisa Gadenstätter in der Dok1 auf den Grund.
 
-**Quellen:**\
-Text: Beschreibung im Original übernommen\
-Bild: Screenshot aus der Dokumentation
+#### Quellen: 
+Text: Beschreibung im Original übernommen 

@@ -5,7 +5,7 @@ categories: [studie, sprache, kognition]
 image: "thumbnail.jpg"
 ---
 
-![](thumbnail.jpg){fig-align="left"}
+![<span class="img-credits">Bild: [Mylene2401 / Pixabay](https://pixabay.com/de/users/10328767/)</span>](thumbnail.jpg){fig-align="left"}
 
 Bereits 2010 wurde eine Untersuchung durchgeführt, um festzustellen, ob Dauer und Inhalt der Medienexposition bei 6 Monate alten Säuglingen mit der Entwicklung im Alter von 14 Monaten zusammenhängen. In Amerika, wo die Studie durchgeführt wurde, gilt die Empfehlung der amerikanischen Akademie der Kinderärzte: kein Bildschirm vor 2 Jahren. In Deutschland gilt: Bildschirmfrei bis 3.
 
@@ -16,5 +16,3 @@ Die Studie zeigte, dass bereits 30 Minuten täglicher Bildschirmkonsum von 6 Mon
 #### Quellen
 
 Tomopoulos, S., Dreyer, B. P., Berkule, S., Fierman, A. H., Brockmeyer, C., & Mendelsohn, A. L. (2010). Infant media exposure and toddler development. *Archives of Pediatrics & Adolescent Medicine*, *164*(12), 1105--1111. <https://doi.org/10.1001/archpediatrics.2010.235>
-
-Bild: [Mylene2401 / Pixabay](https://pixabay.com/de/users/10328767/)
