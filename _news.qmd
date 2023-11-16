@@ -6,6 +6,24 @@ callout-icon: false
 ::: news
 -   
 
+    ##### **15. November**
+
+    KI wird uns alle retten! Jetzt auch davor, dass wir uns für unsere Kinder ständig neue Geschichten ausdenken müssen. [Denn jetzt soll die Toniebox, die uns bisher davor rettet unseren Kindern vorlesen zu müssen, dank KI auch Geschichten "erfinden" können](https://www.heise.de/news/ChatGPT-im-Kinderzimmer-Toniebox-plant-Integration-9497640.html). Das geht ganz einfach in dem man ein Thema, den Namen und das Alter (damit der Inhalt angemessen ist) des Kindes angibt, und fertig ist die Geschichte, in der das eigene Kind endlich der Titelheld sein kann. Es gibt natürlich einen kleinen Haken:
+
+    > ChatGPT kann schon aus knappen Prompts Märchen oder kurze Geschichten generieren -- die Qualität ist allerdings offen bis fragwürdig.\
+    > \[...\]\
+    > Problematisch ist freilich, dass ChatGPT auch mal halluziniert. Das heißt, die Geschichten können im Zweifel Lücken in der Handlung haben, aber auch problematische Inhalte wiedergeben. Eine Moral von der Geschicht ist nicht unbedingt zu erwarten, kann es aber geben.
+
+    Aber natürlich gibt es Sicherheitsmechanismen die verhindern, dass pornographische oder gewaltvolle Inhalte generiert werden. Damit ist die Sache also supersicher und kann zukünftig in die Kinderzimmer Einzug halten.
+
+-   
+
+    ##### **14. November 2023**
+
+    [Nepal vebietet Tik-Tok](https://www.heise.de/news/Nepal-beschliesst-TikTok-Verbot-9466624.html). Alle anderen Sozialen-Netzwerke, die in Nepal tätig sind, müssen Verbindungsbüros in dem Land einrichten.
+
+-   
+
     ##### **12. November 2023**
 
     Der Meta-Konzern (Facebook, Instagram etc.) sieht sich aktuell mit dem [Vorwurf der vorsätzlichen Gefährdung Jugendlicher](https://www.heise.de/news/Instagram-Meta-muss-sich-wegen-Gefaehrdung-Jugendlicher-in-den-USA-verantworten-9358881.html) konfrontiert und wird vom US-Bundesstaat Massachusetts angeklagt. Zur Debatte stehen unter anderem die bewusst eingesetzten Mechanismen, Nutzer in der App zu halten und sie zu bewegen, diese auch immer wieder aufzurufen, gepaart mit zu laxen Zugangsbeschränkungen für Instagram (in den USA erst ab 13 Jahren freigegeben) und damit der bewussten Inkaufnahme, Kinder, die noch nicht über die nötigen Kontrollmechanismen sich diesen Produktdesigns willentlich zu entziehen verfügen, zu schädigen.
@@ -22,7 +40,7 @@ callout-icon: false
 
     ##### **8. November 2023**
 
-    Kennen Sie das: Sie loggen sich aus dem Netzwerk aus und auf Ihrem Gerät sind alle Daten gelöscht? Klingt komisch, ist aber jetzt einer einer [Abi-Klasse aus Koblenz](https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/koblenz-schul-app-panne-abiturienten-verlieren-unterrichtsnotizen-100.html) passiert. Unterrichtsmaterial, Notizen, alles weg, weil ja alles nur noch digital verarbeitet wird. Das ist natürlich Pfusch, denn eine Netzwerkpanne löscht normalerweise keine Daten, aber Pfusch kommt eben schonmal vor. Gut, dass es Backups gibt. Oh, Moment: Offensichtlich hat keiner die Schüler darüber informiert, dass sowas sinnvoll ist und sie sich selber darum kümmern müssen:
+    Kennen Sie das: Sie loggen sich aus dem Netzwerk aus und auf Ihrem Gerät sind alle Daten gelöscht? Klingt komisch, ist aber jetzt zwei [Abi-Klassen aus Koblenz](https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/koblenz-schul-app-panne-abiturienten-verlieren-unterrichtsnotizen-100.html) passiert. Unterrichtsmaterial, Notizen, alles weg, weil ja alles nur noch digital verarbeitet wird. Das ist natürlich Pfusch, denn eine Netzwerkpanne löscht normalerweise keine Daten, aber Pfusch kommt eben schonmal vor. Gut, dass es Backups gibt. Oh, Moment: Offensichtlich hat keiner die Schüler darüber informiert, dass sowas sinnvoll ist und sie sich selber darum kümmern müssen:
 
     > Die Stadt Koblenz bedauert die Schwierigkeiten, die vor allem die Abiturienten jetzt haben. Sie betont aber auch, dass es wichtig sei, dass die Schülerinnen und Schüler immer wieder Kopien ihrer Dokumente für den Notfall abspeicherten. Allerdings räumt die Stadt auch ein: "Dies ist, wie wir jetzt wissen, jedoch nicht flächendeckend kommuniziert worden."
     >
