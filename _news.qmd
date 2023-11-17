@@ -14,7 +14,7 @@ callout-icon: false
     > \[...\]\
     > Problematisch ist freilich, dass ChatGPT auch mal halluziniert. Das heißt, die Geschichten können im Zweifel Lücken in der Handlung haben, aber auch problematische Inhalte wiedergeben. Eine Moral von der Geschicht ist nicht unbedingt zu erwarten, kann es aber geben.
 
-    Aber natürlich gibt es Sicherheitsmechanismen die verhindern, dass pornographische oder gewaltvolle Inhalte generiert werden. Damit ist die Sache also supersicher und kann zukünftig in die Kinderzimmer Einzug halten.
+    Aber natürlich gibt es Sicherheitsmechanismen die verhindern, dass pornographische oder gewaltvolle Inhalte generiert werden. Ja dann ist das Alles natürlich supersicher und kann zukünftig problemlos in die Kinderzimmer Einzug halten. Nicht.
 
 -   
 
