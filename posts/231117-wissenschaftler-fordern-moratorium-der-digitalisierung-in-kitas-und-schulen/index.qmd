@@ -1,0 +1,107 @@
+---
+title: "Wissenschaftler fordern Moratorium der Digitalisierung in KITAs und Schulen"
+date: 2023-11-17T08:22
+categories: [pädagogik, bildung, digitalisierung, kita, grundschule, moratorium]
+#image: "thumbnail.jpg"
+description: "" 
+toc: true
+draft: false
+---
+
+*Kurzversion des Memorandums im Original von der [Gesellschaft für Bildung und Wissen e. V.](https://bildung-wissen.eu/fachbeitraege/wissenschaftler-fordern-moratorium-der-digitalisierung-in-kitas-und-schulen.html) übernommen.*
+
+#### **Zusammenfassung**
+
+Digitalisierung gilt derzeit im Bildungsbereich für alle Altersstufen als zeitgemäße Lösung von Bildungsfragen. Tatsächlich sind die Wirkungen und Nebenwirkungen digitaler Medien auf Entwicklungs-, Lern- und Bildungsprozesse wissenschaftlich oft ungeklärt. Vielmehr verdichten sich die wissenschaftlichen Hinweise auf enorme Nachteile und Schäden für die Entwicklungs- und Bildungsprozesse von Kindern und Jugendlichen durch digitale Medien. Im Sinne der Fürsorgepflicht öffentlicher Bildungseinrichtungen fordern wir daher ein Moratorium der Digitalisierung insbesondere der frühen Bildung bis zum Ende der Unterstufe (Kl. 6): Es müssen zuerst die Folgen der digitalen Technologien abschätzbar sein, bevor weitere Versuche an schutzbefohlenen Kindern und Jugendlichen mit ungewissem Ausgang vorgenommen werden. Diese haben nur ein Leben, nur eine Bildungsbiografie und wir dürfen damit nicht sorglos umgehen.
+
+Zu untersuchen sind insbesondere Fragen der medizinisch-psychologischen, der pädagogisch-didaktischen und der politisch-demokratietheoretischen Implikationen. Zu den wissenschaftlich fundierten Einsprüchen zählt etwa die Stellungnahme von fünf Professorinnen und Professoren des schwedischen Karolinska-Instituts. Sie warnen vor negativen Auswirkungen von Bildschirmmedien auf das Lernen und die Sprachentwicklung von Kindern. Der U.S. Surgeon General warnt vor den Folgen für die generelle mentale Gesundheit von Kindern und Jugendlichen durch längere Nutzungsdauer und das immer frühere Einstiegsalter bei Bildschirmmedien. Das korrespondiert mit Untersuchungen der Deutschen Gesellschaft für Kinder- und Jugendmedizin und Empfehlungen von Kinderärzten und Psychologen.
+
+Die UNESCO kritisiert im „2023 Global Education Monitor" darüber hinaus, dass bei aktuellen IT-Konzepten für Bildungseinrichtungen nicht das Lernen und der pädagogische Nutzen im Mittelpunkt stünden, sondern wirtschaftliche Interessen. Dazu kommen immer mehr Datenverarbeitungssysteme, die als „Künstliche Intelligenz" (KI) automatisiert beschulen und testen sollen, um fehlende Lehrkräfte zu ersetzen. Dabei hat zuletzt die Corona-Pandemie das Scheitern solcher Ersatzsysteme belegt. Der Deutsche Ethikrat warnt daher in seinen Empfehlungen zur „KI und Bildung" explizit vor der Ersetzung der Lehrkräfte durch Computerprogramme, die UNESCO empfiehlt den Umgang mit KI erst ab 13 Jahren.
+
+Es ist daher dringend notwendig, die einseitige Fixierung auf Digitaltechnik in KITAs und Schulen zu revidieren, um interdisziplinär und wissenschaftlich fundiert, mit Fokus auf Entwicklungs-, Lern- und Bildungsprozesse über IT und KI in Bildungseinrichtungen zu diskutieren. Bei Erziehung und Unterrichten muss das Wohl der Lernenden und die Wirksamkeit pädagogischen Handelns im Mittelpunkt stehen. Dazu fordern wir ein Moratorium und den öffentlichen Diskurs über die notwendigen pädagogischen Prämissen des Einsatzes digitaler Medien in Bildungseinrichtungen.
+
+Langfassung (9 Seiten, mit Unterschriften, PDF): [Wissenschaftler fordern Moratorium zu IT und KI in Schulen](https://xn--die-pdagogische-wende-91b.de/wp-content/uploads/2023/11/moratorium_pub_17nov23.pdf)
+
+Kurzfassung (3 Seiten; Zusammenfassung und Unterschriften, PDF): [Wissenschaftler fordern Moratorium zu IT und KI in Schulen](https://xn--die-pdagogische-wende-91b.de/wp-content/uploads/2023/11/moratorium_pub_17nov23_kurz.pdf)
+
+#### Erstunterzeichnerinnen und Erstunterzeichner
+
+**Prof. Dr. Volker Bank**, Technische Universität Chemnitz, Professur für Berufs- und Wirtschaftspädagogik, Chemnitz
+
+**Prof. Dr. med. Jürg Barben**, Leitender Arzt Pneumologie/Allergologie, Ostschweizer Kinderspital, St. Gallen
+
+**Prof. Dr. Peter Bender**, Universität Paderborn, Fakultät für Elektrotechnik, Informatik und Mathematik, Paderborn
+
+**Prof. em. Dr. Carl Bossard**, Gründungsrektor Pädagogische Hochschule PH Zug
+
+**Dr. Jutta Breithausen**, Bergische Universität Wuppertal, Fakultät für Human- und Sozialwissenschaften,Institut für Erziehungswissenschaft, Wuppertal
+
+**Prof. Dr. Ute Büchter-Römer**, apl. Professorin an der Humanwissenschaftlichen Fakultät der Universität zu Köln
+
+**Dr. med. Uwe Büsching**, Kinder und Jugendarzt, Bielefeld
+
+**Prof. Dr. Thomas Damberger**, Bildungs- und Erziehungswissenschaften im Kontext der Digitalisierung, Freie Hochschule Stuttgart
+
+**Prof. Dr. Karl-Heinz Dammer**, Pädagogische Hochschule Heidelberg, Institut für Erziehungswissenschaft
+
+**Prof. Dr. Dr. Thomas Fuchs**, Karl-Jaspers-Professor für Philosophie und Psychiatrie, Psychiatrische Universitätsklinik, Heidelberg
+
+**Dr. med. Dr. h.c. Michaela Glöckler**, Kinder-und Jugendärztin
+
+**Prof. Dr. Johannes Grebe-Ellis**, Universitätsprofessur für Physik und ihre Didaktik, Fakultät für Mathematik und Naturwissenschaften, Bergische Universität Wuppertal
+
+**Prof. Dr. Bernhard Hackl**, Karl-Franzens-Universität Graz, Institut für Schulpädagogik, Abteilung Schulpädagogik, Graz
+
+**Prof. Dr. Gaby Herchert**, Universität Duisburg-Essen, Fakultät für Geisteswissenschaften, Germanistik, Duisburg
+
+**Prof. Dr. habil. Edwin Hübner**, Lehrer und Medienpädagoge, Inhaber des von Tessin-Lehrstuhls für Medienpädagogik an der Freien Hochschule Stuttgart
+
+**Prof. Dr. Norbert Hungerbühler**, Departement Mathematik, ETH Zentrum, HG E63.1, Rämistrasse 101, CH-8092 Zürich
+
+**Universitätsprofessor a.D., Dr. rer. pol. Hans-Carl Jongebloed**, Universität Kiel, Institut für Pädagogik, Lehrstuhl für Berufs- und Wirtschaftspädagogik
+
+**Prof. Dr. Rainer Kaenders**, Mathematisches Institut, Hausdorff Center for Mathematics, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn
+
+**Dr. Beat Kissling**, Psychologe und Erziehungswissenschaftler/Gymnasiallehrer, Zürich
+
+**Prof. em. Dr. Hans Peter Klein**, Didaktik der Biowissenschaften, Goethe Universität Frankfurt
+
+**Prof. Dr. Jochen Krautz**, Bergische Universität Wuppertal, Fakultät für Design und Kunst
+
+**Prof. em. Dr. Hans-Dieter Kübler**, Professor für Sozial-, Kultur- und Medienwissenschaften, Hochschule für Angewandte Wissenschaften Hamburg
+
+**PD Dr. Axel Bernd Kunze** (Univ. Bonn)
+
+**Prof. Dr. Volker Ladenthin**, Arbeitsbereich Bildungswissenschaft, Lehrstuhl für Historische und Systematische Erziehungswissenschaft, Bonn
+
+**Prof. Dr. phil. Ralf Lankau**, Fakultät Medien, HS Offenburg
+
+**Hon.Prof. Dr. Christoph Möller**, Chefarzt, Abteilung für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik, Zentrum für Kinder und Jugendliche, Hannover
+
+**Prof. Dr. Jürgen Rekus**, Institut für Allgemeine Pädagogik, Universitätsbereich im Karlsruher Institut für Technologie, Karlsruhe
+
+**Prof. Dr. Ingo Reuter**, Kulturwissenschaften, Univ. Paderborn
+
+**Prof. i. R. Dr. Christian Rittelmeyer**, Professor für Erziehungswissenschaft am Pädagogischen Seminar der Universität Göttingen
+
+**Dr. Klaus Rodens**, Kinder- und Jugendarzt, Angertorstr. 6, 89129 Langenau
+
+**Prof. Dr. Dr. Frauke Rostalski**, Institut für Strafrecht und Strafprozessrecht, Universität zu Köln, Köln
+
+**Prof. Dr. Thomas Sonar**, Institut Computational Mathematics, AG Partial Differantial Equations PDE, Technische Universität Braunschweig, Braunschweig
+
+**Prof. Dr. med. Dr. phil. Manfred Spitzer**, Ärztlicher Direktor der Klinik für Psychiatrie und Psychotherapie III
+
+**Prof. Dr. Gertraud Teuchert-Noodt**, Neurobiologin, ehem. Universität Bielefeld
+
+**Prof. Dr. Christoph Türcke**. em. Professor für Philosophie an der Hochschule für Grafik und Buchkunst Leipzig
+
+**Prof. Dr. Anke Wegner**, Institut für Germanistik, Didaktik der deutschen Sprache/Deutsch als Zweit- und Fremdsprache, Universität Trier
+
+**Prof. Dr. Ysette Weiss**, Institut für Mathematik, AG Fachdidaktik Mathematik, Johannes Gutenberg-Universität, Mainz
+
+**Prof. em. Dr. Dr.h.c Erich Ch.Wittmann**, Projekt Mathe 2000, Technische Universität Dortmund
+
+**Prof. Dr. Tomáš Zdražil**, Anthropologische und anthroposophische Grundlagen der Waldorfpädagogik, Freie Hochschule Stuttgart
+
+**Prof. Dr. Klaus Zierer**, Ordinarius für Schulpädagogik, Universität Augsburg
