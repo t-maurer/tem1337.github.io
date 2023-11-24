@@ -7,8 +7,8 @@ project:
 lang: de
 
 website:
-  title: "Tobias Maurer"
-  site-url: "https://maurer-online.eu"
+  title: "Medienbewusstsein"
+  site-url: "https://medienbewusstsein.de"
   navbar:
     background: primary
     left:

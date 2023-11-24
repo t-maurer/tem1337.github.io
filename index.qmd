@@ -22,7 +22,7 @@ grid:
 
 # Herzlich Willkommen! {#sec-herzlich-willkommen}
 
-Diese Webseite ist vorallem als vertiefende Anlaufstelle für meine Seminare und Elternabende zum Thema "Kindheitsentwicklung und digitale Medien" gedacht. Sie finden hier Informationen und vertiefende Ausführungen zum Thema, sowie Neuigkeiten und Beiträge zu aktuellen Entwicklungen.
+Diese Webseite ist vorallem als vertiefende Anlaufstelle für meine Seminare und Elternabende zum Thema **Kindheitsentwicklung und digitale Medien** gedacht. Sie finden hier Informationen und vertiefende Ausführungen zum Thema, sowie Neuigkeiten und Beiträge zu aktuellen Entwicklungen.
 
 ![](images/medienrisiken.png)
 
