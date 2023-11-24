@@ -6,6 +6,12 @@ callout-icon: false
 ::: news
 -   
 
+    ##### 23. November
+
+    Diese Kundenkarten, die man jetzt überall hat, sind natürlich supersicher, wie alles, wo man heutzutage freiwillig alle seine persönlichen Daten abliefert. [Blöd ist dann nur, wenn man seine Bestellungen (mit Adresse und allem drum&dran natürlich) auf einmal im Internet wiederfindet](https://www.golem.de/news/datenleck-bestelldaten-von-bauhaus-kunden-ueber-suchmaschine-auffindbar-2311-179670.html). Dann können das nämlich alle Anderen auch.
+
+-   
+
     ##### **15. November**
 
     KI wird uns alle retten! Jetzt auch davor, dass wir uns für unsere Kinder ständig neue Geschichten ausdenken müssen. [Denn jetzt soll die Toniebox, die uns bisher davor rettet unseren Kindern vorlesen zu müssen, dank KI auch Geschichten "erfinden" können](https://www.heise.de/news/ChatGPT-im-Kinderzimmer-Toniebox-plant-Integration-9497640.html). Das geht ganz einfach in dem man ein Thema, den Namen und das Alter (damit der Inhalt angemessen ist) des Kindes angibt, und fertig ist die Geschichte, in der das eigene Kind endlich der Titelheld sein kann. Es gibt natürlich einen kleinen Haken:
