@@ -1,0 +1,30 @@
+---
+callout-icon: false
+#https://jollydata.blog/posts/2022-08-06-_switching-to-quarto/switching-to-quarto.html
+---
+
+# Nachrichtenarchiv
+
+## 2023
+
+::: news
+-   
+
+    ##### **17. Oktober 2023**
+
+    Die Deutsche Hauptstelle für Suchtfragen (DHS) hat ihre [Empfehlungen zum richtigen Umgang](https://www.dhs.de/fileadmin/user_upload/WK_der_DHS_-_Empfehlungen_zum_Umgang_mit_Alkohol.pdf "DHS-Empfehlungen zum Alkoholkonsum") mit Alkohol angepasst:
+
+    > Alkoholkonsum sollte von jeder Person reduziert werden, unabhängig davon, wie viel sie trinkt. Am besten ist es, keinen Alkohol zu sich zu nehmen. Alkoholische Getränke bergen Risiken, wenn es um die physische Gesundheit der Menschen geht.
+
+    Vorher wurde immer noch eine gewisse Menge als unbedenklich eingestuft: Maximal 24 Gramm Reinalkohol pro Trinktag bei Männern und 12 Gramm bei Frauen, das entspricht zwei bzw. einem kleinen Bier.
+
+    Vielleicht kommen wir da mit den pädiatrischen Empfehlungen für die Nutzung digitaler Medien, der neuen Volksdroge, auch irgendwann hin.
+
+-   
+
+    ##### **15. September 2023**
+
+    [Wuppertaler Schulen müssen ungenutzte iPads in Betrieb nehmen](https://www1.wdr.de/nachrichten/rheinland/ipad-probleme-wuppertal-100.html) oder die Förderung zurückzahlen. Von 14.000 angeschafften iPads im Wert von 9 Millionen Euro laufen 60% nicht, da das Personal zur Einrichtung und Administration fehlt und auch der Papierkram für die umfangreichen Nutzungsverträge, die mit den Eltern geschlossen werden müssen, nicht zu bewältigen ist.
+
+    Am Ende profitiert also vor allem Apple, die Geräte sind bezahlt und geliefert. Und die Schüler hätten noch eine Zeit lang die Chance auf echte Medienkompetenz abseits von undurchsichtigen proprietären Digital-Ökosystemen.
+:::

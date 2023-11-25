@@ -6,7 +6,7 @@ callout-icon: false
 ::: news
 -   
 
-    ##### 23. November
+    ##### **23. November**
 
     Diese Kundenkarten, die man jetzt überall hat, sind natürlich supersicher, wie alles, wo man heutzutage freiwillig alle seine persönlichen Daten abliefert. [Blöd ist dann nur, wenn man seine Bestellungen (mit Adresse und allem drum&dran natürlich) auf einmal im Internet wiederfindet](https://www.golem.de/news/datenleck-bestelldaten-von-bauhaus-kunden-ueber-suchmaschine-auffindbar-2311-179670.html). Dann können das nämlich alle Anderen auch.
 
@@ -65,24 +65,4 @@ callout-icon: false
     Das wiederholte Ansehen solcher Darstellungen kann auf der einen Seite abstumpfend sein, im anderen Extrem zu einem starken Rückzugsverhalten führen, indem man ganz aufhört sich zu informieren. Auch das ist nicht weiter überraschend. Aber dass **der Stress, den ein Gewalt- oder Kriegsereignis bei Menschen auslöst, die (wiederholt) über die Medien davon erfahren, kurz- und langfristig z. T. sogar höher sein kann, als wenn man selber vor Ort gewesen wäre**, ist dann doch eine Meldung wert. Eine wissenschaftliche Erklärung dafür gibt es bisher nicht.
 
     [Das Interview mit der Neurowissenschaftlerin Maren Urner](https://www.nzz.ch/wissenschaft/welche-auswirkungen-haben-kriegsbilder-in-sozialen-medien-auf-unsere-psyche-ld.1761566) ist sehr informativ und lohnt sich in Gänze zu lesen.
-
--   
-
-    ##### **17. Oktober 2023**
-
-    Die Deutsche Hauptstelle für Suchtfragen (DHS) hat ihre [Empfehlungen zum richtigen Umgang](https://www.dhs.de/fileadmin/user_upload/WK_der_DHS_-_Empfehlungen_zum_Umgang_mit_Alkohol.pdf "DHS-Empfehlungen zum Alkoholkonsum") mit Alkohol angepasst:
-
-    > Alkoholkonsum sollte von jeder Person reduziert werden, unabhängig davon, wie viel sie trinkt. Am besten ist es, keinen Alkohol zu sich zu nehmen. Alkoholische Getränke bergen Risiken, wenn es um die physische Gesundheit der Menschen geht.
-
-    Vorher wurde immer noch eine gewisse Menge als unbedenklich eingestuft: Maximal 24 Gramm Reinalkohol pro Trinktag bei Männern und 12 Gramm bei Frauen, das entspricht zwei bzw. einem kleinen Bier.
-
-    Vielleicht kommen wir da mit den pädiatrischen Empfehlungen für die Nutzung digitaler Medien, der neuen Volksdroge, auch irgendwann hin.
-
--   
-
-    ##### **15. September 2023**
-
-    [Wuppertaler Schulen müssen ungenutzte iPads in Betrieb nehmen](https://www1.wdr.de/nachrichten/rheinland/ipad-probleme-wuppertal-100.html) oder die Förderung zurückzahlen. Von 14.000 angeschafften iPads im Wert von 9 Millionen Euro laufen 60% nicht, da das Personal zur Einrichtung und Administration fehlt und auch der Papierkram für die umfangreichen Nutzungsverträge, die mit den Eltern geschlossen werden müssen, nicht zu bewältigen ist.
-
-    Am Ende profitiert also vor allem Apple, die Geräte sind bezahlt und geliefert. Und die Schüler hätten noch eine Zeit lang die Chance auf echte Medienkompetenz abseits von undurchsichtigen proprietären Digital-Ökosystemen.
 :::
