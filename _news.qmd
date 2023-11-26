@@ -6,6 +6,12 @@ callout-icon: false
 ::: news
 -   
 
+    ##### **26. November**
+
+    [Eine knappe Mehrheit der deutschen Bevölkerung befürchtet inzwischen, dass die Digitalisierung zu mehr Ungleichheit im Sozialen und in der Bildung führt.](https://www.ifo.de/publikationen/2023/aufsatz-zeitschrift/chancenungleichheit-bildungssystem) Im Bildungssystem wird dies von 53% der Befragten erwartet (2017 waren es noch 44%), nur noch 13% erwarten keine größere Ungleichheit, 2017 waren es noch 51%.
+
+-   
+
     ##### **23. November**
 
     Diese Kundenkarten, die man jetzt überall hat, sind natürlich supersicher, wie alles, wo man heutzutage freiwillig alle seine persönlichen Daten abliefert. [Blöd ist dann nur, wenn man seine Bestellungen (mit Adresse und allem drum&dran natürlich) auf einmal im Internet wiederfindet](https://www.golem.de/news/datenleck-bestelldaten-von-bauhaus-kunden-ueber-suchmaschine-auffindbar-2311-179670.html). Dann können das nämlich alle Anderen auch.

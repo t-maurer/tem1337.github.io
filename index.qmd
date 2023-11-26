@@ -22,9 +22,9 @@ grid:
 
 # Herzlich Willkommen! {#sec-herzlich-willkommen}
 
-Diese Webseite ist vorallem als vertiefende Anlaufstelle für meine Seminare und Elternabende zum Thema **Kindheitsentwicklung und digitale Medien** gedacht. Sie finden hier Informationen und vertiefende Ausführungen zum Thema, sowie Neuigkeiten und Beiträge zu aktuellen Entwicklungen.
+Auf dieser Webseite finden Sie Informationen und vertiefende Ausführungen zum Thema **Kindheitsentwicklung und digitale Medien**, sowie Neuigkeiten und Beiträge zu aktuellen Entwicklungen.
 
-![](images/medienrisiken.png)
+![[Quellen](bildschirmrisiken.qmd)](images/medienrisiken.png)
 
 Für Kinder gibt es nahezu keine positiven Seiten der Nutzung von digitalen Medien! Dafür aber viele, die einer gesunden körperlichen, seelischen und geistigen Entwicklung im Wege stehen. Leider sind diese Auswirkungen oft nicht direkt sichtbar und zeigen sich erst zu späteren Zeitpunkten in der Entwicklung der Kinder und Jugendlichen. Deswegen sollen hier wissenschaftliche Erkenntnisse und allgemeine Entwicklungen zum Thema dargestellt werden.
 
