@@ -77,5 +77,9 @@ format:
     include-in-header:
       - text: |
           <script async src="https://analytics.umami.is/script.js" data-website-id="a14cbb87-c4fb-4e31-a596-071da2ea3700"></script>
+
+execute:
+  freeze: auto
+  
 editor: visual
 
