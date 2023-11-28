@@ -29,6 +29,28 @@ Mehr Infos unter: [www.echt-dabei.de/fuer-eltern](http://www.echt-dabei.de/fuer-
 </div>
 :::
 
+::: {layout-ncol="2"}
+<div>
+
+**Besteht bei Ihrem Kind die Gefahr einer möglichen digitalen Abhängigkeit?**
+
+Die folgenden Fragen können bei einer ersten Bewertung helfen, ob bei Ihrem Kind Merkmale einer möglichen Suchtgefährdung bezüglich digitaler Medien (z. B. Smartphone, Computer, Konsole, Internet) vorliegen. **Die Checkliste kann nur eine grobe Richtlinie darstellen und ersetzt keine Diagnostik!** Nehmen Sie dennoch jede positive Beantwortung ernst. Sofern fünf oder mehr Merkmale über einen längeren Zeitraum bei Ihrem Kind auftreten oder Sie unsicher sind, suchen Sie professionelle Hilfe auf.
+
+Mehr Infos unter: [www.klicksafe.de](https://www.klicksafe.de)
+
+</div>
+
+<div>
+
+![](/images/Checkliste_klicksafe_Digitale_Abhängigkeit.jpg)
+
+```{=html}
+<button class="btn btn-primary" onclick="window.open('../../uploads/Checkliste_klicksafe_Digitale_Abhängigkeit.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
+```
+
+</div>
+:::
+
 ## Links
 
 <https://www.echt-dabei.de/>
