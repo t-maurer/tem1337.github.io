@@ -13,13 +13,13 @@ website:
     background: primary
     left:
       - href: empfehlungen/index.qmd
-        text: Empfehlungen
+        text: Empfehlungen & Material
       - href: medienskript/index.qmd
-        text: Medienskript
+        text: Skript
       #- seminar.qmd
       #- text: Downloads
       - href: faq/index.qmd
-        text: Fragen und Tipps
+        text: Fragen & Tipps
       - href: blog.qmd
         text: Blog
         
