@@ -1,5 +1,5 @@
 ---
-title: "Weiterführende Empfehlungen, Materialien und Literatur"
+title: "Materialien und Literatur"
 toc: true
 ---
 

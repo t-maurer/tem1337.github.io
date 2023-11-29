@@ -5,11 +5,11 @@ toc: true
 
 ## Tipps & Tricks für den eigenen Medienumgang
 
--   Werden Sie auf die Zeitfresser aufmerksam, deaktivieren Sie z.B. die Autoplayfunktion bei YouTube, Netflix etc., setzen Sie sich selber (Zeit-)Limits
+-   Werden Sie auf die Zeitfresser aufmerksam, deaktivieren Sie z.B. die Autoplayfunktion bei YouTube, Netflix etc., setzen Sie sich selber (Zeit-)Limits.
 
--   Zeitfressende Apps und Spiele am besten ganz löschen. "Muss ich in jedem Sozialen Netzwerk aktiv sein?"
+-   Zeitfressende Apps und Spiele am besten ganz löschen. Fragen Sie sich auch, ob Sie in jedem "sozialen" Netzwerk aktiv sein müssen.
 
--   Schauen Sie sich die persönlichen Nutzungszeiten einzelner Apps an und versuchen Sie, da wo es sinnvoll ist, zu reduzieren. Man kann auch einen Nutzungstimer für einzelne Apps erstellen, dann lässt sich die App nach Ablauf der eingestellten Zeit nicht mehr öffnen.
+-   Schauen Sie sich die persönlichen Nutzungszeiten einzelner Apps an und versuchen Sie, da wo es sinnvoll ist, zu reduzieren. Man kann auch einen Nutzungstimer für einzelne Apps erstellen, dann lässt sich die App nach Ablauf der eingestellten Zeit nicht mehr öffnen (z.B. "Digital Wellbeing" Android, "Bildschirmzeit" iOS).
 
 -   Für konzentriertes Arbeiten und Lernen:
 
@@ -19,11 +19,11 @@ toc: true
 
     -   Mailprogramm schließen,
 
-    -   Smartphone lautlos stellen und aus dem Sichtfeld legen, am besten in einen anderen Raum,
+    -   Smartphone lautlos stellen und aus dem Sichtfeld legen, am besten in einen anderen Raum (siehe auch folgenden [Blogeintrag](/posts/230923-brain-drain-smartphone/)),
 
     -   In Pausen so wenig digitale Medien wie möglich nutzen, sonst werden schnell 5 Minuten zu einer halben Stunde ohne nennenswerten Erholungswert.
 
--   Handy weglegen, auch in der Wohnung nicht immer dabeihaben. Keine Geräte in Schlaf- und Kinderzimmer!
+-   Handy weglegen, auch in der Wohnung nicht immer dabeihaben. **Keine Geräte in Schlaf- und Kinderzimmer!**
 
 -   Probieren Sie auch den schwarz/weiß-Modus ihres Smartphones aus, es wird sofort an Attraktivität verlieren.
 
