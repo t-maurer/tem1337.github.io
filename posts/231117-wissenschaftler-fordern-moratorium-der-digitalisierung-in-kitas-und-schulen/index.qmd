@@ -3,7 +3,7 @@ title: "Wissenschaftler fordern Moratorium der Digitalisierung in KITAs und Schu
 date: 2023-11-17T08:22
 categories: [pädagogik, bildung, digitalisierung, kita, grundschule, moratorium]
 #image: "thumbnail.jpg"
-description: "" 
+description: "Digitalisierung gilt derzeit im Bildungsbereich für alle Altersstufen als zeitgemäße Lösung von Bildungsfragen. Tatsächlich sind die Wirkungen und Nebenwirkungen digitaler Medien auf Entwicklungs-, Lern- und Bildungsprozesse wissenschaftlich oft ungeklärt." 
 toc: true
 draft: false
 ---
