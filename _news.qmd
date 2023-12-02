@@ -6,6 +6,16 @@ callout-icon: false
 ::: news
 -   
 
+    ##### **1.  Dezember** 
+
+    Wegen der KI: [Uni in Prag schafft Bachelorarbeiten ab](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/erste-uni-schafft-wegen-ki-und-plagiaten-bachelorarbeiten-ab-19353621.html) (Paywall)...
+
+    ...und ersetzt sie möglicherweise durch etwas viel Sinvolleres:
+
+    > Wir werden den Abschluss des Bachelorstudiums auf eine praktische Art und Weise konzipieren, die viel weniger Raum für Plagiate lässt und von der die Studenten viel mehr nützliche Erfahrungen in ihr Leben mitnehmen werden.
+
+-   
+
     ##### **26. November**
 
     [Eine knappe Mehrheit der deutschen Bevölkerung befürchtet inzwischen, dass die Digitalisierung zu mehr Ungleichheit im Sozialen und in der Bildung führt.](https://www.ifo.de/publikationen/2023/aufsatz-zeitschrift/chancenungleichheit-bildungssystem) Im Bildungssystem wird dies von 53% der Befragten erwartet (2017 waren es noch 44%), nur noch 13% erwarten keine größere Ungleichheit, 2017 waren es noch 51%.
