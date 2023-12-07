@@ -3,10 +3,23 @@ callout-icon: false
 #https://jollydata.blog/posts/2022-08-06-_switching-to-quarto/switching-to-quarto.html
 ---
 
-::: news
 -   
 
-    ##### **1.  Dezember** 
+    ##### **7. Dezember**
+
+    "Pisa-Schock" (mal wieder): "[Deutsche Schüler so schlecht wie nie](https://www.tagesschau.de/inland/gesellschaft/pisa-studie-128.html)" (mal wieder):
+
+    > Knapp ein Drittel der 15-Jährigen hat in mindestens einem der drei getesteten Felder nur sehr geringe Kompetenzen. Etwa jeder sechste Jugendliche hat in allen drei Bereichen deutliche Defizite. Die Anteile dieser besonders leistungsschwachen Jugendlichen sind seit 2018 größer geworden und betragen in Mathematik rund 30 Prozent, im Lesen rund 26 Prozent und in den Naturwissenschaften rund 23 Prozent.
+    >
+    > Der Anteil der besonders leistungsstarken Schülerinnen und Schüler ist wiederum gesunken - in Mathematik auf knapp neun Prozent und im Lesen auf knapp acht Prozent. In den Naturwissenschaften blieb dieser Anteil bei etwa zehn Prozent stabil.
+
+    Was folgt? [Es wird viel geredet werden](https://www.tagesschau.de/inland/innenpolitik/pisa-ergebnisse-reaktionen-100.html) und anschließend vermutlich Symptombekämpfung betrieben, der zumindest zeitliche Zusammenhang mit der zunehmenden Smartphonenutzung wird dabei weitestgehen ausgeklammert. Dazu fehlen natürlich in den dringend sanierungsbedürftigen Schulen dieses dringend sanierungsbedürftigen Bildungssystem auch noch jede Menge nichtsanierungsbedürftige Lehrer.
+
+    [Dazu ein sehr lesenswertes Interview mit Prof. Gertraud Teuchert-Noodt](https://www.diagnose-funk.org/aktuelles/artikel-archiv/detail&newsid=2037)
+
+-   
+
+    ##### **1. Dezember**
 
     Wegen der KI: [Uni in Prag schafft Bachelorarbeiten ab](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/erste-uni-schafft-wegen-ki-und-plagiaten-bachelorarbeiten-ab-19353621.html) (Paywall)...
 
@@ -81,4 +94,3 @@ callout-icon: false
     Das wiederholte Ansehen solcher Darstellungen kann auf der einen Seite abstumpfend sein, im anderen Extrem zu einem starken Rückzugsverhalten führen, indem man ganz aufhört sich zu informieren. Auch das ist nicht weiter überraschend. Aber dass **der Stress, den ein Gewalt- oder Kriegsereignis bei Menschen auslöst, die (wiederholt) über die Medien davon erfahren, kurz- und langfristig z. T. sogar höher sein kann, als wenn man selber vor Ort gewesen wäre**, ist dann doch eine Meldung wert. Eine wissenschaftliche Erklärung dafür gibt es bisher nicht.
 
     [Das Interview mit der Neurowissenschaftlerin Maren Urner](https://www.nzz.ch/wissenschaft/welche-auswirkungen-haben-kriegsbilder-in-sozialen-medien-auf-unsere-psyche-ld.1761566) ist sehr informativ und lohnt sich in Gänze zu lesen.
-:::
