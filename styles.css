@@ -148,8 +148,17 @@ figcaption {
 	box-shadow: 0.15rem 0.15rem 0.5rem #bfccdb;
 }
 
+.news blockquote{
+	quotes: none;
+}
 
+<<<<<<< HEAD
 
+=======
+.news blockquote:before, .news blockquote:after{
+	content: '';
+	content: none;
+>>>>>>> c1852b70db6d3ecc56c03e933aff8b2e2247eb0d
 }
 /*
 .news blockquote{
