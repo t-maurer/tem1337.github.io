@@ -136,7 +136,7 @@ figcaption {
   padding: 0.8em 0.8em 0;
 	margin: 0.5em 0 0.8rem;
 }
-/*
+
 .news blockquote{
   background-color: #fff68b;
   background-image: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
@@ -147,15 +147,18 @@ figcaption {
 	transform: rotate(0.2deg);
 	box-shadow: 0.15rem 0.15rem 0.5rem #bfccdb;
 }
-*/
 
 .news blockquote{
 	quotes: none;
 }
 
+<<<<<<< HEAD
+
+=======
 .news blockquote:before, .news blockquote:after{
 	content: '';
 	content: none;
+>>>>>>> c1852b70db6d3ecc56c03e933aff8b2e2247eb0d
 }
 /*
 .news blockquote{
