@@ -149,13 +149,21 @@ figcaption {
 }
 */
 
+.news blockquote{
+	quotes: none;
+}
 
+.news blockquote:before, .news blockquote:after{
+	content: '';
+	content: none;
+}
+/*
 .news blockquote{
   color: #3e3f3a;
   background: linear-gradient(150deg, #efec88 0%, #fefabc 100%);
   border: 1px solid #cccccc;
   box-shadow: rgba(33, 35, 38, 0.1) 8px 10px 10px -10px;
-  /*transform:rotate(-0.4deg);*/
+  /*transform:rotate(-0.4deg);
   border-bottom-right-radius:60px 5px;
   
 }
@@ -188,7 +196,6 @@ figcaption {
 
 .news blockquote:after {
   content:"";
-  position: absolute;
   bottom: 14px;
   right: -1px;
   width: 100%;
@@ -196,6 +203,7 @@ figcaption {
   background-image: linear-gradient(173deg, rgba(0,0,0,0) 92%,
   rgba(0,0,0,0.4) 100%);
   transform: rotate(4deg);
+  position: absolute;
   z-index: -1;
   filter: blur(2px);
 }
@@ -207,6 +215,13 @@ figcaption {
 }
 
 @media screen and (max-width:575px){
+  .news blockquote{
+    display: flex;
+    width:400px;
+    align-items: center;
+    justify-content: center;
+  }
+  
   .news blockquote:after{
     bottom: 8px;
     height: 100px;
@@ -218,6 +233,15 @@ figcaption {
     height: 100px;
   }
 }
+@media screen and (min-width:768px) and (max-width:991px){
+  .news blockquote:after{
+    bottom: 8px;
+    height: 100px;
+  }
+}
+
+*/
+
 /* source-sans-3-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
