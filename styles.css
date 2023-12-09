@@ -38,12 +38,12 @@ h1 {
   text-transform: none !important;
 }
 
-@media (max-width: 1199px) {
+@media screen and (max-width: 1199px) {
   .nav-item .menu-text {
     font-size: 0.9rem;
   }
 }
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   .nav-item .menu-text {
     font-size: 1.1rem;
   }
@@ -193,114 +193,21 @@ figcaption {
   }
 }
 
-/*
-.news blockquote{
-  color: #3e3f3a;
-  background: linear-gradient(150deg, #efec88 0%, #fefabc 100%);
-  border: 1px solid #cccccc;
-  box-shadow: rgba(33, 35, 38, 0.1) 8px 10px 10px -10px;
-  border-bottom-right-radius:60px 5px;
-  
-}
-*/
 .news blockquote:nth-child(even) {
   transform: rotate(0.5deg);
 }
 .news blockquote:nth-child(3n) {
-  transform: rotate(-0.5deg);
+  transform: rotate(-0.9deg);
 }
 .news blockquote:nth-child(5n) {
   transform: rotate(2deg);
 }
-
-
-/*
-
-
-.news blockquote:before {
-  content: "";
-  background-color: rgba(0,0,0,0.025);
-  position: absolute;
-  width: 100%;
-  left: 0px;
-  top: 0;
-  height: 40px;
-  z-index: -1;
-}
-
-.news blockquote:after {
-  content:"";
-  position: absolute;
-  /*bottom: 0;
-  right: -4px;
-  height: 140px;
-  width: 100%;
-  background-image: linear-gradient(173deg, rgba(0,0,0,0) 92%,
-  rgba(0,0,0,0.4) 100%);
-  transform: rotate(6deg);
-  z-index: -1;
-  filter: blur(2px);
+.news blockquote:nth-child(6n) {
+  transform: rotate(-1.5deg);
 }
 
 
-@media screen and (max-width:575px){
-  .news blockquote{
-    width: 90%;
-    margin: 0 auto 1rem;
-  }
-  
-  .news blockquote:after{
-    bottom: 9px;
-    right: -1px;
-    height: 100px;
-  }
-}
-@media screen and (min-width:576px) and (max-width:767px){
-    .news blockquote{
-    width: 80%;
-    margin: 0 auto 1rem;
-  }
-  .news blockquote:after{
-    bottom: 15px;
-    right: -1px;
-    height: 120px;
-  }
-}
-@media screen and (min-width:768px) and (max-width:991px){
-  .news blockquote{
-    width: 80%;
-    margin: 0 auto 1rem;
-  }
-  .news blockquote:after{
-    bottom: 16px;
-    right: -1px;
-    height: 140px;
-  }
-}
 
-@media screen and (min-width:992px) and (max-width:1199px){
-  .news blockquote{
-    width: 80%;
-    margin: 0 auto 1rem;
-  }
-  .news blockquote:after{
-    bottom: 20px;
-    right: -1px;
-    height: 140px;
-  }
-}
-@media screen and (min-width:1200px) {
-  .news blockquote{
-    width: 80%;
-    margin: 0 auto 1rem;
-  }
-  .news blockquote:after{
-    bottom: 22px;
-    right: -1px;
-    height: 140px;
-  }
-}
-*/
 
 /* source-sans-3-regular - latin */
 @font-face {
