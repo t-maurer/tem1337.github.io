@@ -26,7 +26,10 @@ h1 {
     color: #fff;
   }
 }
-
+/*navbar-logo größer*/
+.navbar-logo{
+  max-height: 42px;
+}
 
 /* header menu */
 .nav-link{

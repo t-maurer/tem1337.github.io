@@ -9,8 +9,10 @@ lang: de
 website:
   title: "Medienbewusstsein"
   site-url: "https://www.medienbewusstsein.de"
+  favicon: images/logo.png
   navbar:
     background: primary
+    logo: images/logo.png
     left:
       - href: empfehlungen/index.qmd
         text: Empfehlungen & Material
