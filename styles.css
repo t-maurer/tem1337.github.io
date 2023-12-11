@@ -143,37 +143,36 @@ figcaption {
 }
 
 .news blockquote{
-  background-color: #fff68b;
-  background-image: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
-  color: #3e3f3a;
-  border: none;
   padding: 1.2em 0.8em;
 	margin: 0.5em 0.5em 1rem;
 	position: relative;
+	border: none;
+	color: inherit;
 }
 
-.news blockquote:before {
-  position: absolute;
-  content: '';
-  background: linear-gradient(to bottom, transparent 70%, #303030 100%);
-  width: 100%;
-  height: 100%;
-  top: 2%;
-  left: 0.25em;
-  opacity: 0.2;
-  filter: blur(0.3rem);
-  z-index: -100;
+blockquote::after {
+	content: '';
+	background-image: url(images/stripe.png), url(images/bg.png), linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
+	background-repeat: repeat-x, repeat, no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
 }
 
-.news blockquote:after {
-  content: "";
-  background-color: rgba(0,0,0,0.025);
-  position: absolute;
-  width: 100%;
-  left: 0px;
-  top: 0;
-  height: 40px;
-  z-index: -1;
+blockquote::before {
+	position: absolute;
+	content: '';
+	background: linear-gradient(to bottom, transparent 30%, black 100%);
+	width: 100%;
+	height: 100%;
+	top: 2%;
+	left: 0.25em;
+	opacity: 0.2;
+	filter: blur(0.3rem);
+	z-index: -1;
 }
 
 .news blockquote p{
