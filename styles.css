@@ -38,6 +38,11 @@ h1 {
   text-transform: none !important;
 }
 
+.navbar-toggler-icon{
+  width: 1.25em;
+  height: 1.25em;
+}
+
 @media screen and (max-width: 1199px) {
   .nav-item .menu-text {
     font-size: 0.9rem;
