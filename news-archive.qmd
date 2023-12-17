@@ -10,7 +10,7 @@ callout-icon: false
 ::: news
 -   
 
-    ##### **17. Oktober 2023**
+    ##### 17. Oktober 2023 {#seq-231017}
 
     Die Deutsche Hauptstelle für Suchtfragen (DHS) hat ihre [Empfehlungen zum richtigen Umgang](https://www.dhs.de/fileadmin/user_upload/WK_der_DHS_-_Empfehlungen_zum_Umgang_mit_Alkohol.pdf "DHS-Empfehlungen zum Alkoholkonsum") mit Alkohol angepasst:
 
@@ -22,7 +22,7 @@ callout-icon: false
 
 -   
 
-    ##### **15. September 2023**
+    ##### 15. September 2023 {#seq-230915}
 
     [Wuppertaler Schulen müssen ungenutzte iPads in Betrieb nehmen](https://www1.wdr.de/nachrichten/rheinland/ipad-probleme-wuppertal-100.html) oder die Förderung zurückzahlen. Von 14.000 angeschafften iPads im Wert von 9 Millionen Euro laufen 60% nicht, da das Personal zur Einrichtung und Administration fehlt und auch der Papierkram für die umfangreichen Nutzungsverträge, die mit den Eltern geschlossen werden müssen, nicht zu bewältigen ist.
 

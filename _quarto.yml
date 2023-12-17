@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
    - "uploads"
+   - "resources"
    - .htaccess
 
 lang: de
@@ -9,10 +10,10 @@ lang: de
 website:
   title: "Medienbewusstsein"
   site-url: "https://www.medienbewusstsein.de"
-  favicon: images/logo.png
+  favicon: resources/logo.png
   navbar:
     background: primary
-    logo: images/logo.png
+    logo: resources/logo.png
     left:
       - href: empfehlungen/index.qmd
         text: Empfehlungen & Material
@@ -64,7 +65,8 @@ format:
   html:
     theme: [custom.scss, sandstone]
     css: styles.css
-    lang: de
+    filters: [resources/pandoc-quotes.lua]
+    lang: de-DE
     backgroundcolor: "#FAF8F5"
     fontsize: 1.25rem
     linkcolor: "#325D88"

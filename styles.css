@@ -13,7 +13,6 @@ a:active{
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Montserrat', Garamond, serif;
-  font-weight: 500;
 }
 
 h1 {
@@ -22,7 +21,6 @@ h1 {
 }
 
 h2{
-  text-transform: uppercase;
   padding-bottom: 0.3rem;
   margin-bottom: 0.8rem;
 }
@@ -169,7 +167,7 @@ figcaption {
 
 .news blockquote::after {
 	content: '';
-	background-image: url(images/stripe.png), url(images/bg.png), linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
+	background-image: url(resources/stripe.png), url(resources/bg.png), linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
 	background-repeat: repeat-x, repeat, no-repeat;
 	position: absolute;
 	top: 0;
