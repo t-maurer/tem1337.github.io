@@ -8,8 +8,8 @@ project:
 lang: de
 
 website:
-  title: "Medienbewusstsein"
-  site-url: "https://www.medienbewusstsein.de"
+  title: "bewusstsein.digital"
+  site-url: "https://www.bewusstsein.digital"
   favicon: resources/logo.png
   navbar:
     background: primary
