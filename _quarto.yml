@@ -10,10 +10,10 @@ lang: de
 website:
   title: "bewusstsein.digital"
   site-url: "https://www.bewusstsein.digital"
-  favicon: resources/logo.png
+  favicon: resources/logo1.png
   navbar:
     background: primary
-    logo: resources/logo.png
+    logo: resources/logo1.png
     left:
       - href: empfehlungen/index.qmd
         text: Empfehlungen & Material
