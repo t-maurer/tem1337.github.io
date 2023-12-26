@@ -41,17 +41,13 @@ h2{
 /*navbar-logo größer*/
 @media screen and (max-width: 575px) {
   .navbar-logo{  
-    max-height: 2.2rem;
+    max-height: 2rem;
   }
 }
 
 @media screen and (min-width: 576px) {
-  .navbar-logo{  
-<<<<<<< HEAD
+  .navbar-logo{
     max-height: 2.5rem;
-=======
-    max-height: 55px;
->>>>>>> e65cd1fe4487458332a756991aa38c5336277681
   }
 }
 
