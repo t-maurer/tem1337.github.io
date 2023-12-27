@@ -1,6 +1,6 @@
 ---
 title: "Tobias Maurer"
-image: images/profile.jpg
+image: images/profile1.png
 link-external-icon: false
 email-obfuscation: javascript
 about:
