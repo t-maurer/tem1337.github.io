@@ -6,6 +6,16 @@ callout-icon: false
 ::: news
 -   
 
+    ##### 23. Dezember {#sec-231223}
+
+    China ist im Regulieren von Missständen ja bekanntlich nicht zimperlich. Nachdem erst 2021 strenge Spielzeitbeschränkungen für Minderjährige gesetzt wurden, [werden jetzt eine große Anzahl an Ausgaben- und Belohnungsmechanismen reguliert](https://www.reuters.com/world/china/china-issues-draft-rules-online-game-management-2023-12-22/). Dazu gehören bestimmte Spielbelohnungen, wie z. B. für den täglichen Login und auch die (Echtgeld-) Ausgaben, die Spieler machen dürfen. Die beiden größten Spielehersteller in China verloren auf diese Ankündigung schlagartig fast 80 Mrd. Dollar Marktwert.
+
+    ------------------------------------------------------------------------
+
+    **Nachtrag 25.12.:** Die chinesischen Behörden haben als ["Weihnachtskompensation" 105 neue Spiele zugelassen](https://www.heise.de/news/China-Massenzulassung-von-Online-Spielen-gegen-Kursstuerze-9582739.htmle-game-management-2023-12-22/), so viel wie seit anderthalb Jahren nicht.
+
+-   
+
     ##### 15. Dezember {#seq-231215}
 
     Nachdem Schweden angekündigt hat, in der Digitalisierung von Kindergärten und Grundschulen die [Rolle rückwärts](posts/230820-kitas-in%20schweden-bildschirmfrei) zu machen, wird es jetzt konkret: [Das (Schul-)Buch ist zurück und wird liebevoll eingeführt](https://www.tagesschau.de/ausland/europa/schweden-schulen-buecher-100.html):
