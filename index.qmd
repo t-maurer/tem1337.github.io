@@ -1,6 +1,6 @@
 ---
 title: |
-  <p style="font-family: Montserrat, Garamond, serif; font-weight: normal; color: #fff;">Digitalisierung -- Entwicklung -- Pädagogik</p>
+  <p style="font-family: 'Source Sans 3', Arial, sans-serif; font-weight: 300; color: #fff;">Digitalisierung -- Entwicklung -- Pädagogik</p>
 
 listing:
   contents: posts
