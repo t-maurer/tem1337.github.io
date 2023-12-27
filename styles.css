@@ -40,16 +40,23 @@ h2{
 
 /*navbar-logo größer*/
 @media screen and (max-width: 575px) {
-  .navbar-logo{  
-    max-height: 2rem;
+  .navbar-logo{ 
+    max-height: 1.5rem;
   }
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 576px) and (max-width: 1199px) {
   .navbar-logo{
+    max-height: 1.9rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .navbar-logo {
     max-height: 2.5rem;
   }
 }
+
 
 /* header menu */
 .nav-link{
