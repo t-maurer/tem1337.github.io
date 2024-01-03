@@ -4,16 +4,15 @@ callout-icon: false
 ---
 
 ::: news
+-   
 
--
+    ##### 3. Januar
 
-   ##### 3. Januar {#sec-240103}
+    Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
 
-   Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
+    > Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
 
-> Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
-
-In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden. 
+    In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden.
 
 -   
 
@@ -130,5 +129,4 @@ In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden
     Das wiederholte Ansehen solcher Darstellungen kann auf der einen Seite abstumpfend sein, im anderen Extrem zu einem starken Rückzugsverhalten führen, indem man ganz aufhört sich zu informieren. Auch das ist nicht weiter überraschend. Aber dass **der Stress, den ein Gewalt- oder Kriegsereignis bei Menschen auslöst, die (wiederholt) über die Medien davon erfahren, kurz- und langfristig z. T. sogar höher sein kann, als wenn man selber vor Ort gewesen wäre**, ist dann doch eine Meldung wert. Eine wissenschaftliche Erklärung dafür gibt es bisher nicht.
 
     [Das Interview mit der Neurowissenschaftlerin Maren Urner](https://www.nzz.ch/wissenschaft/welche-auswirkungen-haben-kriegsbilder-in-sozialen-medien-auf-unsere-psyche-ld.1761566) ist sehr informativ und lohnt sich in Gänze zu lesen.
-
 :::
