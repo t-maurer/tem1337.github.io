@@ -4,6 +4,16 @@ callout-icon: false
 ---
 
 ::: news
+-
+
+##### 3. Januar {#sec-240103}
+
+Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
+
+> Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
+
+In den USA ist dies wohl schon häufiger durchgeführt worden. 
+
 -   
 
     ##### 23. Dezember {#sec-231223}
