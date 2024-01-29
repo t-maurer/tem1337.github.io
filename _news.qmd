@@ -3,6 +3,21 @@ callout-icon: false
 #https://jollydata.blog/posts/2022-08-06-_switching-to-quarto/switching-to-quarto.html
 ---
 
+::: nentry
+##### 25. Januar {#sec-240125}
+
+Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere Firmen einbrechen. [Nun macht die Regierung offenbar einen Rückzieher.](https://www.heise.de/news/China-macht-offenbar-Rueckzieher-bei-strengeren-Spieleregeln-9600939.html) 
+:::
+
+::: nentry
+
+##### 19. Januar {#sec-240119}
+
+[Materialismus in sozialen Medien führt zu erhöhtem Stress und macht unglücklich](https://news.rub.de/presseinformationen/wissenschaft/2024-01-19-psychologie-warum-materialismus-sozialen-medien-stresst-und-ungluecklich-macht), hat man jetzt in Bochum herausgefunden. Dazu wurden über 1.200 Menschen befragt. Es zeigte sich, dass eine stärkere materialistische Orientierung mit einer größeren Tendenz einhergeht, sich mit anderen zu vergleichen. Dies geschieht meist passiv, rein durch das Betrachten von Inhalten. Die Angst etwas zu verpassen fördere wiederum den suchtartigen Gebrauch, so dass schnell eine Abwärtsspirale in Gang kommt mit Symptomen wie schlechter mentaler Gesundheit in Form von Stress und einer verringerten Lebenszufriedenheit.
+
+
+:::
+
 ::: news
 -   
 
