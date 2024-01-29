@@ -67,6 +67,14 @@ h2{
   }
 }
 
+/*abatsnd hamburger - logo - schrift eineheitlich*/
+
+@media screen and (max-width: 992px) {
+  .navbar-logo {
+    padding-left: 8px;
+  }
+}
+
 
 /* header menu */
 .nav-link{
