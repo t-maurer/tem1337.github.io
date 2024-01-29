@@ -32,6 +32,14 @@ h2{
   color: #fff;
 }
 
+/*navbar padding zurücksetzen*/
+@media screen and (max-width: 767px){
+  #quarto-header > nav {
+    padding-left:0;
+    padding-right:0;
+  }
+}
+
 /*titel auf großen Auflösungen größer anzeigen*/
 @media screen and (min-width: 1200px) {
   .navbar-title {
@@ -56,6 +64,14 @@ h2{
 @media screen and (min-width: 1200px) {
   .navbar-logo {
     max-height: 2.5rem;
+  }
+}
+
+/*abatsnd hamburger - logo - schrift eineheitlich*/
+
+@media screen and (max-width: 992px) {
+  .navbar-logo {
+    padding-left: 8px;
   }
 }
 
