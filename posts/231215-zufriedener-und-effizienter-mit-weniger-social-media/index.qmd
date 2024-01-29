@@ -1,0 +1,21 @@
+---
+title: "Zufriedener und effizienter arbeiten durch weniger Social Media"
+date: 2023-12-15
+#date-modified: 
+categories: [social media, arbeit, abhängigkeit, sucht, zufriedenheit]
+image: "thumbnail.jpg"
+description: "" 
+toc: true
+draft: true
+---
+
+![ [Bild: [Gerd Altmann / pixabay](https://pixabay.com/de/users/geralt-9301)]{.img-credits}](thumbnail.png){fig-align="left"}
+
+
+
+#### Quelle
+[Presseinformation der Ruhr Universität Bochum](https://news.rub.de/presseinformationen/wissenschaft/2023-12-15-psychologie-zufriedener-und-effizienter-arbeiten-durch-weniger-social-media)
+
+Julia Brailovskaia, Isabel Becherer, Vanessa Wicker, Holger Schillack, Jürgen Margraf: Less Social Media Use – More Satisfied, Work-Engaged and Mentally Healthy Employees: an Experimental Intervention Study, in: Behaviour & Information Technology, 2023, DOI: [10.1080/0144929X.2023.2286529](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2286529)
+
+[heise.de](https://www.heise.de/news/New-York-City-erklaert-Social-Media-zur-Gefahr-fuer-oeffentliche-Gesundheit-9608580.html)

@@ -1,0 +1,21 @@
+---
+title: "Social Media als Gefahr für die öffenliche Gesundheit"
+date: 2024-01-26
+#date-modified: 
+categories: [social media, produktbindung, abhängigkeit, sucht, werbung]
+image: "thumbnail.png"
+description: "" 
+toc: true
+draft: false
+---
+
+![Vergleich von sozialen Netzwerken mit Zigaretten in New York [Bild: [\@NYCMayor](https://twitter.com/NYCMayor/status/1750227687581307123)]{.img-credits}](thumbnail.png){fig-align="left"}
+
+Geht es nach dem Bürgermeister von New York City/USA, sollen soziale Medien, ähnlich wie Waffen und Tabak, zukünftig als Gefahr für die öffentliche Gesundheit behandelt werden. Konkrete Folgen hat dieser Schritt noch nicht, es gehe erstmal darum, das öffentliche Bewusstsein zu erreichen.
+
+So wird von Regierungsseite z. B. dafür geworben, dass Kinder zunächst persönliche Kontakte entwickeln und dazu technikfreie Zeiten und Orte haben. Eltern sollten sich ihrer Vorbildfunktion bewusst sein und mit ihren Kindern offen über den Umgang und das Verhalten in sozialen Netzwerken kommunizieren. Zudem sollten Kinder vor dem 14. Lebensjahr kein eigenes Smartphone besitzen.
+
+Zur Begründung werden mehrere Studien, die Änderungen im Verhalten von Kindern und Jugendlichen festgestellt haben, herangezogen. So ist die Zahl derer, die "Hoffnungslosigkeit empfinden" zwischen 2011 und 2021 um 42 % gestiegen. Die Rate der Selbstmordgedanken hat im selben Zeitraum um 34 % zugenommen. Jugendliche Schüler und Schülerinnen an den Highschools der Stadt verbringen demnach im Schnitt drei oder mehr Stunden pro Schultag vor einem Bildschirm, die Zeit für Hausaufgaben ist da noch nicht mit eingerechnet. Trotz dieser zentralen Rolle im Leben von Jugendlichen und Heranwachsenden habe man bisher nicht genügend Beweise dafür, dass Social Media sicher genug ist.
+
+#### Quelle
+[heise.de](https://www.heise.de/news/New-York-City-erklaert-Social-Media-zur-Gefahr-fuer-oeffentliche-Gesundheit-9608580.html)
