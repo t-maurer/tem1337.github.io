@@ -30,10 +30,16 @@ Für Kinder gibt es nahezu keine positiven Seiten der Nutzung von digitalen Medi
 
 Unter [Empfehlungen](empfehlungen/01-empfehlungen.qmd) finden Sie [allgemeine](empfehlungen/01-empfehlungen.qmd#allgemeine-empfehlungen-siehe-auch-altersspezifische-empfehlungen) und [altersspezifische Empfehlungen](empfehlungen/01-empfehlungen.qmd#altersspezifische-empfehlungen) zum Umgang mit Bildschirmen, ebenso Anhaltspunkte für [Eltern und Geschwister als Vorbilder](empfehlungen/01-empfehlungen.qmd#empfehlungen-für-eltern-und-geschwister-als-vorbilder). Falls Sie das Gefühl haben, es könnte doch zu viel sein, gibt es dafür ein [Vorgehen im Falle dysregulierter Bildschirmmediennutzung](empfehlungen/01-empfehlungen.qmd#vorgehen-im-falle-dysregulierter-bildschirmmediennutzung).
 
+::: {style="height:0.1rem;"}
+:::
+
 ### Kurzkommentierte Kurzmeldungen & Digitale Blüten
 
 {{< include _news.qmd >}}
 
-[**\>\>\> weitere Meldungen**](news-archive.qmd)
+[\>\>\> weitere Meldungen](news-archive.qmd)
+
+::: {style="height:0.1rem;"}
+:::
 
 ### Neueste Blogbeiträge
