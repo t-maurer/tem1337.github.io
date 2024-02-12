@@ -5,13 +5,17 @@ toc: true
 
 ## Tipps & Tricks für den eigenen Medienumgang
 
--   Werden Sie auf die Zeitfresser aufmerksam, deaktivieren Sie z.B. die Autoplayfunktion bei YouTube, Netflix etc., setzen Sie sich selber (Zeit-)Limits.
+-   **Keine Geräte in Schlaf- und Kinderzimmer!**
 
--   Zeitfressende Apps und Spiele am besten ganz löschen. Fragen Sie sich auch, ob Sie in jedem "sozialen" Netzwerk aktiv sein müssen.
+-   Werden Sie auf die Zeitfresser aufmerksam, **deaktivieren Sie z.B. die Autoplayfunktion** bei YouTube, Netflix etc., setzen Sie sich selber (Zeit-)Limits.
 
--   Schauen Sie sich die persönlichen Nutzungszeiten einzelner Apps an und versuchen Sie, da wo es sinnvoll ist, zu reduzieren. Man kann auch einen Nutzungstimer für einzelne Apps erstellen, dann lässt sich die App nach Ablauf der eingestellten Zeit nicht mehr öffnen (z.B. "Digital Wellbeing" Android, "Bildschirmzeit" iOS).
+-   **Zeitfressende Apps und Spiele am besten ganz löschen**. Fragen Sie sich auch, ob Sie in jedem "sozialen" Netzwerk aktiv sein müssen.
 
--   Für konzentriertes Arbeiten und Lernen:
+-   Schauen Sie sich die persönlichen **Nutzungszeiten** einzelner Apps an und versuchen Sie, da wo es sinnvoll ist, zu **reduzieren**. Man kann auch einen Nutzungstimer für einzelne Apps erstellen, dann lässt sich die App nach Ablauf der eingestellten Zeit nicht mehr öffnen (z.B. "Digital Wellbeing" Android, "Bildschirmzeit" iOS).
+
+-   Falls Sie ein Android-Smartphone (kein iPhone) haben, können Sie sich einen **Textlauncher installieren**. Es werden dann alle App-Symbole nur noch als Text angezeigt, was die visuellen Anreize deutlich reduziert. Die einfachste Version ist der [Text Launcher](https://play.google.com/store/apps/details?id=ademar.textlauncher), diesen gibt es auch im freien App-Store [F-Droid](https://f-droid.org/de/packages/ademar.textlauncher/). Der [Olauncher](https://play.google.com/store/apps/details?id=app.olauncher) bietet mehr Anpassungsmöglichkeiten und Hintergrundbilder und der [LessPhone - Minimal Launcher](https://play.google.com/store/apps/details?id=me.aswinmohan.nophone) ist in der Lage, die Smartphonefunktionen bei Bedarf auf ein Minimum zu reduzieren. Alle Apps sind nach eigener Auskunft datensparsam, es werden weder Nutzerdaten erhoben, noch werden diese mit Drittanbietern geteilt.
+
+-   Für **konzentriertes Arbeiten und Lernen**:
 
     -   Nicht stören-/Fokus-Modus benutzen um Benachrichtigungen stumm und unsichtbar zu schalten,
 
@@ -23,9 +27,9 @@ toc: true
 
     -   In Pausen so wenig digitale Medien wie möglich nutzen, sonst werden schnell 5 Minuten zu einer halben Stunde ohne nennenswerten Erholungswert.
 
--   Handy weglegen, auch in der Wohnung nicht immer dabeihaben. **Keine Geräte in Schlaf- und Kinderzimmer!**
+-   **Handy weglegen**, auch in der Wohnung nicht immer dabeihaben.
 
--   Probieren Sie auch den schwarz/weiß-Modus ihres Smartphones aus, es wird sofort an Attraktivität verlieren.
+-   Probieren Sie auch den **schwarz/weiß-Modus** ihres Smartphones aus, es wird sofort an Attraktivität verlieren.
 
 ## 5 Anregungen zur „digitalen Entwöhnung"
 
