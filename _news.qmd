@@ -4,18 +4,25 @@ callout-icon: false
 ---
 
 ::: nentry
-##### 25. Januar {#sec-240125}
+##### 15. Februar
 
-Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere Firmen einbrechen. [Nun macht die Regierung offenbar einen Rückzieher.](https://www.heise.de/news/China-macht-offenbar-Rueckzieher-bei-strengeren-Spieleregeln-9600939.html) 
+Sachsen-Anhalts Finanzministerium hat 2021 Hardwarefirewalls für die Schulen angeschafft. 18 Millionen Euro inkl. Wartungsvertrag für zwei Jahre. Kaum jemand wollte sie, viele Schulen hielten ihre üblichen und schon vorhandenen Sicherheitskomponenten für ausreichend. Konfigurieren ließen sie sich auch nicht, so wurde teilweise das Internet sehr langsam, Drucker funktionierten nicht mehr. Der MDR hat nachgefragt: [Die Geräte werden inzwischen, größtenteils ungenutzt, "fachgerecht entsorgt", eingelagert oder zurückgeschickt.](https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/firewalls-schulen-hueskens-elektroschrott-achtzehn-millionen-104.html)
+
+> Ein Schulträger antwortet, dass er die Firewalls des Landes nicht übernommen hat. Er setze aber Geräte des gleichen Herstellers mit der gleichen Schutz-Leistung ein – zu einem deutlich günstigeren Preis.
+>
+> In vielen Schulen sind die Geräte nicht im Einsatz, auch weil die Landesregierung die Kosten nach den zwei Jahren nicht mehr übernimmt und den Wartungsvertrag gekündigt hat. Nun erhalten die Geräte "keine Updates und stellen dadurch ein erhebliches Sicherheitsrisiko dar", schreibt ein Schulträger. Andere berichten, sie haben eigene Firewall-Lösungen, die keine weiteren Kosten verursachen würden.
 :::
 
 ::: nentry
+##### 25. Januar {#sec-240125}
 
+Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere Firmen einbrechen. [Nun macht die Regierung offenbar einen Rückzieher.](https://www.heise.de/news/China-macht-offenbar-Rueckzieher-bei-strengeren-Spieleregeln-9600939.html)
+:::
+
+::: nentry
 ##### 19. Januar {#sec-240119}
 
 [Materialismus in sozialen Medien führt zu erhöhtem Stress und macht unglücklich](https://news.rub.de/presseinformationen/wissenschaft/2024-01-19-psychologie-warum-materialismus-sozialen-medien-stresst-und-ungluecklich-macht), hat man jetzt an der Universität Bochum herausgefunden. Dazu wurden über 1.200 Menschen befragt. Es zeigte sich, dass eine stärkere materialistische Orientierung mit einer größeren Tendenz einhergeht, sich mit anderen zu vergleichen. Dies geschieht meist passiv, rein durch das Betrachten von Inhalten in sozialen Netzwerken. Die Angst etwas zu verpassen fördere wiederum den suchtartigen Gebrauch, so dass schnell eine Abwärtsspirale in Gang kommt mit Symptomen wie schlechter mentaler Gesundheit in Form von Stress und einer verringerten Lebenszufriedenheit.
-
-
 :::
 
 ::: news
@@ -76,6 +83,4 @@ Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere
     ...und ersetzt sie möglicherweise durch etwas viel Sinvolleres:
 
     > Wir werden den Abschluss des Bachelorstudiums auf eine praktische Art und Weise konzipieren, die viel weniger Raum für Plagiate lässt und von der die Studenten viel mehr nützliche Erfahrungen in ihr Leben mitnehmen werden.
-
-
 :::
