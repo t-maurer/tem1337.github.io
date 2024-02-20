@@ -1,0 +1,23 @@
+---
+title: "England verbietet Smartphones an Schulen"
+date: 2024-02-20
+#date-modified: 
+categories: [news, schule, smartphone, smartphoneverbot, politik, leitlinie, england]
+image: "thumbnail.jpg"
+description: "" 
+toc: true
+draft: false
+---
+
+[Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat](https://www.nzz.ch/international/frankreich-fuehrt-ein-handyverbot-an-schulen-ein-ld.1407819), zieht England jetzt nach und geht sogar noch einen Schritt weiter: Die Regierung beschließt ein generelles Handyverbot für alle Schüler.
+
+[Die neuen Richtlinien](https://assets.publishing.service.gov.uk/media/65cf5f2a4239310011b7b916/Mobile_phones_in_schools_guidance.pdf) überlassen dabei den Schulen relativ freie Hand, auf welche Art und Weise sie das Verbot umsetzen, ob Schüler beispielsweise das Gerät ganz zu Hause lassen müssen oder vor dem Unterricht abgeben.
+
+Laut dem Office of Communications (Ofcom), der britischen Medienaufsichtsbehörde, besitzen 97% der 12-Jährigen ein Smartphone. Die Sorge ist nicht nur die damit verbundene Ablenkung, sondern vorallem auch das Potential von Missbrauch, Mobbing, Gruppendruck und Ausgrenzung. Kritiker der neuen Leilinie sehen das Problem nicht in den Schulen, die oft schon diesbezügliche Regeln und Verbote haben, sondern zu Hause. Die Schulen hätten dringendere Sorgen. Viele Schüler fühlen aber eine Entlastung und weniger sozialen Druck durch das Verbot.
+
+Die neuen Richtlininen sollen mit den Schülern offen kommuniziert und auch die Gründe dafür erläutert werden. Zudem sind auch die Lehrer angehalten, ihr Smartphone in der Schule "stecken zu lassen" und es nur in dringenden Fällen zu nutzen.
+
+#### Quelle
+
+[The Guardian](https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england)\
+BIld: [Katerina Holmes / Pexels](https://www.pexels.com/de-de/@katerina-holmes/)
