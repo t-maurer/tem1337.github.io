@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: "England verbietet Smartphones an Schulen"
 date: 2024-02-20
-=======
-title: "Social Media als Gefahr für die öffenliche Gesundheit"
-date: 2024-01-26
->>>>>>> 42dd69e685cc36610199216588a417081cb13ac6
 #date-modified: 
 categories: [news, schule, smartphone, smartphoneverbot, politik, leitlinie, england]
 image: "thumbnail.jpg"

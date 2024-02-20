@@ -44,6 +44,7 @@ website:
     border: true
     center: 
       - href: impressum.qmd
+      - href: datenschutz.qmd
       - href: about.qmd
         text: Kontakt
     right: |
