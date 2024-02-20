@@ -1,5 +1,5 @@
 ---
-title: "Social Media als Gefahr für die öffenliche Gesundheit"
+title: "Social Media als Gefahr für die öffentliche Gesundheit"
 date: 2024-01-26
 #date-modified: 
 categories: [social media, produktbindung, abhängigkeit, sucht, werbung]
