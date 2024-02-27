@@ -1,7 +1,7 @@
 ---
-title: "England verbietet Smartphones an Schulen"
+title: "England verbietet Smartphones an Schulen, Italien plant sogar schulische Nutzung auszuschließen"
 date: 2024-02-20
-#date-modified: 
+date-modified: 2024-02-23
 categories: [news, schule, smartphone, smartphoneverbot, politik, leitlinie, england]
 image: "thumbnail.jpg"
 description: "" 
@@ -9,7 +9,7 @@ toc: true
 draft: false
 ---
 
-[Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat](https://www.nzz.ch/international/frankreich-fuehrt-ein-handyverbot-an-schulen-ein-ld.1407819), zieht England jetzt nach und geht sogar noch einen Schritt weiter: Die Regierung beschließt ein generelles Handyverbot für alle Schüler.
+[**Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat**](https://www.nzz.ch/international/frankreich-fuehrt-ein-handyverbot-an-schulen-ein-ld.1407819)**, zieht England jetzt nach und geht sogar noch einen Schritt weiter: Die Regierung beschließt ein generelles Handyverbot für alle Schüler.**
 
 [Die neuen Richtlinien](https://assets.publishing.service.gov.uk/media/65cf5f2a4239310011b7b916/Mobile_phones_in_schools_guidance.pdf) überlassen dabei den Schulen relativ freie Hand, auf welche Art und Weise sie das Verbot umsetzen, ob Schüler beispielsweise das Gerät ganz zu Hause lassen müssen oder vor dem Unterricht abgeben.
 
@@ -17,7 +17,11 @@ Laut dem Office of Communications (Ofcom), der britischen Medienaufsichtsbehörd
 
 Die neuen Richtlininen sollen mit den Schülern offen kommuniziert und auch die Gründe dafür erläutert werden. Zudem sind auch die Lehrer angehalten, ihr Smartphone in der Schule "stecken zu lassen" und es nur in dringenden Fällen zu nutzen.
 
+------------------------------------------------------------------------
+
+**Update 23.02.2024:** [heise berichtet](https://www.heise.de/news/Italien-Regierung-will-Smartphones-und-Tablets-aus-Schulen-verbannen-9636046.html), dass auch Italiens Regierung Smartphones und Tablets *komplett* aus Kindergärten und Schulen für Kinder und Jugendliche bis zum Alter von 14 Jahren verbannen will. Ein schon seit 2007(!) bestehenden Gesetz, welches die nicht schulische Verwendung dieser Geräte untersagte, wird jetzt dahingehend erweitert, dass digitale Medien auch nicht mehr zu Unterrichtszwecken genutzt werden dürfen.
+
 #### Quelle
 
 [The Guardian](https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england)\
-BIld: [Katerina Holmes / Pexels](https://www.pexels.com/de-de/@katerina-holmes/)
+Bild: [Katerina Holmes / Pexels](https://www.pexels.com/de-de/@katerina-holmes/)
