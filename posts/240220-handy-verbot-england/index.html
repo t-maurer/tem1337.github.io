@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" xml:lang="de-DE"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>bewusstsein.digital - England verbietet Smartphones an Schulen</title>
+<title>bewusstsein.digital - England verbietet Smartphones an Schulen, Italien plant sogar schulische Nutzung auszuschließen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -139,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">England verbietet Smartphones an Schulen</h1>
+<h1 class="title">England verbietet Smartphones an Schulen, Italien plant sogar schulische Nutzung auszuschließen</h1>
   <div class="quarto-categories">
     <div class="quarto-category">news</div>
     <div class="quarto-category">schule</div>
@@ -163,6 +163,12 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Geändert</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">23. Februar 2024</p>
+    </div>
+  </div>
     
   </div>
   
@@ -171,14 +177,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://www.nzz.ch/international/frankreich-fuehrt-ein-handyverbot-an-schulen-ein-ld.1407819">Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat</a>, zieht England jetzt nach und geht sogar noch einen Schritt weiter: Die Regierung beschließt ein generelles Handyverbot für alle Schüler.</p>
+<p><a href="https://www.nzz.ch/international/frankreich-fuehrt-ein-handyverbot-an-schulen-ein-ld.1407819"><strong>Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat</strong></a><strong>, zieht England jetzt nach und geht sogar noch einen Schritt weiter: Die Regierung beschließt ein generelles Handyverbot für alle Schüler.</strong></p>
 <p><a href="https://assets.publishing.service.gov.uk/media/65cf5f2a4239310011b7b916/Mobile_phones_in_schools_guidance.pdf">Die neuen Richtlinien</a> überlassen dabei den Schulen relativ freie Hand, auf welche Art und Weise sie das Verbot umsetzen, ob Schüler beispielsweise das Gerät ganz zu Hause lassen müssen oder vor dem Unterricht abgeben.</p>
 <p>Laut dem Office of Communications (Ofcom), der britischen Medienaufsichtsbehörde, besitzen 97% der 12-Jährigen ein Smartphone. Die Sorge ist nicht nur die damit verbundene Ablenkung, sondern vorallem auch das Potential von Missbrauch, Mobbing, Gruppendruck und Ausgrenzung. Kritiker der neuen Leilinie sehen das Problem nicht in den Schulen, die oft schon diesbezügliche Regeln und Verbote haben, sondern zu Hause. Die Schulen hätten dringendere Sorgen. Viele Schüler fühlen aber eine Entlastung und weniger sozialen Druck durch das Verbot.</p>
 <p>Die neuen Richtlininen sollen mit den Schülern offen kommuniziert und auch die Gründe dafür erläutert werden. Zudem sind auch die Lehrer angehalten, ihr Smartphone in der Schule „stecken zu lassen“ und es nur in dringenden Fällen zu nutzen.</p>
+<hr>
+<p><strong>Update 23.02.2024:</strong> <a href="https://www.heise.de/news/Italien-Regierung-will-Smartphones-und-Tablets-aus-Schulen-verbannen-9636046.html">heise berichtet</a>, dass auch Italiens Regierung Smartphones und Tablets <em>komplett</em> aus Kindergärten und Schulen für Kinder und Jugendliche bis zum Alter von 14 Jahren verbannen will. Ein schon seit 2007(!) bestehenden Gesetz, welches die nicht schulische Verwendung dieser Geräte untersagte, wird jetzt dahingehend erweitert, dass digitale Medien auch nicht mehr zu Unterrichtszwecken genutzt werden dürfen.</p>
 <section id="quelle" class="level4">
 <h4 class="anchored" data-anchor-id="quelle">Quelle</h4>
 <p><a href="https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england">The Guardian</a><br>
-BIld: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes / Pexels</a></p>
+Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes / Pexels</a></p>
 
 
 </section>
@@ -274,6 +282,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -315,7 +328,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
