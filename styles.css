@@ -30,6 +30,7 @@ h2{
 
 .navbar-title {
   color: #fff;
+  font-weight: 300;
 }
 
 /*navbar padding zurücksetzen*/
@@ -89,6 +90,10 @@ h2{
 
 .navbar .navbar-toggler{
   margin-right: 0em;
+}
+
+.menu-text {
+  font-weight: 400;
 }
 
 @media screen and (max-width: 1199px) {
