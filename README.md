@@ -1,3 +1,3 @@
-Sourcecode for my website [www.medienbewusstsein.de](https://www.medienbewusstsein.de), a german site for awareness in digital media, child development and pedagogy.
+Sourcecode for my website [www.bewusstsein.digital](https://www.bewusstsein.digital), a german site for awareness in digital media, child development and pedagogy.
 
-Sourcecode für meine Website [www.medienbewusstsein.de](https://www.medienbewusstsein.de) für Medienbewusstsein, Kindesentwicklung und Pädagogik
+Sourcecode für meine Website [www.bewusstsein.digital](https://www.bewusstsein.digital) für Medienbewusstsein, Kindesentwicklung und Pädagogik
