@@ -4,7 +4,7 @@ date: 2024-02-20
 date-modified: 2024-02-23
 categories: [news, schule, smartphone, smartphoneverbot, politik, leitlinie, england]
 image: "thumbnail.jpg"
-description: "" 
+description: "Nachdem Frankreich schon 2018 ein Handyverbot in Schulen für Schüler bis 15 Jahre beschlossen hat, geht England noch einen Schritt weiter." 
 toc: true
 draft: false
 ---

@@ -1,0 +1,71 @@
+---
+title: "DAK-Suchtstudie: ein viertel der deutschen Kinder haben riskante Social Media Nutzung"
+date: 2024-02-28
+#date-modified: 2024-02-23
+categories: [news, social media, sucht, gefährdung, riskante nutzung, dak suchtsudie]
+image: "thumbnail.jpg"
+description: "Die neue Suchtstudie der DAK-Gesundheit und des Universitätsklinikums Hamburg-Eppendorf (UKE) zeigt bei der Nutzung sozialer Medien bei Kindern einen bedenklichen Trend." 
+toc: true
+draft: false
+lightbox: true
+---
+
+![](thumbnail.jpg){.no-lightbox}
+
+**Die neue Suchtstudie der DAK-Gesundheit und des Universitätsklinikums Hamburg-Eppendorf (UKE) zeigt bei der Nutzung sozialer Medien bei Kindern einen bedenklichen Trend: Aktuell nutzen knapp 25 Prozent der Minderjährigen in Deutschland soziale Medien riskant, hochgerechnet 1,3 Millionen Mädchen und Jungen ­– dreimal so viele wie im Jahr 2019. Sechs Prozent der 10- bis 17-Jährigen erfüllen derzeit die Suchtkriterien einer pathologischen Nutzung. Hochgerechnet sind dies 360.000 Kinder und Jugendliche – fast doppelt so viele wie vor vier Jahren.**
+
+Bei der Längsschnittstudie handelt es sich um eine Online-Befragung, die durch das Meinungsforschungsinstitut forsa durchgeführt wird. Befragt werden Kinder und Jugendliche im Alter zwischen 10 und 17 Jahren und jeweils ein dazugehöriger Elternteil. Zu jeder Erhebungswelle werden einerseits die Familien kontaktiert, die bereits an vorherigen Wellen teilgenommen haben, andererseits aber auch neue Familien befragt, um die Repräsentativität der Stichprobe für die 10- bis 17-Jährigen zu gewährleisten.
+
+### Nutzungszeiten
+
+Die Nutzungszeiten von Online-Aktivitäten wie Spiele, Social Media und Streaming sind das erste Mal seit der Corona-Zeit wieder etwas rückläufig. Sie liegen allerdings, weiter über dem Niveau von 2019. Die Nutzungszeiten von Streaming-Diensten werden erst seit 2020 erhoben, auch sie haben einen leicht rückläufigen Trend.
+
+![](dak_spiele_zeiten-min.jpg){group="zeiten" fig-alt="Nutzungszeiten digitaler Spiele unter Kindern und Jugendlichen in Deutschland im Verlauf."}
+
+![](dak_social-media_zeiten-min.jpg){group="zeiten" fig-alt="Nutzungszeiten sozialer Medien unter Kindern und Jugendlichen in Deutschland im Verlauf."}
+
+![](dak_streaming_zeiten-min.jpg){group="zeiten" fig-alt="Nutzungszeiten von Video-Streaming-Diensten unter Kindern und Jugendlichen in Deutschland seit erstmaliger Erhebung im Juni 2022."}
+
+### Problematische Nutzung
+
+Bei der pathologischen Nutzung digitaler Spiele durch Kinder und Jugendliche zeigt sich sich im Vergleich zum Vorjahr ein Rückgang, das Niveau liegt jetzt wieder auf dem von 2021. Jungen sind wie im Vorjahr fast doppelt so häufig von Computerspielstörungen betroffen wie Mädchen (5,6 % vs. 3,1 %).
+
+![](dak_spiele_problem-nutzung-min.jpg){group="nutzung" fig-alt="Problematische Nutzung digitaler Spiele unter Kindern und Jugendlichen in Deutschland im Verlauf."}
+
+Die Zahl der Kinder und Jugendlichen, die ein pathologisches Nutzungsverhalten sozialer Medien haben, ist in etwa auf dem Vohrjahresniveau (statistisch keine signifikante Änderung). Jugendliche (14 bis 17 Jahre) sind signifikant häufiger betroffen als Kinder (7,6 % vs. 4,6 %). Das Geschlecht spielt eine untergeordnete Rolle.
+
+![](dak_social-media_problem-nutzung-min.jpg){group="nutzung" fig-alt="Problematische Nutzung sozialer Medien unter Kindern und Jugendlichen in Deutschland im Verlauf."}
+
+Die pathologische Nutzung von Streamingangeboten hat sich im Vergleich zum Vorjahr halbiert. Die Prävalenz ist alters- und geschlechtsunabhängig. Bei der riskanten Nutzung zeigen sich keine signifikanten Unterschiede.
+
+![](dak_streaming_problem-nutzung-min.jpg){group="nutzung" fig-alt="Problematische Nutzung von Video-Streaming-Diensten unter Kindern und Jugendlichen in Deutschland seit erstmaliger Erhebung im Juni 2022."}
+
+### Weitere Faktoren
+
+##### Psychische Gesundheit
+
+Innerhalb der Gruppe der problematischen (riskanten oder pathologischen) Nutzer sozialer Medien wird häufiger von depressiven Symptomen, Angstymptomen und einem höheren Stresslevel berichtet. Dazu fehlen adaptive Regulationsstrategien, um mit
+negativen Emotionen und Stress umzugehen und bei den Befragungen werden Emotionsregulationsdefizite sowie ein niedrigeres Achtsamkeitslevel erfasst.
+
+##### Familiäre Umgebung
+
+Eltern von Kindern mit riskanten oder pathologischen Nutzungsmustern haben häufiger das Gefühl, dass in der Familie nicht ausreichend über Probleme und Gefühle gesprochen wird, zu wenig Zeit miteinander verbracht wird oder sie sind unzufriedener damit, wie Konflikte gelöst werden. Dagegen sind Eltern von Kindern ohne problematische Nutzungstendenzen insgesamt deutlich zufriedener mit der Kommunikation innerhalb der Familie sowie der Familienfunktionalität.
+
+##### Elterliche Medienkompetenz
+
+-   Knapp ein Viertel aller Eltern gibt an, sich Sorgen um die Mediennutzung seines Kindes zu machen und äußert Unsicherheiten und Unterstützungsbedarfe in der Medienerziehung.
+
+-   Fast jedes dritte Elternteil sieht sich nicht als Vorbild für die Mediennutzung seines Kindes.
+
+-   Eltern von Kindern mit problematischen Nutzungsmustern fühlen sich in ihrer Medienerziehung deutlich weniger selbstwirksam als Eltern von Kindern ohne Problemverhalten.
+
+-   Eine niedrig empfundene digitale Selbstwirksamkeit wirkt sich dabei auch auf das Regelverhalten der Eltern aus: Verglichen mit selbstwirksamen Eltern führen unsichere Eltern signifikant seltener medienfreie Zeiten und Regeln zur inhaltlichen Nutzung ein und aufgestellte Regeln werden deutlich weniger konsequent umgesetzt.
+
+### Erhebungsinstrumente
+
+Im Rahmen der Befragung wurden standardisierte psychologische Instrumente und Einzelitems zur Nutzung von digitalen Spielen, sozialen Medien und Streaming-Diensten eingesetzt. Zur Erfassung der [Computerspielstörung sowie dem riskanten Gaming anhand der ICD-11-Kriterien](https://icd.who.int/browse/2024-01/mms/en#1448597234) wurde der validierte Fragebogen [GADIS-A (Gaming Disorder Scale for Adolescents)](https://www.mdpi.com/2077-0383/9/4/993) eingesetzt. Basierend auf den ICD-11-Kriterien zur Computerspielstörung wurden die validierten Fragebögen [SOMEDIS-A (Social Media Disorder Scale for Adolescents)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.661483/full) und [STREDIS-A (Streaming Disorder Scale for Adolescents)](https://akjournals.com/view/journals/2006/11/2/article-p451.xml) zur Erfassung von riskanter und pathologischer Nutzung von sozialen Medien und Streaming-Diensten eingesetzt.
+
+#### Quellen und Download der Studie
+
+[DAK Gesundheit](https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2023-24_56536#rtf-anchor-auf-einen-blick-zentrale-ergebnisse-der-sechsten-befragungswelle)\
+Bild: [Kampus Production / Pexels](https://www.pexels.com/de-de/@kampus/)
