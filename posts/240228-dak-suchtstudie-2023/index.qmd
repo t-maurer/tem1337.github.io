@@ -1,5 +1,5 @@
 ---
-title: "DAK-Suchtstudie: ein viertel der deutschen Kinder haben riskante Social Media Nutzung"
+title: "DAK-Suchtstudie: Ein Viertel der deutschen Kinder haben riskante Social Media Nutzung"
 date: 2024-02-28
 #date-modified: 2024-02-23
 categories: [news, social media, sucht, gefährdung, riskante nutzung, dak suchtsudie]
