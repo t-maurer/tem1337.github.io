@@ -7,7 +7,7 @@ image: "thumbnail.jpg"
 description: "Die neue Suchtstudie der DAK-Gesundheit und des Universitätsklinikums Hamburg-Eppendorf (UKE) zeigt bei der Nutzung sozialer Medien bei Kindern einen bedenklichen Trend." 
 toc: true
 draft: false
-lightbox: true
+lightbox: auto
 ---
 
 ![](thumbnail.jpg){.no-lightbox}
