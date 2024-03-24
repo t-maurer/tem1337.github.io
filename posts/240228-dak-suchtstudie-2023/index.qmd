@@ -10,6 +10,8 @@ draft: false
 lightbox: auto
 ---
 
+![](thumbnail.jpg){.no-lightbox fig-alt="Junge mit Brille im Bett schaut sich etwas auf dem Smartphone an."}
+
 ![](thumbnail.jpg){.no-lightbox}
 
 **Die neue Suchtstudie der DAK-Gesundheit und des Universitätsklinikums Hamburg-Eppendorf (UKE) zeigt bei der Nutzung sozialer Medien bei Kindern einen bedenklichen Trend: Aktuell nutzen knapp 25 Prozent der Minderjährigen in Deutschland soziale Medien riskant, hochgerechnet 1,3 Millionen Mädchen und Jungen ­– dreimal so viele wie im Jahr 2019. Sechs Prozent der 10- bis 17-Jährigen erfüllen derzeit die Suchtkriterien einer pathologischen Nutzung. Hochgerechnet sind dies 360.000 Kinder und Jugendliche – fast doppelt so viele wie vor vier Jahren.**
@@ -44,8 +46,7 @@ Die pathologische Nutzung von Streamingangeboten hat sich im Vergleich zum Vorja
 
 ##### Psychische Gesundheit
 
-Innerhalb der Gruppe der problematischen (riskanten oder pathologischen) Nutzer sozialer Medien wird häufiger von depressiven Symptomen, Angstymptomen und einem höheren Stresslevel berichtet. Dazu fehlen adaptive Regulationsstrategien, um mit
-negativen Emotionen und Stress umzugehen und bei den Befragungen werden Emotionsregulationsdefizite sowie ein niedrigeres Achtsamkeitslevel erfasst.
+Innerhalb der Gruppe der problematischen (riskanten oder pathologischen) Nutzer sozialer Medien wird häufiger von depressiven Symptomen, Angstymptomen und einem höheren Stresslevel berichtet. Dazu fehlen adaptive Regulationsstrategien, um mit negativen Emotionen und Stress umzugehen und bei den Befragungen werden Emotionsregulationsdefizite sowie ein niedrigeres Achtsamkeitslevel erfasst.
 
 ##### Familiäre Umgebung
 
@@ -68,4 +69,4 @@ Im Rahmen der Befragung wurden standardisierte psychologische Instrumente und Ei
 #### Quellen und Download der Studie
 
 [DAK Gesundheit](https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2023-24_56536#rtf-anchor-auf-einen-blick-zentrale-ergebnisse-der-sechsten-befragungswelle)\
-Bild: [Kampus Production / Pexels](https://www.pexels.com/de-de/@kampus/)
+Bild: [Kampus Production](https://www.pexels.com/de-de/@kampus/) / [Pexels](https://www.pexels.com/de-de/foto/hande-smartphone-kind-festhalten-7414095/)

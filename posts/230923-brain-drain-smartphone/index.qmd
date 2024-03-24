@@ -12,7 +12,7 @@ draft: false
 
 ### Meta-Studie untersucht den Brain-Drain-Effekt durch Smartphones und zeigt kulturelle Unterschiede
 
-![[Bild: [Cyn Yoder / Pixabay](https://pixabay.com/de/users/cyndidyoder83-4721719/)]{.img-credits}](thumbnail.jpg)
+![](thumbnail.jpg)
 
 **Wie stark Smartphones die Aufmerksamkeit als auch die Gedächtnisleistung reduzieren, ist seit 2017 als Brain-Drain-Effekt bekannt. Ein Forschungsteam der Universität Augsburg um den Schulpädagogen Prof. Dr. Klaus Zierer hat in einer Meta-Analyse, die in der Fachzeitschrift Behavioral Sciences kürzlich veröffentlicht wurde, 22 Studien verglichen und bestätigt den Effekt. Gerade für die Medienerziehung von Kindern und Jugendlichen folgt daraus eine besondere Herausforderung.**
 
@@ -28,3 +28,5 @@ Dieses Ergebnis ist vor allem für Bildung und Erziehung hochrelevant, da Kinder
 
 **Originalpublikation:**\
 Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? A Meta-Analysis. Behav. Sci. 2023, 13, 751. <https://doi.org/10.3390/bs13090751>
+
+Bild: [Cyn Yoder](https://pixabay.com/de/users/cyndidyoder83-4721719/) / [Pixabay](https://pixabay.com/de/photos/teenager-iphone-smartphone-m%C3%A4dchen-5224456/)

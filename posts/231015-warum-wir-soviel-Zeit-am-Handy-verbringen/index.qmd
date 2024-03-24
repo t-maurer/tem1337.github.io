@@ -9,7 +9,7 @@ toc: true
 draft: false
 ---
 
-![[Bild: [syk92 / pixabay](https://pixabay.com/de/users/sik92-13902915)]{.img-credits}](thumbnail.jpg){fig-align="left"}
+![](thumbnail.jpg){fig-align="left"}
 
 Kennen Sie das? Eigentlich wollten Sie nur eben etwas auf Ihrem Smartphone nachsehen. Einige Zeit später ertappen Sie sich bei etwas völlig anderem, sie sind immer noch am Smartphone, wissen nicht, wie viel Zeit vergangen ist und was sie eigentlich gemacht haben. Möglicherweise sind Sie auch direkt so abgelenkt worden, dass Sie das, was Sie ursprünglich erledigen wollten, gar nicht gemacht haben.
 
@@ -75,3 +75,7 @@ Immer wieder Thema bei solchen Spielen sind virtuelle Währungen, die man sich i
 
 Auch sogenannte [Lootboxen](https://de.wikipedia.org/wiki/Lootbox), virtuelle Behälter in Computerspielen, die eine zufällige Sammlung bestimmter Items, zum Beispiel Waffen und spezielle Gegenstände, enthalten stehen immer wieder als glücksspielähnliche Elemente in der Kritik. Die Boxen können im Spiel freigeschaltet, gefunden oder gekauft werden. Der Kauf kann dabei durch eine Spielewährung oder Echtgeld stattfinden.\
 *Weitere Infos:* <https://www.schau-hin.info/sicherheit-risiken/lootboxen-gefahr-fuer-kinder>
+
+#### Qellen
+
+Bild: [syk92](https://pixabay.com/de/users/sik92-13902915/) / [Pixabay](https://pixabay.com/de/photos/smartphone-mann-nacht-benutzer-4540273/)

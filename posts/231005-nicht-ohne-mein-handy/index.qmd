@@ -10,9 +10,9 @@ draft: false
 
 **Kinder, Jugendliche und Erwachsene müssen sich immer öfter eingestehen: Wir sind süchtig!**
 
-![[Bild: Screenshot aus der Dokumentation]{.img-credits}](thumbnail.jpg){fig-align="left"}
+![](thumbnail.jpg){fig-align="left"}
 
-**Link zur Sendung: <https://tv.orf.at/program/orf1/dok366.html>**
+**Link zur Sendung: https://tv.orf.at/program/orf1/dok366.html**
 
 Es ist unbestritten, das Smartphone hat unser Leben erleichtert und verändert - doch nicht nur. Das kleine Gerät fordert enorm viel von unserer Aufmerksamkeit ein. Seit dem Ausbruch der Pandemie ist die Handynutzung unter den Jugendlichen massiv gestiegen, mit verheerenden psychischen und physischen Folgen: Heute 18-Jährige haben mitunter die soziale Kompetenz früherer 10-Jähriger. Bis zu 9 Stunden verbringen sie täglich in der digitalen Welt. Aber nicht nur Kinder und Jugendliche, auch Erwachsene müssen sich immer öfter eingestehen: Wir sind süchtig.
 
@@ -24,5 +24,8 @@ Dr. Oliver Scheibenbogen vom Anton-Proksch Institut demonstriert in einem Experi
 
 Eine komplette Handyabstinenz ist in der heutigen Zeit für die meisten Menschen ausgeschlossen. Doch auch hier gilt: Die Dosis macht das Gift. Aber wie bekommt man das Problem in den Griff? Geht alles über die Eigenverantwortung oder ist doch die Politik gefordert? Diesen Fragen geht Lisa Gadenstätter in der Dok1 auf den Grund.
 
-#### Quellen: 
-Text: Beschreibung im Original übernommen 
+#### Quellen:
+
+Text: Beschreibung im Original übernommen
+
+Bild: Screenshot aus der Dokumentation
