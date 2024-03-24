@@ -9,7 +9,8 @@ toc: true
 draft: false
 ---
 
-![Vergleich von sozialen Netzwerken mit Zigaretten in New York [Bild: [\@NYCMayor](https://twitter.com/NYCMayor/status/1750227687581307123)]{.img-credits}](thumbnail.jpg){fig-align="left"}
+![Vergleich von sozialen Netzwerken mit Zigaretten in New York [Bild: [\@NYCMayor](https://twitter.com/NYCMayor/status/1750227687581307123)]{.img-credits}](thumbnail.jpg)
+
 
 Geht es nach dem Bürgermeister von New York City/USA, sollen soziale Medien, ähnlich wie Waffen und Tabak, zukünftig als Gefahr für die öffentliche Gesundheit behandelt werden. Konkrete Folgen hat dieser Schritt noch nicht, es gehe erstmal darum, das öffentliche Bewusstsein zu erreichen.
 
