@@ -19,7 +19,8 @@
 
 
 
-<p><a href="thumbnail.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://www.bewusstsein.digital/posts/240228-dak-suchtstudie-2023/thumbnail.jpg" class="no-lightbox img-fluid"></a></p>
+<p><a href="thumbnail.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://www.bewusstsein.digital/posts/240228-dak-suchtstudie-2023/thumbnail.jpg" class="no-lightbox img-fluid" alt="Junge mit Brille im Bett schaut sich etwas auf dem Smartphone an."></a></p>
+<p><a href="thumbnail.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://www.bewusstsein.digital/posts/240228-dak-suchtstudie-2023/thumbnail.jpg" class="no-lightbox img-fluid"></a></p>
 <p><strong>Die neue Suchtstudie der DAK-Gesundheit und des Universitätsklinikums Hamburg-Eppendorf (UKE) zeigt bei der Nutzung sozialer Medien bei Kindern einen bedenklichen Trend: Aktuell nutzen knapp 25 Prozent der Minderjährigen in Deutschland soziale Medien riskant, hochgerechnet 1,3 Millionen Mädchen und Jungen ­– dreimal so viele wie im Jahr 2019. Sechs Prozent der 10- bis 17-Jährigen erfüllen derzeit die Suchtkriterien einer pathologischen Nutzung. Hochgerechnet sind dies 360.000 Kinder und Jugendliche – fast doppelt so viele wie vor vier Jahren.</strong></p>
 <p>Bei der Längsschnittstudie handelt es sich um eine Online-Befragung, die durch das Meinungsforschungsinstitut forsa durchgeführt wird. Befragt werden Kinder und Jugendliche im Alter zwischen 10 und 17 Jahren und jeweils ein dazugehöriger Elternteil. Zu jeder Erhebungswelle werden einerseits die Familien kontaktiert, die bereits an vorherigen Wellen teilgenommen haben, andererseits aber auch neue Familien befragt, um die Repräsentativität der Stichprobe für die 10- bis 17-Jährigen zu gewährleisten.</p>
 <section id="nutzungszeiten" class="level3">
@@ -64,7 +65,7 @@
 <section id="quellen-und-download-der-studie" class="level4">
 <h4 class="anchored" data-anchor-id="quellen-und-download-der-studie">Quellen und Download der Studie</h4>
 <p><a href="https://www.dak.de/dak/unternehmen/reporte-forschung/dak-studie-mediensucht-2023-24_56536#rtf-anchor-auf-einen-blick-zentrale-ergebnisse-der-sechsten-befragungswelle">DAK Gesundheit</a><br>
-Bild: <a href="https://www.pexels.com/de-de/@kampus/">Kampus Production / Pexels</a></p>
+Bild: <a href="https://www.pexels.com/de-de/@kampus/">Kampus Production</a> / <a href="https://www.pexels.com/de-de/foto/hande-smartphone-kind-festhalten-7414095/">Pexels</a></p>
 
 
 </section>
@@ -99,7 +100,7 @@ Bild: <a href="https://www.pexels.com/de-de/@kampus/">Kampus Production / Pexels
 <section id="quelle" class="level4">
 <h4 class="anchored" data-anchor-id="quelle">Quelle</h4>
 <p><a href="https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england">The Guardian</a><br>
-Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes / Pexels</a></p>
+Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes</a> / <a href="https://www.pexels.com/de-de/foto/anonyme-gemischtrassige-klassenkameraden-die-in-der-schule-auf-dem-handy-surfen-5905503/">Pexels</a></p>
 
 
 </section>
@@ -126,6 +127,12 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
+<p><img src="https://www.bewusstsein.digital/posts/240126-social-media-gesundheitsgefahr/thumbnail.jpg" class="img-fluid figure-img"></p>
+<figcaption>Vergleich von sozialen Netzwerken mit Zigaretten in New York <span class="img-credits">Bild: <a href="https://twitter.com/NYCMayor/status/1750227687581307123">@NYCMayor</a></span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
 <p><img src="https://www.bewusstsein.digital/posts/240126-social-media-gesundheitsgefahr/thumbnail.png" class="img-fluid figure-img"></p>
 <figcaption>Vergleich von sozialen Netzwerken mit Zigaretten in New York <span class="img-credits">Bild: <a href="https://twitter.com/NYCMayor/status/1750227687581307123">@NYCMayor</a></span></figcaption>
 </figure>
@@ -148,7 +155,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
   <category>werbung</category>
   <guid>https://www.bewusstsein.digital/posts/240126-social-media-gesundheitsgefahr/</guid>
   <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.bewusstsein.digital/posts/240126-social-media-gesundheitsgefahr/thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://www.bewusstsein.digital/posts/240126-social-media-gesundheitsgefahr/thumbnail.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Zufriedener und effizienter arbeiten durch weniger Social Media</title>
@@ -161,8 +168,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <p>Schon 30 Minuten weniger Social-Media-Nutzung am Tag verbesserte in einer einwöchigen Studie der Universität Bochum die psychische Gesundheit, die Arbeitszufriedenheit und das Engagement der Teilnehmer.</p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://www.bewusstsein.digital/posts/231215-zufriedener-und-effizienter-mit-weniger-social-media/thumbnail.jpg" class="img-fluid figure-img"></p>
-<figcaption><span class="img-credits">Bild: <a href="https://pixabay.com/de/users/geralt-9301">Gerd Altmann / pixabay</a></span></figcaption>
+<p><img src="https://www.bewusstsein.digital/posts/231215-zufriedener-und-effizienter-mit-weniger-social-media/thumbnail.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
 </figure>
 </div>
 <p>Für die Studie wurden 166 Probanden, die einer Voll- oder Teilzeitbeschäftigung nachgingen, und mindestens 35 Minuten am Tag zu nichtberufichen Zwecken in sozialen Netzwerken unterwegs sind, zuffällig einer von zwei Gruppen zugeordnet.</p>
@@ -174,6 +180,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <h4 class="anchored" data-anchor-id="quellen">Quellen</h4>
 <p><a href="https://news.rub.de/presseinformationen/wissenschaft/2023-12-15-psychologie-zufriedener-und-effizienter-arbeiten-durch-weniger-social-media">Presseinformation der Ruhr Universität Bochum</a></p>
 <p>Julia Brailovskaia, Isabel Becherer, Vanessa Wicker, Holger Schillack, Jürgen Margraf: Less Social Media Use – More Satisfied, Work-Engaged and Mentally Healthy Employees: an Experimental Intervention Study, in: Behaviour &amp; Information Technology, 2023, DOI: <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2286529">10.1080/0144929X.2023.2286529</a></p>
+<p>Bild: <a href="https://pixabay.com/de/users/geralt-9301/">Gerd Altmann</a> / <a href="https://pixabay.com/de/photos/frau-burnout-stress-multitasking-4444451/">Pixabay</a></p>
 
 
 </section>
@@ -272,8 +279,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://www.bewusstsein.digital/posts/231015-warum-wir-soviel-Zeit-am-Handy-verbringen/thumbnail.jpg" class="img-fluid figure-img"></p>
-<figcaption><span class="img-credits">Bild: <a href="https://pixabay.com/de/users/sik92-13902915">syk92 / pixabay</a></span></figcaption>
+<p><img src="https://www.bewusstsein.digital/posts/231015-warum-wir-soviel-Zeit-am-Handy-verbringen/thumbnail.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
 </figure>
 </div>
 <p>Kennen Sie das? Eigentlich wollten Sie nur eben etwas auf Ihrem Smartphone nachsehen. Einige Zeit später ertappen Sie sich bei etwas völlig anderem, sie sind immer noch am Smartphone, wissen nicht, wie viel Zeit vergangen ist und was sie eigentlich gemacht haben. Möglicherweise sind Sie auch direkt so abgelenkt worden, dass Sie das, was Sie ursprünglich erledigen wollten, gar nicht gemacht haben.</p>
@@ -327,8 +333,12 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <h3 class="anchored" data-anchor-id="lootboxen">Lootboxen</h3>
 <p>Auch sogenannte <a href="https://de.wikipedia.org/wiki/Lootbox">Lootboxen</a>, virtuelle Behälter in Computerspielen, die eine zufällige Sammlung bestimmter Items, zum Beispiel Waffen und spezielle Gegenstände, enthalten stehen immer wieder als glücksspielähnliche Elemente in der Kritik. Die Boxen können im Spiel freigeschaltet, gefunden oder gekauft werden. Der Kauf kann dabei durch eine Spielewährung oder Echtgeld stattfinden.<br>
 <em>Weitere Infos:</em> <a href="https://www.schau-hin.info/sicherheit-risiken/lootboxen-gefahr-fuer-kinder" class="uri">https://www.schau-hin.info/sicherheit-risiken/lootboxen-gefahr-fuer-kinder</a></p>
+<section id="qellen" class="level4">
+<h4 class="anchored" data-anchor-id="qellen">Qellen</h4>
+<p>Bild: <a href="https://pixabay.com/de/users/sik92-13902915/">syk92</a> / <a href="https://pixabay.com/de/photos/smartphone-mann-nacht-benutzer-4540273/">Pixabay</a></p>
 
 
+</section>
 </section>
 </section>
 
@@ -353,11 +363,10 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <p><strong>Kinder, Jugendliche und Erwachsene müssen sich immer öfter eingestehen: Wir sind süchtig!</strong></p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://www.bewusstsein.digital/posts/231005-nicht-ohne-mein-handy/thumbnail.jpg" class="img-fluid figure-img"></p>
-<figcaption><span class="img-credits">Bild: Screenshot aus der Dokumentation</span></figcaption>
+<p><img src="https://www.bewusstsein.digital/posts/231005-nicht-ohne-mein-handy/thumbnail.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
 </figure>
 </div>
-<p><strong>Link zur Sendung: <a href="https://tv.orf.at/program/orf1/dok366.html" class="uri">https://tv.orf.at/program/orf1/dok366.html</a></strong></p>
+<p><strong>Link zur Sendung: https://tv.orf.at/program/orf1/dok366.html</strong></p>
 <p>Es ist unbestritten, das Smartphone hat unser Leben erleichtert und verändert - doch nicht nur. Das kleine Gerät fordert enorm viel von unserer Aufmerksamkeit ein. Seit dem Ausbruch der Pandemie ist die Handynutzung unter den Jugendlichen massiv gestiegen, mit verheerenden psychischen und physischen Folgen: Heute 18-Jährige haben mitunter die soziale Kompetenz früherer 10-Jähriger. Bis zu 9 Stunden verbringen sie täglich in der digitalen Welt. Aber nicht nur Kinder und Jugendliche, auch Erwachsene müssen sich immer öfter eingestehen: Wir sind süchtig.</p>
 <p>Für diese Dok1 reist Lisa Gadenstätter in die irische Kleinstadt Greystones, in der Nähe von Dublin. Dort gibt es einen „<a href="https://maurer-online.eu/posts/230817-smartphone-ban-ireland/">No-Smartphone-Code</a>” im privaten und schulischen Bereich. Er gilt für alle Kinder unter elf Jahren. Kann so ein Smartphone-Verbot die Lösung sein?</p>
 <p>Warum greifen wir immer wieder zu unserem Handy? Lisa Gadenstätter trifft die ehemalige App-Entwicklerin Andrea Buhl-Aigner, die über Sinn und Zweck von Social-Media-Apps keinen Zweifel aufkommen lässt: Sie verfolgen ausschließlich das Ziel, Userinnen und User möglichst lange an sich zu binden. Diese Dok1 zeigt, welche perfide Methoden dabei angewendet werden.</p>
@@ -366,6 +375,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <section id="quellen" class="level4">
 <h4 class="anchored" data-anchor-id="quellen">Quellen:</h4>
 <p>Text: Beschreibung im Original übernommen</p>
+<p>Bild: Screenshot aus der Dokumentation</p>
 
 
 </section>
@@ -389,12 +399,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <p><a href="https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2023/09/19/brain-drain-effekt-von-smartphones/"><strong>Universität Augsburg: Pressemitteilung 68/23 - 19.09.2023</strong></a></p>
 <section id="meta-studie-untersucht-den-brain-drain-effekt-durch-smartphones-und-zeigt-kulturelle-unterschiede" class="level3">
 <h3 class="anchored" data-anchor-id="meta-studie-untersucht-den-brain-drain-effekt-durch-smartphones-und-zeigt-kulturelle-unterschiede">Meta-Studie untersucht den Brain-Drain-Effekt durch Smartphones und zeigt kulturelle Unterschiede</h3>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.bewusstsein.digital/posts/230923-brain-drain-smartphone/thumbnail.jpg" class="img-fluid figure-img"></p>
-<figcaption><span class="img-credits">Bild: <a href="https://pixabay.com/de/users/cyndidyoder83-4721719/">Cyn Yoder / Pixabay</a></span></figcaption>
-</figure>
-</div>
+<p><img src="https://www.bewusstsein.digital/posts/230923-brain-drain-smartphone/thumbnail.jpg" class="img-fluid"></p>
 <p><strong>Wie stark Smartphones die Aufmerksamkeit als auch die Gedächtnisleistung reduzieren, ist seit 2017 als Brain-Drain-Effekt bekannt. Ein Forschungsteam der Universität Augsburg um den Schulpädagogen Prof.&nbsp;Dr.&nbsp;Klaus Zierer hat in einer Meta-Analyse, die in der Fachzeitschrift Behavioral Sciences kürzlich veröffentlicht wurde, 22 Studien verglichen und bestätigt den Effekt. Gerade für die Medienerziehung von Kindern und Jugendlichen folgt daraus eine besondere Herausforderung.</strong></p>
 <p>Ein Blick in die Parlamente zeigt: viele Abgeordnete hören nicht zu, sondern wischen, was das Zeug hält. Selbst auf der Regierungsbank ist diese Haltung weit verbreitet, was Bundestagspräsidentin Bärbel Bas im Herbst 2022 dazu bewogen hat, eine „Handy-Enthaltsamkeit” im Deutschen Bundestag anzumahnen. Solch ein Verhalten schade der Außenwirkung der Demokratie, so Bas.</p>
 <p>Viel schwerwiegender als der unkontrollierte Gebrauch ist jedoch ein Effekt, der in der Forschung als Brain-Drain-Effekt bezeichnet wird. Klaus Zierer, Lehrstuhlinhaber für Schulpädagogik, erläutert: „Der Brain-Drain-Effekt geht zurück auf die gleichnamige Studie von Ward und Kollegen aus dem Jahr 2017, die als erstes belegten, dass alleine die Anwesenheit des Smartphones sowohl die Aufmerksamkeit als auch die Gedächtnisleistung reduziert.”</p>
@@ -403,6 +408,7 @@ Bild: <a href="https://www.pexels.com/de-de/@katerina-holmes/">Katerina Holmes /
 <p>Dieses Ergebnis ist vor allem für Bildung und Erziehung hochrelevant, da Kinder und Jugendliche Smartphones besonders intensiv nutzen. Die Augsburger Forscher der Meta-Analyse, Tobias Böttger, Michael Poschik und Klaus Zierer, kommen in dieser Frage zu einer klaren Empfehlung: Der Gebrauch digitaler Medien muss aus pädagogischen Gründen reguliert, kontrolliert und begleitet werden. Medienerziehung müsse deshalb zwei Perspektiven umfassen: „Zum einen müssen insbesondere Kinder vor einer inhaltlich und zeitlich unkontrollierten Nutzung von Smartphones geschützt werden.” Dafür seien auch generelle Verbote insbesondere in Schulen hilfreich, wie es zuletzt die UNESCO in ihrem Global Education Monitoring Report (2023) angesprochen habe. Hierbei sei vor allem an die Grundschule, aber auch an die Unterstufen der weiterführenden Schulen zu denken. „Zum anderen müssen schulische Konzepte entwickelt werden”, argumentiert die Augsburger Forschergruppe in ihrem Artikel, „die Jugendliche an die Nutzung von Smartphones mit Augenmaß heranführen und dabei ein hohes Maß an Selbstreflexion und Eigenverantwortung in den Mittelpunkt stellen.” Dies erfordere auch seitens der Lehrpersonen nicht nur technische Kenntnisse, sondern vor allem auch Wissen über das Ablenkungspotenzial von Smartphones und deren Einfluss auf Gedächtnis, Aufmerksamkeit und allgemeine kognitive Leistungen. „Es wäre unverantwortlich, die naive Nutzung digitaler Medien unreflektiert in pädagogische Kontexte zu übertragen”, betont Zierer.</p>
 <p><strong>Originalpublikation:</strong><br>
 Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? A Meta-Analysis. Behav. Sci. 2023, 13, 751. <a href="https://doi.org/10.3390/bs13090751" class="uri">https://doi.org/10.3390/bs13090751</a></p>
+<p>Bild: <a href="https://pixabay.com/de/users/cyndidyoder83-4721719/">Cyn Yoder</a> / <a href="https://pixabay.com/de/photos/teenager-iphone-smartphone-m%C3%A4dchen-5224456/">Pixabay</a></p>
 
 
 </section>
