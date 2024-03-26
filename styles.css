@@ -186,12 +186,12 @@ figcaption {
 }
 
 /*news*/
-.nentry, .news ul{
+.nentry {
   padding: 0;
   margin: 0;
 }
 
-.nentry, .news li{
+.nentry {
   background:white;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
@@ -200,7 +200,7 @@ figcaption {
 	margin: 0.5em 0 0.8rem;
 }
 
-.nentry blockquote, .news blockquote{
+.nentry blockquote {
   padding: 1.2em 0.8em;
 	margin: 0.5em 0.5em 1rem;
 	position: relative;
@@ -209,7 +209,7 @@ figcaption {
 	z-index: 0;
 }
 
-.nentry blockquote::after, .news blockquote::after {
+.nentry blockquote::after {
 	content: '';
 	background-image: url(resources/stripe.png), url(resources/bg.png), linear-gradient(to bottom, transparent 50%, rgba(0,0,0,.07) 100%);
 	background-repeat: repeat-x, repeat, no-repeat;
@@ -221,7 +221,7 @@ figcaption {
 	z-index: -1;
 }
 
-.nentry blockquote::before, .news blockquote::before {
+.nentry blockquote::before {
 	position: absolute;
 	content: '';
 	background: linear-gradient(to bottom, transparent 30%, black 100%);
@@ -234,33 +234,33 @@ figcaption {
 	z-index: -1;
 }
 
-.nentry blockquote p, .news blockquote p{
+.nentry blockquote p{
   margin: 1.2rem 0 0;
 }
 
 @media screen and (max-width:575px){
-  .nentry blockquote, .news blockquote{
+  .nentry blockquote{
     width: 90%;
     margin: 0 auto 1rem;
   }
 }
 @media screen and (min-width:576px){
-    .nentry blockquote, .news blockquote{
+    .nentry blockquote{
     width: 80%;
     margin: 0 auto 1rem;
   }
 }
 
-.news blockquote:nth-child(even) {
+.nentry blockquote:nth-child(even) {
   transform: rotate(0.3deg);
 }
-.news blockquote:nth-child(3n) {
+.nentry blockquote:nth-child(3n) {
   transform: rotate(-0.7deg);
 }
-.news blockquote:nth-child(5n) {
+.nentry blockquote:nth-child(5n) {
   transform: rotate(1.2deg);
 }
-.news blockquote:nth-child(6n) {
+.nentry blockquote:nth-child(6n) {
   transform: rotate(-0.9deg);
 }
 
