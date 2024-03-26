@@ -4,21 +4,27 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 26. März {#sec-240326}
+
+Kinder in Florida unter 14 Jahren dürfen ab 2025 keine sozialen Netzwerke mehr nutzen. Ein Verbot bis 16 Jahre hat es nicht in das Gesetz geschafft, allerdings ist die Nutzung zwischen 14-16 nur mit elterlicher Einwilligung möglich. Was genau unter eine "Social Media Platform" fällt, wird im Gesetz ziemlich [komplex definiert](https://www.heise.de/news/Florida-sperrt-Kinder-aus-Sozialen-Netzen-aus-9666206.html):
+
+>Erstens muss sie Nutzern erlauben, Inhalte hochzuladen und Inhalte oder Aktivitäten anderer Nutzer zu sehen; zweitens muss wenigstens ein Zehntel der Nutzer unter 16 Jahren das Angebot im Schnitt mindestens zwei Stunden pro Nutzungstag verwenden; drittens muss es Algorithmen geben, die Nutzerdaten auswerten, um Inhalte auszuwählen – damit ist beispielsweise der typische Mastodon-Dienst nicht erfasst, weil dort kein Algorithmus Inhalte auswählt, sondern antichronologisch Inhalte anderer Nutzer gezeigt werden, die der Anwender selbst bestimmt hat.
+>
+>Viertens muss es mindestens ein der folgenden Angebote geben, die vom Gesetz als süchtig machend eingestuft werden: Unendliches Scrollen, Pushnachrichten, die Anzeige von Statistiken über Zugriffe, Likes oder Shares, automatisch anlaufende Videos oder Livestreams von Nutzern oder Werbetreibenden. Ausgenommen vom Gesetz sind jedenfalls E-Mail- und Messaging-Dienste, die keine Veröffentlichung an unbestimmte Dritte vorsehen.
+
+Außerdem wird nach dem Gesetz ein Zugang zu pornographischen Angeboten erst ab 18 Jahren möglich sein, es gilt dann eine Ausweispflicht.  
+:::
+
+::: nentry
 ##### 23. März {#sec-240323}
 
 [Datenleck in KiTa-App](https://www.heise.de/news/Datenleck-bei-beliebter-KiTa-App-Stay-Informed-9662578.html): fast drei Jahre lang lagen die Daten von über 800.000 Familien aus mehr als 11.000 Einrichtungen quasi offen im Netz. Namen, Geburtsdaten, Anschriften, Fotos (natürlich auch von Minderjährigen), Informationen zum Impfstatus, Herkunftsländer... alles eben, bis hin zu den Unterschriften der Eltern. Warum? Pfusch. Und zwar so großer:
 
 > Der Server war über das Klartext-Protokoll HTTP erreichbar. Er lieferte direkt ein "Directory Listing" seines Inhalts. Directory Listing ist eine Funktion, die aus den Anfangszeiten des Internet stammt und im Webserver Apache noch immer eingebaut ist. Sie gehört in den allermeisten Fällen deaktiviert, denn liegen auf einem Server Dateien, die nicht für die Öffentlichkeit bestimmt sind, offenbart Directory Listing sie gnadenlos. Das eigentliche Problem im konkreten Fall ist aber der fehlende Zugriffsschutz auf die Dateien.
 
-Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Problem zu beheben raus aus der Sache, die Verantwortung tragen die Anderen:
+Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Problem zu beheben, raus aus der Sache. Die Verantwortung tragen die Anderen:
 
-> Das Unternehmen schließt mit diesen Kunden einen
-> Auftragsverarbeitungsvertrag ab, demzufolge es seinen Service als
-> "Software-as-a-Service" bereitstellt. Verantwortlich im Sinne der DSGVO
-> sind damit die über 11.000 Einrichtungen, die jetzt jeweils einen
-> individuellen Datenschutzvorfall im Haus haben, den sie in vielen Fällen
-> der zuständigen Landesdatenschutzbehörde und eventuell sogar den
-> betroffenen Eltern melden müssen.
+> Das Unternehmen schließt mit diesen Kunden einen Auftragsverarbeitungsvertrag ab, demzufolge es seinen Service als "Software-as-a-Service" bereitstellt. Verantwortlich im Sinne der DSGVO sind damit die über 11.000 Einrichtungen, die jetzt jeweils einen individuellen Datenschutzvorfall im Haus haben, den sie in vielen Fällen der zuständigen Landesdatenschutzbehörde und eventuell sogar den betroffenen Eltern melden müssen.
 :::
 
 ::: nentry
@@ -43,62 +49,12 @@ Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere
 [Materialismus in sozialen Medien führt zu erhöhtem Stress und macht unglücklich](https://news.rub.de/presseinformationen/wissenschaft/2024-01-19-psychologie-warum-materialismus-sozialen-medien-stresst-und-ungluecklich-macht), hat man jetzt an der Universität Bochum herausgefunden. Dazu wurden über 1.200 Menschen befragt. Es zeigte sich, dass eine stärkere materialistische Orientierung mit einer größeren Tendenz einhergeht, sich mit anderen zu vergleichen. Dies geschieht meist passiv, rein durch das Betrachten von Inhalten in sozialen Netzwerken. Die Angst etwas zu verpassen fördere wiederum den suchtartigen Gebrauch, so dass schnell eine Abwärtsspirale in Gang kommt mit Symptomen wie schlechter mentaler Gesundheit in Form von Stress und einer verringerten Lebenszufriedenheit.
 :::
 
-::: news
--   
+::: nentry
+##### 3. Januar
 
-    ##### 3. Januar
+Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
 
-    Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
+> Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
 
-    > Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
-
-    In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden.
-
--   
-
-    ##### 23. Dezember {#sec-231223}
-
-    China ist im Regulieren von Missständen ja bekanntlich nicht zimperlich. Nachdem erst 2021 strenge Spielzeitbeschränkungen für Minderjährige gesetzt wurden, [werden jetzt eine große Anzahl an Ausgaben- und Belohnungsmechanismen reguliert](https://www.reuters.com/world/china/china-issues-draft-rules-online-game-management-2023-12-22/). Dazu gehören bestimmte Spielbelohnungen, wie z. B. für den täglichen Login und auch die (Echtgeld-) Ausgaben, die Spieler machen dürfen. Die beiden größten Spielehersteller in China verloren auf diese Ankündigung schlagartig fast 80 Mrd. Dollar Marktwert.
-
-    ------------------------------------------------------------------------
-
-    **Nachtrag 25.12.:** Die chinesischen Behörden haben als ["Weihnachtskompensation" 105 neue Spiele zugelassen](https://www.heise.de/news/China-Massenzulassung-von-Online-Spielen-gegen-Kursstuerze-9582739.htmle-game-management-2023-12-22/), so viel wie seit anderthalb Jahren nicht.
-
--   
-
-    ##### 15. Dezember {#seq-231215}
-
-    Nachdem Schweden angekündigt hat, in der Digitalisierung von Kindergärten und Grundschulen die [Rolle rückwärts](posts/230820-kitas-in%20schweden-bildschirmfrei) zu machen, wird es jetzt konkret: [Das (Schul-)Buch ist zurück und wird liebevoll eingeführt](https://www.tagesschau.de/ausland/europa/schweden-schulen-buecher-100.html):
-
-    > "Ich gebe es Euch erstmal, damit ihr es euch in Ruhe anschauen könnt. Blättert es mal durch. Es ist ganz neu!"
-
-    Die Kinder stellen fest, dass man jetzt selber lesen muss, das hat vorher der Computer gemacht. Mit Folgen, wie eine Lehrerin feststellt:
-
-    > "Die Lesegeschwindigkeit, der Wortschatz und das Leseverständnis sind insgesamt bei den Schülern zurückgegangen. Wir glauben, dass es daran liegt, dass wir zu viel digital gemacht haben."
-
-    Auch die Eltern freuen sich über analoge Seiten, da sie viel leichter nachvollziehen können, was die Kinder eigentlich so machen.
-
--   
-
-    ##### 7. Dezember {#seq-231207}
-
-    "Pisa-Schock" (mal wieder): "[Deutsche Schüler so schlecht wie nie](https://www.tagesschau.de/inland/gesellschaft/pisa-studie-128.html)" (mal wieder):
-
-    > Knapp ein Drittel der 15-Jährigen hat in mindestens einem der drei getesteten Felder nur sehr geringe Kompetenzen. Etwa jeder sechste Jugendliche hat in allen drei Bereichen deutliche Defizite. Die Anteile dieser besonders leistungsschwachen Jugendlichen sind seit 2018 größer geworden und betragen in Mathematik rund 30 Prozent, im Lesen rund 26 Prozent und in den Naturwissenschaften rund 23 Prozent.
-    >
-    > Der Anteil der besonders leistungsstarken Schülerinnen und Schüler ist wiederum gesunken - in Mathematik auf knapp neun Prozent und im Lesen auf knapp acht Prozent. In den Naturwissenschaften blieb dieser Anteil bei etwa zehn Prozent stabil.
-
-    Was folgt? [Es wird viel geredet werden](https://www.tagesschau.de/inland/innenpolitik/pisa-ergebnisse-reaktionen-100.html) und anschließend vermutlich Symptombekämpfung betrieben. Der zumindest zeitliche Zusammenhang mit der zunehmenden Smartphonenutzung wird dabei weitestgehend ausgeklammert. Dazu fehlen natürlich in den dringend sanierungsbedürftigen Schulen dieses dringend sanierungsbedürftigen Bildungssystem auch noch dringend jede Menge nichtsanierungsbedürftige Lehrer.
-
-    [Dazu ein sehr lesenswertes Interview mit Prof. Gertraud Teuchert-Noodt](https://www.diagnose-funk.org/aktuelles/artikel-archiv/detail&newsid=2037)
-
--   
-
-    ##### 1. Dezember {#seq-231201}
-
-    Wegen der KI: [Uni in Prag schafft Bachelorarbeiten ab](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/erste-uni-schafft-wegen-ki-und-plagiaten-bachelorarbeiten-ab-19353621.html) (Paywall)...
-
-    ...und ersetzt sie möglicherweise durch etwas viel Sinvolleres:
-
-    > Wir werden den Abschluss des Bachelorstudiums auf eine praktische Art und Weise konzipieren, die viel weniger Raum für Plagiate lässt und von der die Studenten viel mehr nützliche Erfahrungen in ihr Leben mitnehmen werden.
+In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden.
 :::
