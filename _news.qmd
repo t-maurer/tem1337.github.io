@@ -25,13 +25,10 @@ Außerdem wird nach dem Gesetz ein Zugang zu pornographischen Angeboten erst ab 
 Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Problem zu beheben, raus aus der Sache. Die Verantwortung tragen die Anderen:
 
 > Das Unternehmen schließt mit diesen Kunden einen Auftragsverarbeitungsvertrag ab, demzufolge es seinen Service als "Software-as-a-Service" bereitstellt. Verantwortlich im Sinne der DSGVO sind damit die über 11.000 Einrichtungen, die jetzt jeweils einen individuellen Datenschutzvorfall im Haus haben, den sie in vielen Fällen der zuständigen Landesdatenschutzbehörde und eventuell sogar den betroffenen Eltern melden müssen.
-<<<<<<< HEAD
 
 ------------------------------------------------------------------------
 
 **Update:** Der App-Anbieter "Stay Informed" hat inziwschen eine [Informations- und FAQ-Seite](https://www.stayinformed.de/information-sicherheit/) für die Betroffenen eingerichtet.
-=======
->>>>>>> 45c2c30beb81928cfae54aaf4b1cc099b6c47b32
 :::
 
 ::: nentry
@@ -64,8 +61,4 @@ Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](htt
 > Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
 
 In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden.
-<<<<<<< HEAD
 :::
-=======
-:::
->>>>>>> 45c2c30beb81928cfae54aaf4b1cc099b6c47b32
