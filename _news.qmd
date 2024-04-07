@@ -4,6 +4,40 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 7. April
+
+Nachdem erst kürzlich eine [KiTa-App tiefe Einblicke in ihre Nutzerdaten](#sec-240323) gewährt hat, gibt es nun eine [Sicherheitslücke bei der Kinderüberwachungs-App "KidSecurity"](https://cybernews.com/security/parental-control-app-kidsecurity-data-leak/):
+
+> Während einer einstündigen Beobachtung erhielten die Forscher 456.000 private Nachrichten, die über Social-Media-Apps auf den Telefonen von Minderjährigen verschickt wurden, sowie Statistiken über die Anwendungsnutzung von 11.000 Telefonen.
+
+Und das nicht zum ersten Mal: Bereits [2023 hat das gleiche Team des litauischen Potals Cybernews.com](https://cybernews.com/security/kidsecurity-parental-control-data-leak/) über 300 Millionen Datensätze mit 21.000 Telefonnummern und 31.000 Mailadressen von Servern der App abgreifen können.
+
+Die geleakten Daten umfassten außerdem:
+
+-   Nachrichten von Minderjährigen in sozialen Medien, einschließlich Instagram, WhatsApp, Telegram, Viber und Vkontakte
+
+-   E-Mail-Adressen der Eltern
+
+-   IP-Adressen
+
+-   App Store-Informationen: Land, Profilland, für Transaktionen verwendete Währungen, Start- und Ablaufdatum von Abonnements
+
+-   Listen der auf dem Telefon installierten Apps und deren Nutzungsstatistiken
+
+-   Belohnungen, die Kinder für die Erledigung von Aufgaben wie Hausarbeiten oder die Teilnahme an Sportveranstaltungen erhalten
+
+-   Audioaufzeichnungen der Umgebung von Minderjährigen
+
+-   IMEI-Nummern
+
+-   Geräte-Standorte
+
+-   Batteriestände der Geräte
+
+-   Andere periodisch gesendete Metadaten
+:::
+
+::: nentry
 ##### 26. März {#sec-240326}
 
 Kinder in Florida unter 14 Jahren dürfen ab 2025 keine sozialen Netzwerke mehr nutzen. Ein Verbot bis 16 Jahre hat es nicht in das Gesetz geschafft, allerdings ist die Nutzung zwischen 14-16 nur mit elterlicher Einwilligung möglich. Was genau unter eine "Social Media Platform" fällt, wird im Gesetz ziemlich [komplex definiert](https://www.heise.de/news/Florida-sperrt-Kinder-aus-Sozialen-Netzen-aus-9666206.html):
@@ -28,7 +62,7 @@ Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Prob
 
 ------------------------------------------------------------------------
 
-**Update:** Der App-Anbieter "Stay Informed" hat inziwschen eine [Informations- und FAQ-Seite](https://www.stayinformed.de/information-sicherheit/) für die Betroffenen eingerichtet.
+**Update**: Der App-Anbieter "Stay Informed" hat inziwschen eine [Informations- und FAQ-Seite](https://www.stayinformed.de/information-sicherheit/) für die Betroffenen eingerichtet.
 :::
 
 ::: nentry
@@ -39,26 +73,4 @@ Sachsen-Anhalts Finanzministerium hat 2021 Hardwarefirewalls für die Schulen an
 > Ein Schulträger antwortet, dass er die Firewalls des Landes nicht übernommen hat. Er setze aber Geräte des gleichen Herstellers mit der gleichen Schutz-Leistung ein – zu einem deutlich günstigeren Preis.
 >
 > In vielen Schulen sind die Geräte nicht im Einsatz, auch weil die Landesregierung die Kosten nach den zwei Jahren nicht mehr übernimmt und den Wartungsvertrag gekündigt hat. Nun erhalten die Geräte "keine Updates und stellen dadurch ein erhebliches Sicherheitsrisiko dar", schreibt ein Schulträger. Andere berichten, sie haben eigene Firewall-Lösungen, die keine weiteren Kosten verursachen würden.
-:::
-
-::: nentry
-##### 25. Januar {#sec-240125}
-
-Im Dezember ließen strenge Regeln für Online-Gaming in China die Kurse mehrere Firmen einbrechen. [Nun macht die Regierung offenbar einen Rückzieher.](https://www.heise.de/news/China-macht-offenbar-Rueckzieher-bei-strengeren-Spieleregeln-9600939.html)
-:::
-
-::: nentry
-##### 19. Januar {#sec-240119}
-
-[Materialismus in sozialen Medien führt zu erhöhtem Stress und macht unglücklich](https://news.rub.de/presseinformationen/wissenschaft/2024-01-19-psychologie-warum-materialismus-sozialen-medien-stresst-und-ungluecklich-macht), hat man jetzt an der Universität Bochum herausgefunden. Dazu wurden über 1.200 Menschen befragt. Es zeigte sich, dass eine stärkere materialistische Orientierung mit einer größeren Tendenz einhergeht, sich mit anderen zu vergleichen. Dies geschieht meist passiv, rein durch das Betrachten von Inhalten in sozialen Netzwerken. Die Angst etwas zu verpassen fördere wiederum den suchtartigen Gebrauch, so dass schnell eine Abwärtsspirale in Gang kommt mit Symptomen wie schlechter mentaler Gesundheit in Form von Stress und einer verringerten Lebenszufriedenheit.
-:::
-
-::: nentry
-##### 3. Januar
-
-Eine neue Form von Gewalt gegen Kinder erscheint gerade: "[Cyber-Kidnapping](https://www.heise.de/news/Cyber-Kidnapping-Austauschschueler-in-den-USA-inszeniert-eigene-Entfuehrung-9585938.html)". Dabei werden Jugendliche unter Androhung von Gewalt gegen die Familie genötigt, ihre eigene Entführung vorzutäuschen. Die Familie wird dann mit Hilfe von Aufnahmen, die das Kind erstellen muss, erpresst.
-
-> Die Beschreibungen legen nahe, dass die Kriminellen zu keiner Zeit auch nur in der Nähe der jugendlichen Opfer sind. Stattdessen werden sie über das Internet manipuliert und gezielt dazu gebracht, Fotos und Audioaufnahmen anzufertigen, mit denen ihre Familien erpresst werden. Die Jugendlichen tun das, weil sie fürchten, dass ihren Angehörigen bei Nichtbefolgung etwas angetan wird, schreibt die Polizei.
-
-In den USA sind solche "Entführungen" wohl schon häufiger durchgeführt worden.
 :::
