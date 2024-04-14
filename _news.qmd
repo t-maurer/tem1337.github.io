@@ -12,7 +12,6 @@ Nachdem erst kürzlich eine [KiTa-App tiefe Einblicke in ihre Nutzerdaten](#sec-
 
 Und das nicht zum ersten Mal: Bereits [2023 hat das gleiche Team des litauischen Potals Cybernews.com](https://cybernews.com/security/kidsecurity-parental-control-data-leak/) über 300 Millionen Datensätze mit 21.000 Telefonnummern und 31.000 Mailadressen von Servern der App abgreifen können.
 
-
 Die geleakten Daten umfassten außerdem:
 
 -   Nachrichten von Minderjährigen in sozialen Medien, einschließlich Instagram, WhatsApp, Telegram, Viber und Vkontakte

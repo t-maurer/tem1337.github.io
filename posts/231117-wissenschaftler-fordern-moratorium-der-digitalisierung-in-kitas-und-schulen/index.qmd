@@ -1,5 +1,5 @@
 ---
-title: "Wissenschaftler fordern Moratorium der Digitalisierung in KITAs und Schulen"
+title: "Wissenschaftler fordern Moratorium der Digitalisierung in Kindergärten und Schulen"
 date: 2023-11-17T08:22
 categories: [pädagogik, bildung, digitalisierung, kita, grundschule, moratorium]
 #image: "thumbnail.jpg"

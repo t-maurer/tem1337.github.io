@@ -7,7 +7,7 @@ image: "thumbnail.jpg"
 
 ### Eltern und Schulen in ganz Greystone verabschieden einen freiwilligen "Smartphone-Verbotskodex", um den Gruppendruck einzudämmen
 
-![<span class="img-credits">Bild: [RDNE Stock project / Pexels](https://www.pexels.com/@rdne/)</span>](thumbnail.jpg){.post-image fig-align="left"}
+![[Bild: [RDNE Stock project / Pexels](https://www.pexels.com/@rdne/)]{.img-credits}](thumbnail.jpg){.post-image fig-align="left"}
 
 In der irischen Stadt Greystones haben Eltern einen gemeinsamen Entschluss gefasst: Ihre Kinder dürfen bis zur weiterführenden Schule kein Smartphone besitzen. Elternvereinigungen in den acht Grundschulen des Bezirks haben einen Smartphone-Verbotskodex verabschiedet, um eine gemeinsame Front gegen die Lobbyarbeit der Kinder zu bilden.
 
@@ -19,5 +19,4 @@ Zwar werden sich nicht alle an diese Vereinbarung halten, aber es haben sich woh
 
 #### Quellen
 
-Ganzer Artikel im Original: <https://www.theguardian.com/technology/2023/jun/03/much-easier-to-say-no-irish-town-unites-in-smartphone-ban-for-young-children>
-
+<https://www.theguardian.com/technology/2023/jun/03/much-easier-to-say-no-irish-town-unites-in-smartphone-ban-for-young-children>
