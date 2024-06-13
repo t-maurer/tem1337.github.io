@@ -4,7 +4,23 @@ callout-icon: false
 ---
 
 ::: nentry
-##### 7. April
+##### 6. Juni {#sec-240606}
+
+In einer jüngst veröffentlichten [Studie](https://www.nature.com/articles/s41390-024-03243-y), bei der in den USA mehr als 10.000 Kinder zwischen 12 und 13 Jahren und deren Eltern befragt wurden, wird deutlich, dass das Bildschirmverhalten der Eltern einen entscheidenden Einfluss auf das der Kinder hat: Je mehr Zeit die Eltern an den Geräten verbringen, um so mehr tun es auch die Kinder. Außerdem nutzen Kinder mehr digitale Medien, wenn in der Familie beim Essen Bildschirme an sind und wenn sie vor dem Einschlafen noch digitale Geräte nutzen. In beiden Fällen zeigten die Kinder häufiger problematisches Nutzungsverhalten in sozialen Medien, in Videospielen und am Smartphone.
+
+Bildschirmzeit als Belohnung oder Bestrafung für die Kinder funktioniert, laut der Studie, nicht. Mit dieser Erziehungsmaßnahme hatten die Kinder dann insgesamt sogar mehr Medienzeit.
+:::
+
+::: nentry
+##### 4. Juni {#sec-240604}
+
+In Österreich gibt es Datenschutzbeschwerden: [Microsoft spioniert Schüler aus](https://www.heise.de/news/Noyb-Beschwerde-ueber-Tracking-Microsoft-verletzt-Privatsphaere-von-Schuelern-9747983.html). Zum einen geht es dabei um das Trackingverhalten von MS 365 Education, welches standardmäßig und ungefragt aktiviert ist, zum anderen geht es um die Abwälzung der Verantwortung des Betriebs der Software auf die Schulen. Microsoft will nur "Auftragsverarbeiter" sein und die Gewinne einfahren, die Schulen haften als Verantwortliche für den Einsatz der Software.
+
+> Es sei nicht einmal erkennbar, welche Datenschutzrichtlinien für die Nutzung von MS 365 Education gelten: Die Dokumentation des Unternehmens "ist so intransparent und kompliziert", dass Nutzer und Schulen sich in einem Labyrinth aus unterschiedlichen Dokumenten und Verträgen zurechtfinden müssten. Die bereitgestellten Informationen seien immer etwas anders, aber "durchgehend vage formuliert".
+:::
+
+::: nentry
+##### 7. April {#sec-240407}
 
 Nachdem erst kürzlich eine [KiTa-App tiefe Einblicke in ihre Nutzerdaten](#sec-240323) gewährt hat, gibt es nun eine [Sicherheitslücke bei der Kinderüberwachungs-App "KidSecurity"](https://cybernews.com/security/parental-control-app-kidsecurity-data-leak/):
 
@@ -63,14 +79,4 @@ Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Prob
 ------------------------------------------------------------------------
 
 **Update**: Der App-Anbieter "Stay Informed" hat inziwschen eine [Informations- und FAQ-Seite](https://www.stayinformed.de/information-sicherheit/) für die Betroffenen eingerichtet.
-:::
-
-::: nentry
-##### 15. Februar {#sec-240215}
-
-Sachsen-Anhalts Finanzministerium hat 2021 Hardwarefirewalls für die Schulen angeschafft. 18 Millionen Euro inkl. Wartungsvertrag für zwei Jahre. Kaum jemand wollte sie, viele Schulen hielten ihre üblichen und schon vorhandenen Sicherheitskomponenten für ausreichend. Konfigurieren ließen sie sich auch nicht, so wurde teilweise das Internet sehr langsam, Drucker funktionierten nicht mehr. Der MDR hat nachgefragt: [Die Geräte werden inzwischen, größtenteils ungenutzt, "fachgerecht entsorgt", eingelagert oder zurückgeschickt.](https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/firewalls-schulen-hueskens-elektroschrott-achtzehn-millionen-104.html)
-
-> Ein Schulträger antwortet, dass er die Firewalls des Landes nicht übernommen hat. Er setze aber Geräte des gleichen Herstellers mit der gleichen Schutz-Leistung ein – zu einem deutlich günstigeren Preis.
->
-> In vielen Schulen sind die Geräte nicht im Einsatz, auch weil die Landesregierung die Kosten nach den zwei Jahren nicht mehr übernimmt und den Wartungsvertrag gekündigt hat. Nun erhalten die Geräte "keine Updates und stellen dadurch ein erhebliches Sicherheitsrisiko dar", schreibt ein Schulträger. Andere berichten, sie haben eigene Firewall-Lösungen, die keine weiteren Kosten verursachen würden.
 :::
