@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
       "/posts/240228-dak-suchtstudie-2023/index.html",
       "/posts/240220-handy-verbot-england/index.html",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/240228-dak-suchtstudie-2023/index.html",
       "/posts/240220-handy-verbot-england/index.html",
