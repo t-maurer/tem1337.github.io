@@ -238,6 +238,10 @@ figcaption {
   margin: 1.2rem 0 0;
 }
 
+.nentry li p {
+  margin-bottom: 0.4rem;
+}
+
 @media screen and (max-width:575px){
   .nentry blockquote{
     width: 90%;
