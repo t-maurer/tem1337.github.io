@@ -4,6 +4,11 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 17. Juni {#sec-240617}
+[Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind im diesen Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag. Jeden Tag!
+:::
+
+::: nentry
 ##### 6. Juni {#sec-240606}
 
 In einer jüngst veröffentlichten [Studie](https://www.nature.com/articles/s41390-024-03243-y), bei der in den USA mehr als 10.000 Kinder zwischen 12 und 13 Jahren und deren Eltern befragt wurden, wird deutlich, dass das Bildschirmverhalten der Eltern einen entscheidenden Einfluss auf das der Kinder hat: Je mehr Zeit die Eltern an den Geräten verbringen, um so mehr tun es auch die Kinder. Außerdem nutzen Kinder mehr digitale Medien, wenn in der Familie beim Essen Bildschirme an sind und wenn sie vor dem Einschlafen noch digitale Geräte nutzen. In beiden Fällen zeigten die Kinder häufiger problematisches Nutzungsverhalten in sozialen Medien, in Videospielen und am Smartphone.
