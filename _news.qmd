@@ -5,7 +5,7 @@ callout-icon: false
 
 ::: nentry
 ##### 17. Juni {#sec-240617}
-[Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind im diesen Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag. Jeden Tag!
+[Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind in diesem Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag Onlinezeit. Jeden Tag!
 :::
 
 ::: nentry
