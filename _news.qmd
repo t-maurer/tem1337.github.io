@@ -5,18 +5,21 @@ callout-icon: false
 
 ::: nentry
 ##### 18. Juni {#sec-240618}
+
 [Petition gegen Digitalzwang gestartet](https://digitalcourage.de/blog/2024/petition-fuer-recht-auf-ein-leben-ohne-digitalzwang-gestartet):
->An immer mehr Stellen werden wir genötigt, uns einzuloggen, online zu registrieren oder eine App herunterzuladen – und dabei persönliche Daten preiszugeben. Und das, um Dienste zu nutzen, die zur Grundversorgung gehören!
->
->Es darf nicht sein, dass das Wahrnehmen von Grundrechten, die Teilhabe am gesellschaftlichen Leben und die Nutzung öffentlicher Infrastruktur (Bahn, Post, medizinische Versorgung) davon abhängig ist, dass wir Internet haben, ein Smartphone bei uns tragen oder eine bestimmte App installieren.
->
->Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
 
->>>> [HIER UNTERZEICHNEN](https://digitalcourage.de/recht-auf-leben-ohne-digitalzwang)
+> An immer mehr Stellen werden wir genötigt, uns einzuloggen, online zu registrieren oder eine App herunterzuladen – und dabei persönliche Daten preiszugeben. Und das, um Dienste zu nutzen, die zur Grundversorgung gehören!
+>
+> Es darf nicht sein, dass das Wahrnehmen von Grundrechten, die Teilhabe am gesellschaftlichen Leben und die Nutzung öffentlicher Infrastruktur (Bahn, Post, medizinische Versorgung) davon abhängig ist, dass wir Internet haben, ein Smartphone bei uns tragen oder eine bestimmte App installieren.
+>
+> Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
 
+\>\>\>\> [HIER UNTERZEICHNEN](https://digitalcourage.de/recht-auf-leben-ohne-digitalzwang)
 :::
+
 ::: nentry
 ##### 17. Juni {#sec-240617}
+
 [Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind in diesem Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag Onlinezeit. Jeden Tag!
 :::
 
