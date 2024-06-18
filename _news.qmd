@@ -6,6 +6,7 @@ callout-icon: false
 ::: nentry
 ##### 18. Juni {#sec-240618}
 [Petition gegen Digitalzwang gestartet](https://digitalcourage.de/blog/2024/petition-fuer-recht-auf-ein-leben-ohne-digitalzwang-gestartet):
+
 >An immer mehr Stellen werden wir genötigt, uns einzuloggen, online zu registrieren oder eine App herunterzuladen – und dabei persönliche Daten preiszugeben. Und das, um Dienste zu nutzen, die zur Grundversorgung gehören!
 >
 >Es darf nicht sein, dass das Wahrnehmen von Grundrechten, die Teilhabe am gesellschaftlichen Leben und die Nutzung öffentlicher Infrastruktur (Bahn, Post, medizinische Versorgung) davon abhängig ist, dass wir Internet haben, ein Smartphone bei uns tragen oder eine bestimmte App installieren.
