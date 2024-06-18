@@ -14,6 +14,12 @@ callout-icon: false
 >
 > Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
 
+> An immer mehr Stellen werden wir genötigt, uns einzuloggen, online zu registrieren oder eine App herunterzuladen – und dabei persönliche Daten preiszugeben. Und das, um Dienste zu nutzen, die zur Grundversorgung gehören!
+>
+> Es darf nicht sein, dass das Wahrnehmen von Grundrechten, die Teilhabe am gesellschaftlichen Leben und die Nutzung öffentlicher Infrastruktur (Bahn, Post, medizinische Versorgung) davon abhängig ist, dass wir Internet haben, ein Smartphone bei uns tragen oder eine bestimmte App installieren.
+>
+> Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
+
 \>\>\>\> [HIER UNTERZEICHNEN](https://digitalcourage.de/recht-auf-leben-ohne-digitalzwang)
 :::
 
