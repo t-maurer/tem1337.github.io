@@ -4,6 +4,11 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 16. Juli {#sec-240716}
+Bei heise ist aktuell ein Artikel mit einer [Übersicht zu Smartphone-Verboten an Schulen](https://www.heise.de/news/Immer-mehr-Laender-verbieten-Smartphones-an-Schulen-9801553.html) erschienen.
+:::
+
+::: nentry
 ##### 18. Juni {#sec-240618}
 
 [Petition gegen Digitalzwang gestartet](https://digitalcourage.de/blog/2024/petition-fuer-recht-auf-ein-leben-ohne-digitalzwang-gestartet):
