@@ -93,9 +93,7 @@ Wegen der KI: [Uni in Prag schafft Bachelorarbeiten ab](https://www.faz.net/aktu
 ::: nentry
 ##### 26. November {#seq-231126}
 
-```         
 [Eine knappe Mehrheit der deutschen Bevölkerung befürchtet inzwischen, dass die Digitalisierung zu mehr Ungleichheit im Sozialen und in der Bildung führt.](https://www.ifo.de/publikationen/2023/aufsatz-zeitschrift/chancenungleichheit-bildungssystem) Im Bildungssystem wird dies von 53% der Befragten erwartet (2017 waren es noch 44%), nur noch 13% erwarten keine größere Ungleichheit, 2017 waren es noch 51%.
-```
 :::
 
 ::: nentry
