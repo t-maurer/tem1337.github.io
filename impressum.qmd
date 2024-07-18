@@ -4,7 +4,7 @@ email-obfuscation: javascript
 
 # Impressum
 
-Angaben gemäß § 5 TMG
+Angaben gemäß § 5 DDG
 
 Tobias Maurer\
 Paul-Ehrlich-Str. 9\
