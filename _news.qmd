@@ -4,7 +4,34 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 28. September {#sec-240928}
+
+Die US-Handelsaufsicht (FTC) dokumentiert in einem [aktuellen Bericht](https://www.ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-streaming-services), dass die großen Internetplattformen (Amazon, Meta/Facebook/WhatsApp, Google/Youtube, ByteDance/TikTok etc.) ein riesiges Überwachungsnetzwerk aufgebaut haben in dem sie Unmengen an Daten über die Nutzer und Nichtnutzer ihrer Angebote sammeln. Dabei wird ein umfassender Datenaustausch betrieben, bei dem die Unternehmen teilweise selbst nicht sagen können, wo die Daten überall hingehen.
+
+Dass die Tecch-Konzerne die Persönlichkeitsrechte ihrer Nutzer und den Datenschutz zur Profitmaximiereung mit Füßen treten ist ja nicht neu, es wird so aber mal wieder in die öffentliche Wahrnehmung gebracht.
+:::
+
+::: nentry
+##### 11. September {#sec-240911}
+
+Im Internet sind Gewalt und Pornos ja potentiell immer nur einen Klick entfernt. 42%, also knapp die Hälfte der Kinder zwischen 11-17 Jahren, gab in einer [repräsentativen Umfrage der Medienanstalt NRW](https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2024/default-a455c6a6ed/default-8ae3153c8164758c99b5658207373c89-2/klar-haben-wir-schon-einen-porno-gesehen.html) an, bereits einen Porno gesehen zu haben. 2023 waren es "nur" 35%. Ein Anstieg ist vor allem bei den 11- bis 13-Jährigen zu verzeichnen (von 19% (2023) auf 26% (2024)). Dabei spielen Messenger wie WhatsApp eine große Rolle: Ein Viertel der Befragten gab an, bereits Sexting-Nachrichten erhalten zu haben, davon bekamen 79% diese Nachrichten nicht freiwillig.
+:::
+
+::: nentry
+##### 2. September {#sec-240902}
+
+Auch in den [Niederlanden gilt ab sofort ein Smartphone-Verbot](https://www.heise.de/news/Handyverbot-an-niederlaendischen-Schulen-gestartet-9854301.html) und allen Grund- und weiterführenden Schulen. Ausnahmen gibt es für Schüler, die aus medizinischen Gründen oder wegen einer Behinderung darauf angewiesen sind.
+:::
+
+::: nentry
+##### 31. August {#sec-240831}
+
+Ab dem kommenden Schuljahr gelten in Griechenlands Schulen [strenge Regeln zur Handynutzung](https://www.heise.de/news/Griechenland-verbietet-Mobiltelefone-waehrend-des-Schulunterrichts-9853368.html): Wer sein Smartphone im Unterricht nutzt, wird suspendiert. Wer Mitschüler oder Lehrer ohne deren Einwilligung filmt oder fotografiert riskiert einen Schulverweis.
+:::
+
+::: nentry
 ##### 16. Juli {#sec-240716}
+
 Bei heise ist aktuell ein Artikel mit einer [Übersicht zu Smartphone-Verboten an Schulen](https://www.heise.de/news/Immer-mehr-Laender-verbieten-Smartphones-an-Schulen-9801553.html) erschienen.
 :::
 
@@ -20,88 +47,4 @@ Bei heise ist aktuell ein Artikel mit einer [Übersicht zu Smartphone-Verboten a
 > Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
 
 \>\>\>\> [HIER UNTERZEICHNEN](https://digitalcourage.de/recht-auf-leben-ohne-digitalzwang)
-:::
-
-::: nentry
-##### 17. Juni {#sec-240617}
-
-[Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind in diesem Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag Onlinezeit. Jeden Tag!
-:::
-
-::: nentry
-##### 6. Juni {#sec-240606}
-
-In einer jüngst veröffentlichten [Studie](https://www.nature.com/articles/s41390-024-03243-y), bei der in den USA mehr als 10.000 Kinder zwischen 12 und 13 Jahren und deren Eltern befragt wurden, wird deutlich, dass das Bildschirmverhalten der Eltern einen entscheidenden Einfluss auf das der Kinder hat: Je mehr Zeit die Eltern an den Geräten verbringen, um so mehr tun es auch die Kinder. Außerdem nutzen Kinder mehr digitale Medien, wenn in der Familie beim Essen Bildschirme an sind und wenn sie vor dem Einschlafen noch digitale Geräte nutzen. In beiden Fällen zeigten die Kinder häufiger problematisches Nutzungsverhalten in sozialen Medien, in Videospielen und am Smartphone.
-
-Bildschirmzeit als Belohnung oder Bestrafung für die Kinder funktioniert, laut der Studie, nicht. Mit dieser Erziehungsmaßnahme hatten die Kinder dann insgesamt sogar mehr Medienzeit.
-:::
-
-::: nentry
-##### 4. Juni {#sec-240604}
-
-In Österreich gibt es Datenschutzbeschwerden: [Microsoft spioniert Schüler aus](https://www.heise.de/news/Noyb-Beschwerde-ueber-Tracking-Microsoft-verletzt-Privatsphaere-von-Schuelern-9747983.html). Zum einen geht es dabei um das Trackingverhalten von MS 365 Education, welches standardmäßig und ungefragt aktiviert ist, zum anderen geht es um die Abwälzung der Verantwortung des Betriebs der Software auf die Schulen. Microsoft will nur "Auftragsverarbeiter" sein und die Gewinne einfahren, die Schulen haften als Verantwortliche für den Einsatz der Software.
-
-> Es sei nicht einmal erkennbar, welche Datenschutzrichtlinien für die Nutzung von MS 365 Education gelten: Die Dokumentation des Unternehmens "ist so intransparent und kompliziert", dass Nutzer und Schulen sich in einem Labyrinth aus unterschiedlichen Dokumenten und Verträgen zurechtfinden müssten. Die bereitgestellten Informationen seien immer etwas anders, aber "durchgehend vage formuliert".
-:::
-
-::: nentry
-##### 7. April {#sec-240407}
-
-Nachdem erst kürzlich eine [KiTa-App tiefe Einblicke in ihre Nutzerdaten](#sec-240323) gewährt hat, gibt es nun eine [Sicherheitslücke bei der Kinderüberwachungs-App "KidSecurity"](https://cybernews.com/security/parental-control-app-kidsecurity-data-leak/):
-
-> Während einer einstündigen Beobachtung erhielten die Forscher 456.000 private Nachrichten, die über Social-Media-Apps auf den Telefonen von Minderjährigen verschickt wurden, sowie Statistiken über die Anwendungsnutzung von 11.000 Telefonen.
-
-Und das nicht zum ersten Mal: Bereits [2023 hat das gleiche Team des litauischen Potals Cybernews.com](https://cybernews.com/security/kidsecurity-parental-control-data-leak/) über 300 Millionen Datensätze mit 21.000 Telefonnummern und 31.000 Mailadressen von Servern der App abgreifen können.
-
-Die geleakten Daten umfassten außerdem:
-
--   Nachrichten von Minderjährigen in sozialen Medien, einschließlich Instagram, WhatsApp, Telegram, Viber und Vkontakte
-
--   E-Mail-Adressen der Eltern
-
--   IP-Adressen
-
--   App Store-Informationen: Land, Profilland, für Transaktionen verwendete Währungen, Start- und Ablaufdatum von Abonnements
-
--   Listen der auf dem Telefon installierten Apps und deren Nutzungsstatistiken
-
--   Belohnungen, die Kinder für die Erledigung von Aufgaben wie Hausarbeiten oder die Teilnahme an Sportveranstaltungen erhalten
-
--   Audioaufzeichnungen der Umgebung von Minderjährigen
-
--   IMEI-Nummern
-
--   Geräte-Standorte
-
--   Batteriestände der Geräte
-
--   Andere periodisch gesendete Metadaten
-:::
-
-::: nentry
-##### 26. März {#sec-240326}
-
-Kinder in Florida unter 14 Jahren dürfen ab 2025 keine sozialen Netzwerke mehr nutzen. Ein Verbot bis 16 Jahre hat es nicht in das Gesetz geschafft, allerdings ist die Nutzung zwischen 14-16 nur mit elterlicher Einwilligung möglich. Was genau unter eine "Social Media Platform" fällt, wird im Gesetz ziemlich [komplex definiert](https://www.heise.de/news/Florida-sperrt-Kinder-aus-Sozialen-Netzen-aus-9666206.html):
-
-> Erstens muss sie Nutzern erlauben, Inhalte hochzuladen und Inhalte oder Aktivitäten anderer Nutzer zu sehen; zweitens muss wenigstens ein Zehntel der Nutzer unter 16 Jahren das Angebot im Schnitt mindestens zwei Stunden pro Nutzungstag verwenden; drittens muss es Algorithmen geben, die Nutzerdaten auswerten, um Inhalte auszuwählen – damit ist beispielsweise der typische Mastodon-Dienst nicht erfasst, weil dort kein Algorithmus Inhalte auswählt, sondern antichronologisch Inhalte anderer Nutzer gezeigt werden, die der Anwender selbst bestimmt hat.
->
-> Viertens muss es mindestens ein der folgenden Angebote geben, die vom Gesetz als süchtig machend eingestuft werden: Unendliches Scrollen, Pushnachrichten, die Anzeige von Statistiken über Zugriffe, Likes oder Shares, automatisch anlaufende Videos oder Livestreams von Nutzern oder Werbetreibenden. Ausgenommen vom Gesetz sind jedenfalls E-Mail- und Messaging-Dienste, die keine Veröffentlichung an unbestimmte Dritte vorsehen.
-
-Außerdem wird nach dem Gesetz ein Zugang zu pornographischen Angeboten erst ab 18 Jahren möglich sein, es gilt dann eine Ausweispflicht.
-:::
-
-::: nentry
-##### 23. März {#sec-240323}
-
-[Datenleck in KiTa-App](https://www.heise.de/news/Datenleck-bei-beliebter-KiTa-App-Stay-Informed-9662578.html): fast drei Jahre lang lagen die Daten von über 800.000 Familien aus mehr als 11.000 Einrichtungen quasi offen im Netz. Namen, Geburtsdaten, Anschriften, Fotos (natürlich auch von Minderjährigen), Informationen zum Impfstatus, Herkunftsländer... alles eben, bis hin zu den Unterschriften der Eltern. Warum? Pfusch. Und zwar so großer:
-
-> Der Server war über das Klartext-Protokoll HTTP erreichbar. Er lieferte direkt ein "Directory Listing" seines Inhalts. Directory Listing ist eine Funktion, die aus den Anfangszeiten des Internet stammt und im Webserver Apache noch immer eingebaut ist. Sie gehört in den allermeisten Fällen deaktiviert, denn liegen auf einem Server Dateien, die nicht für die Öffentlichkeit bestimmt sind, offenbart Directory Listing sie gnadenlos. Das eigentliche Problem im konkreten Fall ist aber der fehlende Zugriffsschutz auf die Dateien.
-
-Zum Glück ist der Betreiber der App mit ein paar Klicks, die es dauert das Problem zu beheben, raus aus der Sache. Die Verantwortung tragen die Anderen:
-
-> Das Unternehmen schließt mit diesen Kunden einen Auftragsverarbeitungsvertrag ab, demzufolge es seinen Service als "Software-as-a-Service" bereitstellt. Verantwortlich im Sinne der DSGVO sind damit die über 11.000 Einrichtungen, die jetzt jeweils einen individuellen Datenschutzvorfall im Haus haben, den sie in vielen Fällen der zuständigen Landesdatenschutzbehörde und eventuell sogar den betroffenen Eltern melden müssen.
-
-------------------------------------------------------------------------
-
-**Update**: Der App-Anbieter "Stay Informed" hat inziwschen eine [Informations- und FAQ-Seite](https://www.stayinformed.de/information-sicherheit/) für die Betroffenen eingerichtet.
 :::
