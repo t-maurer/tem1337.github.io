@@ -33,6 +33,12 @@ h2{
   font-weight: 300;
 }
 
+.quarto-title-banner h1{
+  font-family: 'Source Sans 3', Arial, sans-serif; 
+  font-weight: 300 !important; 
+  color: #fff;
+}
+
 /*navbar padding zurücksetzen*/
 @media screen and (max-width: 767px){
   #quarto-header > nav {
