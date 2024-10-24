@@ -8,7 +8,7 @@ callout-icon: false
 
 Die US-Handelsaufsicht (FTC) dokumentiert in einem [aktuellen Bericht](https://www.ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-streaming-services), dass die großen Internetplattformen (Amazon, Meta/Facebook/WhatsApp, Google/Youtube, ByteDance/TikTok etc.) ein riesiges Überwachungsnetzwerk aufgebaut haben in dem sie Unmengen an Daten über die Nutzer und Nichtnutzer ihrer Angebote sammeln. Dabei wird ein umfassender Datenaustausch betrieben, bei dem die Unternehmen teilweise selbst nicht sagen können, wo die Daten überall hingehen.
 
-Dass die Tecch-Konzerne die Persönlichkeitsrechte ihrer Nutzer und den Datenschutz zur Profitmaximiereung mit Füßen treten ist ja nicht neu, es wird so aber mal wieder in die öffentliche Wahrnehmung gebracht.
+Dass die Tech-Konzerne die Persönlichkeitsrechte ihrer Nutzer und den Datenschutz zur Profitmaximiereung mit Füßen treten ist ja nicht neu, es wird so aber mal wieder in die öffentliche Wahrnehmung gebracht.
 :::
 
 ::: nentry

@@ -5,7 +5,7 @@ toc: true
 
 ## Material
 
-::: {layout-ncol="2"}
+::::: {layout-ncol="2"}
 <div>
 
 **ist ihr Kind eigentlich schon Medienreif?**
@@ -22,14 +22,12 @@ Mehr Infos unter: [www.echt-dabei.de/fuer-eltern](http://www.echt-dabei.de/fuer-
 
 ![](/images/medienreifetest.jpg)
 
-```{=html}
 <button class="btn btn-primary" onclick="window.open('../../uploads/Medienreifetest_12-22.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
-```
 
 </div>
-:::
+:::::
 
-::: {layout-ncol="2"}
+::::: {layout-ncol="2"}
 <div>
 
 **Besteht bei Ihrem Kind die Gefahr einer möglichen digitalen Abhängigkeit?**
@@ -44,12 +42,10 @@ Mehr Infos unter: [www.klicksafe.de](https://www.klicksafe.de)
 
 ![](/images/Checkliste_klicksafe_Digitale_Abhängigkeit.jpg)
 
-```{=html}
 <button class="btn btn-primary" onclick="window.open('../../uploads/Checkliste_klicksafe_Digitale_Abhängigkeit.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
-```
 
 </div>
-:::
+:::::
 
 ## Links
 
@@ -82,7 +78,7 @@ Mehr Infos unter: [www.klicksafe.de](https://www.klicksafe.de)
 ## Literatur
 
 Bleckmann, Paula und Ingo Leipner - *Heute mal Bildschirmfrei\
-*[\>\>\> Leseprobe](/uploads/Bleckmann_Leipner-Bildschirmfrei_leseprobe.pdf){target="_blank"}
+\>* [Leseprobe](/uploads/Bleckmann_Leipner-Bildschirmfrei_leseprobe.pdf){target="_blank"}
 
 Bleckmann, Paula - *Medienmündig: Wie unsere Kinder selbstbestimmt mit dem Bildschirm umgehen lernen*
 
@@ -90,8 +86,12 @@ Renz-Polster, Herbert und Gerald Hüther - *Wie Kinder heute wachsen: Natur als 
 
 Spitzer, Manfred - *Digitale Demenz: Wie wir uns und unsere Kinder um den Verstand bringen*
 
-Medienkompass - Eine Orientierungshilfe für Eltern durch den Medien-Dschungel\
-<https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Medienkompass_f%C3%BCr_Eltern.pdf>
+Glöckler, Michaela - *Virtuelle und spirituelle Wirklichkeiten / Virtual and spiritual Realities*
+
+Hübner, Edwin - *Medien und Pädagogik. Grundlagen einer anthroposophisch - anthropologischen Medienpädagogik*
+
+Medienkompass (Struwwelpeter 2.1) - Eine Orientierungshilfe für Eltern durch den Medien-Dschungel\
+\> [Download als pdf](https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Medienkompass_2.1_Web_2024.pdf){.uri} \> [Bestellen](https://www.waldorfschule-shop.de/blickpunkte-reader-buecher/56/medienkompass-2.1-fuer-eltern-struwwelpeter-2.1)
 
 Struwwelpeter 2.0: Medienmündigkeit und Waldorfpädagogik\
-<https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Struwwelpeter_2.0_August_2017.pdf>
+\> [Download als pdf](https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Struwwelpeter_2.0_August_2017.pdf){.uri}
