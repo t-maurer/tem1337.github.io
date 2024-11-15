@@ -22,7 +22,11 @@ Mehr Infos unter: [www.echt-dabei.de/fuer-eltern](http://www.echt-dabei.de/fuer-
 
 ![](/images/medienreifetest.jpg)
 
-<button class="btn btn-primary" onclick="window.open('../../uploads/Medienreifetest_12-22.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
+<button class="btn btn-primary" onclick="window.open(&#39;../../uploads/Medienreifetest_12-22.pdf&#39;)">
+
+<i class="bi bi-file-earmark-pdf"></i> Download
+
+</button>
 
 </div>
 :::::
@@ -42,7 +46,11 @@ Mehr Infos unter: [www.klicksafe.de](https://www.klicksafe.de)
 
 ![](/images/Checkliste_klicksafe_Digitale_Abhängigkeit.jpg)
 
-<button class="btn btn-primary" onclick="window.open('../../uploads/Checkliste_klicksafe_Digitale_Abhängigkeit.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
+<button class="btn btn-primary" onclick="window.open(&#39;../../uploads/Checkliste_klicksafe_Digitale_Abhängigkeit.pdf&#39;)">
+
+<i class="bi bi-file-earmark-pdf"></i> Download
+
+</button>
 
 </div>
 :::::
@@ -91,7 +99,8 @@ Glöckler, Michaela - *Virtuelle und spirituelle Wirklichkeiten / Virtual and sp
 Hübner, Edwin - *Medien und Pädagogik. Grundlagen einer anthroposophisch - anthropologischen Medienpädagogik*
 
 Medienkompass (Struwwelpeter 2.1) - Eine Orientierungshilfe für Eltern durch den Medien-Dschungel\
-\> [Download als pdf](https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Medienkompass_2.1_Web_2024.pdf){.uri} \> [Bestellen](https://www.waldorfschule-shop.de/blickpunkte-reader-buecher/56/medienkompass-2.1-fuer-eltern-struwwelpeter-2.1)
+\> [Download als pdf](https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Medienkompass_2.1_Web_2024.pdf){.uri} \
+\> [Bestellen](https://www.waldorfschule-shop.de/blickpunkte-reader-buecher/56/medienkompass-2.1-fuer-eltern-struwwelpeter-2.1)
 
 Struwwelpeter 2.0: Medienmündigkeit und Waldorfpädagogik\
 \> [Download als pdf](https://www.waldorfschule.de/fileadmin/downloads/Blickpunkte_Reader/Struwwelpeter_2.0_August_2017.pdf){.uri}
