@@ -6,7 +6,7 @@ callout-icon: false
 ::: nentry
 ##### 28. November {#sec-241128}
 
-Australien ist das erste Land, welches ein [Social-Mediea-Verbot](https://www.heise.de/news/Im-Eilverfahren-beschlossen-Australien-bekommt-Social-Media-Verbot-fuer-Kinder-10180465.html) für Kinder unter 16 Jahren umsetzt. Das im Eilverfahren durchs Parlament gepeitschte Gesetz ist nicht unumstritten, da es zukünftig natürlich eine Altersverifikation aller Nutzer verlangt und somit die Konzerndatenbanken wahrscheinlich auch noch mit den Ausweisdaten der Nutzer gefüttert werden, welche eine Profilbildung natürlich noch einfacher und wertvoller machen. Das Gesetz soll, nach einer Test- und Evaluationsphase in einem Jahr umgesetzt werden und betrifft Dienste wie Facebook, TikTok, Snapchat, X (Twitter) und Instagram. Nicht jedoch YouTube und WhatsApp.
+Australien ist das erste Land, welches ein [Social-Media-Verbot](https://www.heise.de/news/Im-Eilverfahren-beschlossen-Australien-bekommt-Social-Media-Verbot-fuer-Kinder-10180465.html) für Kinder unter 16 Jahren umsetzt. Das im Eilverfahren durchs Parlament gepeitschte Gesetz ist nicht unumstritten, da es zukünftig natürlich eine Altersverifikation aller Nutzer verlangt und somit die Konzerndatenbanken wahrscheinlich auch noch mit den Ausweisdaten der Nutzer gefüttert werden, welche eine Profilbildung natürlich noch einfacher und wertvoller machen. Das Gesetz soll, nach einer Test- und Evaluationsphase, in einem Jahr umgesetzt werden und betrifft Dienste wie Facebook, TikTok, Snapchat, X (Twitter) und Instagram. Nicht jedoch YouTube und WhatsApp.
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,11 @@ Es zeigen sich, neben den Tech-Konzernen, die sagen, ihre Jugendschutzmaßnahmen
 
 > Es besteht kein Zweifel, dass die Praktiken von Social-Media-Plattformen den Rechten junger Menschen schaden, aber junge Menschen haben ebenso ein Recht darauf, sich online auszudrücken und Informationen zu suchen. Soziale Medien bieten Kindern und Jugendlichen Vorteile wie Eingliederung, soziale Kontakte und ein Gefühl der Zugehörigkeit, was auch ihre psychische Gesundheit fördern kann.
 
-Gerade Letzteres ist aber primär im Echten Leben wichtig. Wenn es nur online passiert führt es eher zu den Problemen, weswegen Verbote überhaupt diskutiert werden.
+Gerade Letzteres ist aber primär im echten Leben wichtig. Wenn es nur online passiert führt es eher zu den Problemen, weswegen Verbote unter anderem diskutiert werden.
+
+------------------------------------------------------------------------
+
+Übrigens: [Laut einer repräsentativen Umfrage](https://www.spiegel.de/netzwelt/australien-deutsche-mehrheit-befuerwortet-radikales-social-media-verbot-fuer-kinder-und-jugendliche-a-e13bde55-9e92-4ecc-9ecd-bbc325c829e2) wünschen sich 77 % der Deutschen auch so ein Gesetz, nur 13 % lehnen es ab. Zudem sind sich 82 % sicher, dass die sozialen Medien negative Auswirkungen auf Kinder und Jugendliche haben, 9 % sehen keinen Einfluss.
 :::
 
 ::: nentry
