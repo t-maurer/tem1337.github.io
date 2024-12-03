@@ -2,11 +2,12 @@
 title: Digitalisierung -- Entwicklung -- Pädagogik
 
 listing:
+  id: blogposts
   contents: posts
   fields: [date, title, image, description, categories, reading-time]
   sort: "date desc"
   type: grid
-  page-size: 6
+  page-size: 3
   #categories: true
   sort-ui: true
   filter-ui: true
@@ -32,13 +33,16 @@ Unter [Empfehlungen](empfehlungen/01-empfehlungen.qmd) finden Sie [allgemeine](e
 ::: {style="height:0.1rem;"}
 :::
 
+### Neueste Blogbeiträge
+
+::: {#blogposts}
+:::
+
+::: {style="height:3rem;"}
+:::
+
 ### Kurzkommentierte Kurzmeldungen & Digitale Blüten
 
 {{< include _news.qmd >}}
 
 [\>\>\> weitere Meldungen](news-archive.qmd)
-
-::: {style="height:0.1rem;"}
-:::
-
-### Neueste Blogbeiträge
