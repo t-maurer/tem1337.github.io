@@ -39,6 +39,11 @@ h2{
   color: #fff;
 }
 
+/*card header blau*/
+.card-title{
+  color: #325D88;
+}
+
 /*navbar padding zurücksetzen*/
 @media screen and (max-width: 767px){
   #quarto-header > nav {
