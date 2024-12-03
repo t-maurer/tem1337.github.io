@@ -4,6 +4,12 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 02. Dezember {#sec-241202}
+
+Laut einer aktuellen, repräsentativen [Bitkom Befragung](https://www.bitkom.org/Presse/Presseinformation/Ab-10-Jahren-haben-meisten-Kinder-eigenes-Smartphone) verfügen rund zwei Drittel aller Kinder zwischen 6-18 Jahren über ein eigenes Smartphone. In der Altersgruppe 6-9 Jahre sind es 17%. Bei den 10- bis 12-Jährigen verfügen bereits 76% über eigene Geräte, ab 16 Jahren haben dann nahezu alle eins (95%). Zudem haben ein Drittel der Kinder zwischen 6-9 Jahren schon eine eigene Spielkonsole. Tonie-Boxen oder andere Abspielgeräte für Hörspiele und Musik sind bei 57% der 6- bis 9-Jährigen vorhanden, bei den Großen sind sie nicht mehr interessant. 5% der 16- bis 18-Jährigen haben noch solch ein Gerät.
+:::
+
+::: nentry
 ##### 28. November {#sec-241128}
 
 Australien ist das erste Land, welches ein [Social-Media-Verbot](https://www.heise.de/news/Im-Eilverfahren-beschlossen-Australien-bekommt-Social-Media-Verbot-fuer-Kinder-10180465.html) für Kinder unter 16 Jahren umsetzt. Das im Eilverfahren durchs Parlament gepeitschte Gesetz ist nicht unumstritten, da es zukünftig natürlich eine Altersverifikation aller Nutzer verlangt und somit die Konzerndatenbanken wahrscheinlich auch noch mit den Ausweisdaten der Nutzer gefüttert werden, welche eine Profilbildung natürlich noch einfacher und wertvoller machen. Das Gesetz soll, nach einer Test- und Evaluationsphase, in einem Jahr umgesetzt werden und betrifft Dienste wie Facebook, TikTok, Snapchat, X (Twitter) und Instagram. Nicht jedoch YouTube und WhatsApp.
@@ -18,7 +24,7 @@ Gerade Letzteres ist aber primär im echten Leben wichtig. Wenn es nur online pa
 
 ------------------------------------------------------------------------
 
-Übrigens: [Laut einer repräsentativen Umfrage](https://www.spiegel.de/netzwelt/australien-deutsche-mehrheit-befuerwortet-radikales-social-media-verbot-fuer-kinder-und-jugendliche-a-e13bde55-9e92-4ecc-9ecd-bbc325c829e2) wünschen sich 77 % der Deutschen auch so ein Gesetz, nur 13 % lehnen es ab. Zudem sind sich 82 % sicher, dass die sozialen Medien negative Auswirkungen auf Kinder und Jugendliche haben, 9 % sehen keinen Einfluss.
+Übrigens: [Laut einer repräsentativen Umfrage](https://www.spiegel.de/netzwelt/australien-deutsche-mehrheit-befuerwortet-radikales-social-media-verbot-fuer-kinder-und-jugendliche-a-e13bde55-9e92-4ecc-9ecd-bbc325c829e2) wünschen sich 77% der Deutschen auch so ein Gesetz, nur 13% lehnen es ab. Zudem sind sich 82% sicher, dass die sozialen Medien negative Auswirkungen auf Kinder und Jugendliche haben, 9% sehen keinen Einfluss.
 :::
 
 ::: nentry
