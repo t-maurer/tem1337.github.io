@@ -1,7 +1,10 @@
 ---
 title: "Empfehlungen"
 toc: true
+description: "Die wichtigsten Empfehlungen zu digitalen Medien im Überblick." 
 ---
+
+Auf den [folgenden Seiten](01-empfehlungen.qmd) finden Sie einen Auszug der wichtigsten Empfehlungen zur Mediennutzung aus der AWMF-Medienleitlinie.
 
 ## Vorbemerkung
 
@@ -10,11 +13,12 @@ Im Sommer 2023 wurde bei der [AMWF](https://www.awmf.org/) die erste "Leitlinie 
 Sie finden hier eine grafisch aufbereitete Kurzversion für Eltern:
 
 ```{=html}
-<button class="btn btn-primary" data-umami-event="dl Elternversion"onclick="window.open('../../uploads/027-075eltern_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
+<button class="btn btn-primary" data-umami-event="dl Elternversion"onclick="window.open('../../uploads/027-075eltern_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2.0_2024-10.pdf')"><i class="bi bi-file-earmark-pdf"></i> Download</button>
 ```
+
 **Die hier dargestellten Informationen können jedoch keinesfalls die Lektüre der vollständigen Leitlinie ersetzen**:
 
-Onlineversion: <https://leitlinie.bildschirmfrei-bis-3.de>
+Onlineversion: <https://medienleitlinie.de>
 
 Original als PDF: <https://register.awmf.org/de/leitlinien/detail/027-075>
 

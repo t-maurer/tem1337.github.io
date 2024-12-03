@@ -1,6 +1,7 @@
 ---
 title: "Fragen und Tipps"
 toc: true
+description: "Tipps & Tricks für den eigenen Medienumgang."
 ---
 
 ## Tipps & Tricks für den eigenen Medienumgang

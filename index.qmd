@@ -2,16 +2,24 @@
 title: Digitalisierung -- Entwicklung -- Pädagogik
 
 listing:
-  id: blogposts
-  contents: posts
-  fields: [date, title, image, description, categories, reading-time]
-  sort: "date desc"
-  type: grid
-  page-size: 3
-  #categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: true
+  - id: recommendations
+    contents: 
+      - "empfehlungen/index.qmd"
+      - "empfehlungen/03-links.qmd"
+      - "faq/index.qmd"
+    type: grid
+    fields: [title, description]
+  - id: blogposts
+    contents: posts
+    fields: [date, title, image, description, categories, reading-time]
+    sort: "date desc"
+    type: grid
+    page-size: 3
+    #categories: true
+    sort-ui: true
+    filter-ui: true
+    feed: true
+
 #page-layout: article
 title-block-banner: true
 sidebar: false
@@ -28,9 +36,10 @@ Auf dieser Webseite finden Sie Informationen und vertiefende Ausführungen zum T
 
 Für Kinder gibt es nahezu keine positiven Seiten der Nutzung von digitalen Medien! Dafür aber viele, die einer gesunden körperlichen, seelischen und geistigen Entwicklung im Wege stehen. Leider sind diese Auswirkungen oft nicht direkt sichtbar und zeigen sich erst zu späteren Zeitpunkten in der Entwicklung der Kinder und Jugendlichen. Deswegen sollen hier wissenschaftliche Erkenntnisse und allgemeine Entwicklungen zum Thema dargestellt werden.
 
-Unter [Empfehlungen](empfehlungen/01-empfehlungen.qmd) finden Sie [allgemeine](empfehlungen/01-empfehlungen.qmd#allgemeine-empfehlungen-siehe-auch-altersspezifische-empfehlungen) und [altersspezifische Empfehlungen](empfehlungen/01-empfehlungen.qmd#altersspezifische-empfehlungen) zum Umgang mit Bildschirmen, ebenso Anhaltspunkte für [Eltern und Geschwister als Vorbilder](empfehlungen/01-empfehlungen.qmd#empfehlungen-für-eltern-und-geschwister-als-vorbilder). Falls Sie das Gefühl haben, es könnte doch zu viel sein, gibt es dafür ein [Vorgehen im Falle dysregulierter Bildschirmmediennutzung](empfehlungen/01-empfehlungen.qmd#vorgehen-im-falle-dysregulierter-bildschirmmediennutzung).
-
 ::: {style="height:0.1rem;"}
+:::
+
+::: {#recommendations}
 :::
 
 ### Neueste Blogbeiträge

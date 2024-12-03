@@ -1,6 +1,0 @@
-quarto render --profile live
-
-quarto publish gh-pages --no-browser
-
-
-![Elternleitlinie <span class="img-credits">Bild: [syk92 / pixabay](https://pixabay.com/de/users/sik92-13902915)</span>](images/eltern-ll.jpg)

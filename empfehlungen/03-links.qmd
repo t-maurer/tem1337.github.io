@@ -1,6 +1,7 @@
 ---
 title: "Materialien und Literatur"
 toc: true
+description: "Materialsammlung und weitere Angebote zum Thema."
 ---
 
 ## Material
