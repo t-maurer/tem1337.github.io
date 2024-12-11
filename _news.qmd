@@ -3,6 +3,12 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 03. Dezember {#sec-241203}
+
+Die Oxford University Press kürt "brain rot" zum [Wort des Jahres](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/). Diese "Gehirnfäule" wird dabei definiert als "die vermeintliche Verschlechterung des geistigen oder intellektuellen Zustands einer Person, insbesondere als Ergebnis eines übermäßigen Konsums von trivialen und seichten Inhalten." Heutzutage insbesonders Online-Inhalten. Der Begriff wurde übrigens bereits 1854 erstmals dokumentiert. Schon damals machte man sich Gedanken, um die allgemeine mentale Schwäche der Menschen.
+:::
+
+::: nentry
 ##### 02. Dezember {#sec-241202}
 
 Laut einer aktuellen, repräsentativen [Bitkom Befragung](https://www.bitkom.org/Presse/Presseinformation/Ab-10-Jahren-haben-meisten-Kinder-eigenes-Smartphone) verfügen rund zwei Drittel aller Kinder zwischen 6-18 Jahren über ein eigenes Smartphone. In der Altersgruppe 6-9 Jahre sind es 17%. Bei den 10- bis 12-Jährigen verfügen bereits 76% über eigene Geräte, ab 16 Jahren haben dann nahezu alle eins (95%). Zudem haben ein Drittel der Kinder zwischen 6-9 Jahren schon eine eigene Spielkonsole. Tonie-Boxen oder andere Abspielgeräte für Hörspiele und Musik sind bei 57% der 6- bis 9-Jährigen vorhanden, bei den Großen sind sie nicht mehr interessant. 5% der 16- bis 18-Jährigen haben noch solch ein Gerät.

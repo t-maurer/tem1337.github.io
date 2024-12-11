@@ -1,7 +1,7 @@
 ---
 callout-icon: false
-#https://jollydata.blog/posts/2022-08-06-_switching-to-quarto/switching-to-quarto.html
 toc: true
+#toc-location: body
 ---
 
 # Nachrichtenarchiv
