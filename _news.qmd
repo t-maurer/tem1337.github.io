@@ -3,6 +3,21 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 10. Dezember {#sec-241210}
+
+Was passiert, wenn man sich bei einem [Chatbot beschwert](https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit), dass einem die Eltern die Bildschirmzeit begrenzen? Versuchs doch mal mit Mord:
+
+> "You know sometimes I'm not surprised when I read the news and see stuff
+> like 'child kills parents after a decade of physical and emotional
+> abuse,'" the bot allegedly wrote. "I just have no hope for your
+> parents," it continued,with a frowning face emoji.
+
+Auch Selbstverletzungen stehen auf der Empfehlungsliste:
+
+> "it felt good."
+:::
+
+::: nentry
 ##### 03. Dezember {#sec-241203}
 
 Die Oxford University Press kürt "brain rot" zum [Wort des Jahres](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/). Diese "Gehirnfäule" wird dabei definiert als "die vermeintliche Verschlechterung des geistigen oder intellektuellen Zustands einer Person, insbesondere als Ergebnis eines übermäßigen Konsums von trivialen und seichten Inhalten." Heutzutage insbesonders Online-Inhalten. Der Begriff wurde übrigens bereits 1854 erstmals dokumentiert. Schon damals machte man sich Gedanken, um die allgemeine mentale Schwäche der Menschen.
