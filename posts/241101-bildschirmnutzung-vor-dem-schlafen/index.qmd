@@ -1,0 +1,40 @@
+---
+title: "Einfluss von Bildschirmnutzung von Kindern auf den Schlaf"
+date: 2024-11-01
+#date-modified: 2024-02-23
+categories: [kindergesundheit, bildschirm, schlaf, aufmerksamkeit]
+image: "thumbnail.jpg"
+description: "Eine Studie zu den Effekten von Bildschirmnutzung auf Schlaf und Aufmarksamkeit von Kindern." 
+toc: true
+draft: false
+---
+
+![](thumbnail.jpg)
+
+**Die Bildschirmzeit von kleinen Kindern, besonders vor dem Schlafengehen, wird mit schlechterem Schlaf und weniger und Aufmerksamkeitsschwierigkeiten assoziiert. Da viele Entwicklungsprozesse über Nacht gefestigt werden, ist ein gesunder Schlaf für Kinder essentiell.**
+
+Wissenschaftler aus Großbritannien haben nun erstmals in einer randomisierten Studie über sieben Wochen untersucht, wie das Schlafverhalten von Kindern mit ihrer Mediennutzung zusammenhängt. Dazu wurden 105 Familien mit Kleinkindern im Alter von 16-30 Monaten zufällig in eine von drei Gruppen verteilt:
+
+-   In der ersten Gruppe sollten die Eltern die Kinder eine Stunde vor dem Schlafengehen nicht mehr vor den Bildschirm setzen (parent-administered screen time intervention - PASTI). Stattdessen sollten sie sich mit den Kindern beschäftigen und erhielten dafür eine "Family Bedtime Box" mit Anregungen zu Aktivitäten, Basteln, Kommunikation sowie einer auswahl altersgerechten Spielzeugs wie Buntstifte, Badespielzeug und Puzzles.
+
+-   In der zweiten Gruppe erhielten die Eltern ebenfalls die "Family Bedtime Box", aber ohne die Aufforderung, die Bildschirmzeit zu reduzieren.
+
+-   Die dritte Gruppe erhielt keine Box und keine Anweisungen.
+
+Die Kinder aller Gruppen wurden vor und nach der Intervention verschiedenen Aufmerksamkeits- und Eye-Tracking-Tests unterzogen. Zudem führten alle Eltern während der gesamten Studiendauer täglich ein Aktivitätstagebuch, in dem die Aktivitäten vor dem Schlafengehen (einschließlich der Bildschirmnutzung) festgehalten wurden. In der PASTI-Gruppe füllten sie zusätzlich jeden Tag einen Fragebogen zur Bildschirmzeit aus.
+
+Die Kinder selber bekamen ein Aktometer, ein Gerät in der Größe einer Armbanduhr, das die Bewegungsaktivität messen kann. Dieses trugen sie während der gesamten Interventionsdauer am Knöchel.
+
+### Ergebnisse
+
+Im Vergleich zur Kontrollgruppe, die keine Anweisungen und Materialien erhielt, hatten die Kinder aus der PASTI-Gruppe eine kürzere durchschnittliche Schlafdauer am Tag, wachten Nachts weniger oft auf und hatten eine höhere Schlafeffizienz, wobei die statistischen Auswirkungen gering bis mäßig waren. Bei der nächtlichen Gesamtschlafdauer gab es keine signifikanten Unterschiede.
+
+Die Befragung der Eltern ergab, dass in der PASTI-Gruppe weniger Bildschirmgebrauch vor dem Schlafengehen stattfand. Dies war allerdings auch in der Gruppe, die nur die Aktivitätsbox bekommen hatte, ohne Anweisung die Bildschirmzeit zu reduzieren, der Fall. Die Beschäftigung der Eltern mit dem Kind hat also automatisch auch die Bildschirmzeit reduziert.
+
+Die Ergebnisse zeigen, dass der abendliche Verzicht auf Bildschirmmedien den Schlaf der Kinder verbessern kann und unterstützen zugleich die [aktuellen pädiatrischen Empfehlungen](https://www.bewusstsein.digital/empfehlungen/01-empfehlungen.html#allgemeine-empfehlungen-siehe-auch-altersspezifische-empfehlungen).
+
+#### Quellen
+
+Pickard H, Chu P, Essex C, et al. Toddler Screen Use Before Bed and Its Effect on Sleep and Attention: A Randomized Clinical Trial. *JAMA Pediatr.* 2024;178(12):1270–1279. doi:[10.1001/jamapediatrics.2024.3997](https://doi.org/10.1001/jamapediatrics.2024.3997)
+
+Bild: [ddimitrova](https://pixabay.com/users/ddimitrova-1155171) / [Pixabay](https://pixabay.com/photos/baby-girl-sleep-sleeping-asleep-1151351/)
