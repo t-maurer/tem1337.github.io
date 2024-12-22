@@ -10,7 +10,48 @@
 <atom:link href="https://www.bewusstsein.digital/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Tue, 01 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Einfluss von Bildschirmnutzung von Kindern auf den Schlaf</title>
+  <link>https://www.bewusstsein.digital/posts/241101-bildschirmnutzung-vor-dem-schlafen/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://www.bewusstsein.digital/posts/241101-bildschirmnutzung-vor-dem-schlafen/thumbnail.jpg" class="img-fluid"></p>
+<p><strong>Die Bildschirmzeit von kleinen Kindern, besonders vor dem Schlafengehen, wird mit schlechterem Schlaf und weniger und Aufmerksamkeitsschwierigkeiten assoziiert. Da viele Entwicklungsprozesse über Nacht gefestigt werden, ist ein gesunder Schlaf für Kinder essentiell.</strong></p>
+<p>Wissenschaftler aus Großbritannien haben nun erstmals in einer randomisierten Studie über sieben Wochen untersucht, wie das Schlafverhalten von Kindern mit ihrer Mediennutzung zusammenhängt. Dazu wurden 105 Familien mit Kleinkindern im Alter von 16-30 Monaten zufällig in eine von drei Gruppen verteilt:</p>
+<ul>
+<li><p>In der ersten Gruppe sollten die Eltern die Kinder eine Stunde vor dem Schlafengehen nicht mehr vor den Bildschirm setzen (parent-administered screen time intervention - PASTI). Stattdessen sollten sie sich mit den Kindern beschäftigen und erhielten dafür eine „Family Bedtime Box“ mit Anregungen zu Aktivitäten, Basteln, Kommunikation sowie einer auswahl altersgerechten Spielzeugs wie Buntstifte, Badespielzeug und Puzzles.</p></li>
+<li><p>In der zweiten Gruppe erhielten die Eltern ebenfalls die „Family Bedtime Box“, aber ohne die Aufforderung, die Bildschirmzeit zu reduzieren.</p></li>
+<li><p>Die dritte Gruppe erhielt keine Box und keine Anweisungen.</p></li>
+</ul>
+<p>Die Kinder aller Gruppen wurden vor und nach der Intervention verschiedenen Aufmerksamkeits- und Eye-Tracking-Tests unterzogen. Zudem führten alle Eltern während der gesamten Studiendauer täglich ein Aktivitätstagebuch, in dem die Aktivitäten vor dem Schlafengehen (einschließlich der Bildschirmnutzung) festgehalten wurden. In der PASTI-Gruppe füllten sie zusätzlich jeden Tag einen Fragebogen zur Bildschirmzeit aus.</p>
+<p>Die Kinder selber bekamen ein Aktometer, ein Gerät in der Größe einer Armbanduhr, das die Bewegungsaktivität messen kann. Dieses trugen sie während der gesamten Interventionsdauer am Knöchel.</p>
+<section id="ergebnisse" class="level3">
+<h3 class="anchored" data-anchor-id="ergebnisse">Ergebnisse</h3>
+<p>Im Vergleich zur Kontrollgruppe, die keine Anweisungen und Materialien erhielt, hatten die Kinder aus der PASTI-Gruppe eine kürzere durchschnittliche Schlafdauer am Tag, wachten Nachts weniger oft auf und hatten eine höhere Schlafeffizienz, wobei die statistischen Auswirkungen gering bis mäßig waren. Bei der nächtlichen Gesamtschlafdauer gab es keine signifikanten Unterschiede.</p>
+<p>Die Befragung der Eltern ergab, dass in der PASTI-Gruppe weniger Bildschirmgebrauch vor dem Schlafengehen stattfand. Dies war allerdings auch in der Gruppe, die nur die Aktivitätsbox bekommen hatte, ohne Anweisung die Bildschirmzeit zu reduzieren, der Fall. Die Beschäftigung der Eltern mit dem Kind hat also automatisch auch die Bildschirmzeit reduziert.</p>
+<p>Die Ergebnisse zeigen, dass der abendliche Verzicht auf Bildschirmmedien den Schlaf der Kinder verbessern kann und unterstützen zugleich die <a href="https://www.bewusstsein.digital/empfehlungen/01-empfehlungen.html#allgemeine-empfehlungen-siehe-auch-altersspezifische-empfehlungen">aktuellen pädiatrischen Empfehlungen</a>.</p>
+<section id="quellen" class="level4">
+<h4 class="anchored" data-anchor-id="quellen">Quellen</h4>
+<p>Pickard H, Chu P, Essex C, et al.&nbsp;Toddler Screen Use Before Bed and Its Effect on Sleep and Attention: A Randomized Clinical Trial. <em>JAMA Pediatr.</em> 2024;178(12):1270–1279. doi:<a href="https://doi.org/10.1001/jamapediatrics.2024.3997">10.1001/jamapediatrics.2024.3997</a></p>
+<p>Bild: <a href="https://pixabay.com/users/ddimitrova-1155171">ddimitrova</a> / <a href="https://pixabay.com/photos/baby-girl-sleep-sleeping-asleep-1151351/">Pixabay</a></p>
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
+  <category>kindergesundheit</category>
+  <category>bildschirm</category>
+  <category>schlaf</category>
+  <category>aufmerksamkeit</category>
+  <guid>https://www.bewusstsein.digital/posts/241101-bildschirmnutzung-vor-dem-schlafen/</guid>
+  <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://www.bewusstsein.digital/posts/241101-bildschirmnutzung-vor-dem-schlafen/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Übersicht zu Handyverboten in Europa</title>
   <link>https://www.bewusstsein.digital/posts/241001-uebersicht-handyverbote/</link>
@@ -825,7 +866,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/</guid>
-  <pubDate>Sat, 21 Dec 2024 19:32:03 GMT</pubDate>
+  <pubDate>Sun, 22 Dec 2024 10:12:48 GMT</pubDate>
 </item>
 <item>
   <title>Fragen und Tipps</title>
@@ -870,7 +911,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/faq/</guid>
-  <pubDate>Sat, 21 Dec 2024 19:32:03 GMT</pubDate>
+  <pubDate>Sun, 22 Dec 2024 10:12:48 GMT</pubDate>
 </item>
 <item>
   <title>Materialien und Literatur</title>
@@ -956,7 +997,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/03-links.html</guid>
-  <pubDate>Sat, 21 Dec 2024 19:32:03 GMT</pubDate>
+  <pubDate>Sun, 22 Dec 2024 10:12:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
