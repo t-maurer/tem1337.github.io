@@ -9,6 +9,52 @@ toc: true
 ## 2024
 
 ::: nentry
+##### 28. September {#sec-240928}
+
+Die US-Handelsaufsicht (FTC) dokumentiert in einem [aktuellen Bericht](https://www.ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-streaming-services), dass die großen Internetplattformen (Amazon, Meta/Facebook/WhatsApp, Google/Youtube, ByteDance/TikTok etc.) ein riesiges Überwachungsnetzwerk aufgebaut haben in dem sie Unmengen an Daten über die Nutzer und Nichtnutzer ihrer Angebote sammeln. Dabei wird ein umfassender Datenaustausch betrieben, bei dem die Unternehmen teilweise selbst nicht sagen können, wo die Daten überall hingehen.
+
+Dass die Tech-Konzerne die Persönlichkeitsrechte ihrer Nutzer und den Datenschutz zur Profitmaximiereung mit Füßen treten ist ja nicht neu, es wird so aber mal wieder in die öffentliche Wahrnehmung gebracht.
+:::
+
+::: nentry
+##### 11. September {#sec-240911}
+
+Im Internet sind Gewalt und Pornos ja potentiell immer nur einen Klick entfernt. 42%, also knapp die Hälfte der Kinder zwischen 11-17 Jahren, gab in einer [repräsentativen Umfrage der Medienanstalt NRW](https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2024/default-a455c6a6ed/default-8ae3153c8164758c99b5658207373c89-2/klar-haben-wir-schon-einen-porno-gesehen.html) an, bereits einen Porno gesehen zu haben. 2023 waren es "nur" 35%. Ein Anstieg ist vor allem bei den 11- bis 13-Jährigen zu verzeichnen (von 19% (2023) auf 26% (2024)). Dabei spielen Messenger wie WhatsApp eine große Rolle: Ein Viertel der Befragten gab an, bereits Sexting-Nachrichten erhalten zu haben, davon bekamen 79% diese Nachrichten nicht freiwillig.
+:::
+
+::: nentry
+##### 2. September {#sec-240902}
+
+Auch in den [Niederlanden gilt ab sofort ein Smartphone-Verbot](https://www.heise.de/news/Handyverbot-an-niederlaendischen-Schulen-gestartet-9854301.html) und allen Grund- und weiterführenden Schulen. Ausnahmen gibt es für Schüler, die aus medizinischen Gründen oder wegen einer Behinderung darauf angewiesen sind.
+:::
+
+::: nentry
+##### 31. August {#sec-240831}
+
+Ab dem kommenden Schuljahr gelten in Griechenlands Schulen [strenge Regeln zur Handynutzung](https://www.heise.de/news/Griechenland-verbietet-Mobiltelefone-waehrend-des-Schulunterrichts-9853368.html): Wer sein Smartphone im Unterricht nutzt, wird suspendiert. Wer Mitschüler oder Lehrer ohne deren Einwilligung filmt oder fotografiert riskiert einen Schulverweis.
+:::
+
+::: nentry
+##### 16. Juli {#sec-240716}
+
+Bei heise ist aktuell ein Artikel mit einer [Übersicht zu Smartphone-Verboten an Schulen](https://www.heise.de/news/Immer-mehr-Laender-verbieten-Smartphones-an-Schulen-9801553.html) erschienen.
+:::
+
+::: nentry
+##### 18. Juni {#sec-240618}
+
+[Petition gegen Digitalzwang gestartet](https://digitalcourage.de/blog/2024/petition-fuer-recht-auf-ein-leben-ohne-digitalzwang-gestartet):
+
+> An immer mehr Stellen werden wir genötigt, uns einzuloggen, online zu registrieren oder eine App herunterzuladen – und dabei persönliche Daten preiszugeben. Und das, um Dienste zu nutzen, die zur Grundversorgung gehören!
+>
+> Es darf nicht sein, dass das Wahrnehmen von Grundrechten, die Teilhabe am gesellschaftlichen Leben und die Nutzung öffentlicher Infrastruktur (Bahn, Post, medizinische Versorgung) davon abhängig ist, dass wir Internet haben, ein Smartphone bei uns tragen oder eine bestimmte App installieren.
+>
+> Digitalzwang bedeutet eine handfeste Benachteiligung bis hin zum kompletten Ausschluss von Diensten. Dies betrifft nicht nur alte, arme oder kranke Menschen, die die entsprechende Technik nicht nutzen können. Sondern es betrifft auch technik-affine Menschen, die sich gut auskennen und nicht ständig Verhaltensdaten in alle Welt senden oder wahllos neue Apps auf ihren Geräten installieren wollen.
+
+\>\>\>\> [HIER UNTERZEICHNEN](https://digitalcourage.de/recht-auf-leben-ohne-digitalzwang)
+:::
+
+::: nentry
 ##### 17. Juni {#sec-240617}
 
 [Die Deutschen verbringen weniger Zeit online](https://www.golem.de/news/studie-juengere-internetnutzer-sind-weniger-online-2406-186123.html): Es sind in diesem Jahr im Schnitt "nur" noch 69 Stunden in der Woche. letztes Jahr waren es noch zwei Stunden mehr. Vor allem in der Gruppe 18-39 Jahre sinkt die zahl von 93 Stunden/Woche auf 85 Stunden. Zur Erinnerung: eine Woche hat 168 Stunden. Wir sprechen in dieser Altersgruppe also immer noch über mehr als einen halben Tag Onlinezeit. Jeden Tag!
