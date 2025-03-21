@@ -3,6 +3,30 @@ callout-icon: false
 ---
 
 ::: nentry
+##### 20. März {#sec-250320}
+
+Jetzt sollen erste Handyverbote in deutschen Schulen umgesetzt werden. In [Hessen](https://www.heise.de/news/Hessen-plant-Handyverbot-an-Schulen-10322149.html) wird es nach den Sommerferien losgehen, [Niedersachsen](https://www.golem.de/news/schulen-verlangen-klarheit-niedersachsen-fuer-bundesweite-handyregeln-an-schulen-2503-194495.html) überlegt noch.
+:::
+
+::: nentry
+##### 28. Februar {#sec-250228}
+
+Das klassische Handy hat inzwischen neue Namen wie Dumbphone oder Boring Phone und [erfreut sich in der jüngeren Generation wieder einer wachsenden Beliebtheit](https://t3n.de/news/statt-smartphones-generation-z-dumbphones-zurueck-1621712/). Gründe dafür sind vor allem weniger Zeit im Netz zu verbringen, denn mehr als telefonieren und SMS schreiben kann man damit nicht. Es geht aber auch um Datenschutzfragen und darum sich weniger überwachen zu lassen.
+:::
+
+::: nentry
+##### 26. Februar {#sec-250226}
+
+Das nächste Land, welches ein Handyverbot an Schulen plant ist... [Dänemark](https://www.heise.de/news/Daenemark-plant-komplettes-Handyverbot-an-Schulen-10296294.html).
+:::
+
+::: nentry
+##### 06. Februar {#sec-250206}
+
+Aktuell gibt es mal wieder eine lebensgefährliche Mutprobe, die in den sozialen Medien verbreitet wird: Bei der "[Paracetamol-Challenge](https://www.n-tv.de/der_tag/Paracetamol-Challenge-Pharmaverband-warnt-vor-Tiktok-Trend-article25543229.html)" ist das Ziel, eine möglichst hohe Dosis zu überleben.
+:::
+
+::: nentry
 ##### 20. Januar {#sec-250120}
 
 In den Niederlanden gibt es seit einem Jahr ein generelles Handyverbot. Ein Jahr mit teilweise völlig [neuen Erfahrungen](https://www.nzz.ch/international/handy-verbot-an-schulen-in-niederlanden-erfahrungen-nach-einem-jahr-ld.1865118). Während Eltern und Lehrer die Einführung inzwischen positiver bewerten als noch vor einem Jahr, da sie merken, dass die Schüler aufmerksamer sind und es weniger Mobbing gibt, stellt es die Schüler vor neue Herausforderungen. Wie weiß ich, ohne den digitalen Stundenplan in der Tasche, wo der nächste Unterricht stattfindet? Wie weiß ich, ohne Smartphone-Uhr, wie spät es ist? Auch gibt es scheinbar mehr Streitigkeiten aus Frust und Langeweile. Ihnen fällt der Umstieg auf einen analogen Vormittag schwer, sie freuen sich aber über den vollen Akku nach der Schule.
