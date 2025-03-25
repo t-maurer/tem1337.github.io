@@ -1,0 +1,24 @@
+---
+title: "Wo ist Klaus?"
+date: 2024-03-25
+#date-modified: 2024-02-23
+categories: [gewalt, internet, onlinerisiken, pädophilie, pornographie, rechtsextremismus, werbung]
+image: "thumbnail.jpg"
+description: "Ein 20 Jahre alter Werbespot ist heute aktueller denn je." 
+toc: true
+draft: false
+---
+
+{{< video Wo-ist-Klaus_klicksafe.mp4 >}}
+
+**Ein 20 Jahre alter Werbespot ist heute aktueller denn je.**
+
+Vor 20 Jahren wurde der Werbespot "Wo ist Klaus?" der EU-Initiative [klicksafe](https://www.klicksafe.de) erstmals in Fernsehen und Kinos ausgestrahlt.
+
+Der Spot stellt vier Problembereich der Internetnutzung vor, die vor allem für Kinder und Jugendliche problematisch sind: Rechtsextremismus, Pornografie, Gewaltdarstellungen und Pädosexualität. Verschiedene Personengruppen klingeln bei Familie Vogel, fragen nach Klaus und die Mutter lädt sie ein und weist ihnen den Weg. Die provokante Art des Spots soll aufrütteln und macht auf ironische aber eindringliche Weise auf die Gefährdungen und Sicherheit im Internet aufmerksam.
+
+Der TV-Spot wurde in mehrere Sprachen übersetzt und international ausgestrahlt. Er gewann zudem mehrere renommierte Preise und Auszeichnungen.
+
+#### Quellen
+
+<https://www.klicksafe.de/materialien/wo-ist-klaus>
