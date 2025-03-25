@@ -10,7 +10,39 @@
 <atom:link href="https://www.bewusstsein.digital/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wo ist Klaus?</title>
+  <link>https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="Wo-ist-Klaus_klicksafe.mp4"></video></div>
+<p><strong>Ein 20 Jahre alter Werbespot ist heute aktueller denn je.</strong></p>
+<p>Vor 20 Jahren wurde der Werbespot „Wo ist Klaus?“ der EU-Initiative <a href="https://www.klicksafe.de">klicksafe</a> erstmals in Fernsehen und Kinos ausgestrahlt.</p>
+<p>Der Spot stellt vier Problembereich der Internetnutzung vor, die vor allem für Kinder und Jugendliche problematisch sind: Rechtsextremismus, Pornografie, Gewaltdarstellungen und Pädosexualität. Verschiedene Personengruppen klingeln bei Familie Vogel, fragen nach Klaus und die Mutter lädt sie ein und weist ihnen den Weg. Die provokante Art des Spots soll aufrütteln und macht auf ironische aber eindringliche Weise auf die Gefährdungen und Sicherheit im Internet aufmerksam.</p>
+<p>Der TV-Spot wurde in mehrere Sprachen übersetzt und international ausgestrahlt. Er gewann zudem mehrere renommierte Preise und Auszeichnungen.</p>
+<section id="quellen" class="level4">
+<h4 class="anchored" data-anchor-id="quellen">Quellen</h4>
+<p><a href="https://www.klicksafe.de/materialien/wo-ist-klaus" class="uri">https://www.klicksafe.de/materialien/wo-ist-klaus</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
+  <category>gewalt</category>
+  <category>internet</category>
+  <category>onlinerisiken</category>
+  <category>pädophilie</category>
+  <category>pornographie</category>
+  <category>rechtsextremismus</category>
+  <category>werbung</category>
+  <guid>https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/</guid>
+  <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Einfluss von Bildschirmnutzung von Kindern auf den Schlaf</title>
   <link>https://www.bewusstsein.digital/posts/241101-bildschirmnutzung-vor-dem-schlafen/</link>
@@ -125,38 +157,6 @@ Bild: <a href="https://pixabay.com/users/clker-free-vector-images-3736/">Clker-F
   <guid>https://www.bewusstsein.digital/posts/241001-uebersicht-handyverbote/</guid>
   <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://www.bewusstsein.digital/posts/241001-uebersicht-handyverbote/thumbnail.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Wo ist Klaus?</title>
-  <link>https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="Wo-ist-Klaus_klicksafe.mp4"></video></div>
-<p><strong>Ein 20 Jahre alter Werbespot ist heute aktueller denn je.</strong></p>
-<p>Vor 20 Jahren wurde der Werbespot „Wo ist Klaus?“ der EU-Initiative <a href="https://www.klicksafe.de">klicksafe</a> erstmals in Fernsehen und Kinos ausgestrahlt.</p>
-<p>Der Spot stellt vier Problembereich der Internetnutzung vor, die vor allem für Kinder und Jugendliche problematisch sind: Rechtsextremismus, Pornografie, Gewaltdarstellungen und Pädosexualität. Verschiedene Personengruppen klingeln bei Familie Vogel, fragen nach Klaus und die Mutter lädt sie ein und weist ihnen den Weg. Die provokante Art des Spots soll aufrütteln und macht auf ironische aber eindringliche Weise auf die Gefährdungen und Sicherheit im Internet aufmerksam.</p>
-<p>Der TV-Spot wurde in mehrere Sprachen übersetzt und international ausgestrahlt. Er gewann zudem mehrere renommierte Preise und Auszeichnungen.</p>
-<section id="quellen" class="level4">
-<h4 class="anchored" data-anchor-id="quellen">Quellen</h4>
-<p><a href="https://www.klicksafe.de/materialien/wo-ist-klaus" class="uri">https://www.klicksafe.de/materialien/wo-ist-klaus</a></p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
-  <category>gewalt</category>
-  <category>internet</category>
-  <category>onlinerisiken</category>
-  <category>pädophilie</category>
-  <category>pornographie</category>
-  <category>rechtsextremismus</category>
-  <category>werbung</category>
-  <guid>https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/</guid>
-  <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.bewusstsein.digital/posts/250325-wo-ist-klaus/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DAK-Suchtstudie: Ein Viertel der Kinder haben riskante Social Media Nutzung</title>
@@ -898,7 +898,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/</guid>
-  <pubDate>Tue, 25 Mar 2025 09:17:06 GMT</pubDate>
+  <pubDate>Tue, 25 Mar 2025 09:25:01 GMT</pubDate>
 </item>
 <item>
   <title>Fragen und Tipps</title>
@@ -943,7 +943,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/faq/</guid>
-  <pubDate>Tue, 25 Mar 2025 09:17:06 GMT</pubDate>
+  <pubDate>Tue, 25 Mar 2025 09:25:01 GMT</pubDate>
 </item>
 <item>
   <title>Materialien und Literatur</title>
@@ -1029,7 +1029,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/03-links.html</guid>
-  <pubDate>Tue, 25 Mar 2025 09:17:06 GMT</pubDate>
+  <pubDate>Tue, 25 Mar 2025 09:25:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
