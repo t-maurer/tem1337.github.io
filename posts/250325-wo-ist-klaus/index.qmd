@@ -1,6 +1,6 @@
 ---
 title: "Wo ist Klaus?"
-date: 2024-03-25
+date: 2025-03-25
 #date-modified: 2024-02-23
 categories: [gewalt, internet, onlinerisiken, pädophilie, pornographie, rechtsextremismus, werbung]
 image: "thumbnail.jpg"
