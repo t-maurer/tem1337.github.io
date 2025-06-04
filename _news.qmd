@@ -3,7 +3,13 @@ callout-icon: false
 ---
 
 ::: nentry
-##### 11. April {#sec-2500411}
+##### 04. Juni {#sec-250604}
+
+Bayern macht die [Rolle rückwärts](https://www.heise.de/news/Kurswechsel-in-Bayern-Tablets-erst-ab-8-Klasse-10423657.html). Nachdem erst im vergangenen Jahr Tablets ab Klasse 5 eingeführt wurden, will man diese, zugunsten von mehr "klassischer" Bildung, jetzt erst wieder ab der 8. Klasse einführen.
+:::
+
+::: nentry
+##### 11. April {#sec-250411}
 
 In Frankreich wird das [Handy-Verbot an Mittelschulen](https://www.theguardian.com/world/2025/apr/10/france-mobile-phone-ban-middle-schools) verschärft. Seit 2018 gilt die Regelung, dass die Geräte der Schüler ausgesschaltet in der Schultasche sind. Mit der neuen Regelung, die nach den Sommerferien in Kraft treten soll, werden die Geräte vor Schulbeginn eingeschlossen. Man hat bisher positive Erfahrungen gemacht, es gab mehr soziales Miteinander und Aktivitäten bei den Schülern, sie konnten sich wieder besser konzentrieren und stritten sich seltener. Einige nutzten jedoch die Pausen, um heimlich auf der Toilette das Smartphone zu nutzen. Dies soll mit der neuen Regelung unterbunden werden. In französischen Grundschulen gilt ein generelles Handy-Verbot, in den Gymnasien gibt es abweichende Regelungen.
 :::
