@@ -1,10 +1,7 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
-      "/empfehlungen/index.html",
-      "/faq/index.html",
-      "/empfehlungen/03-links.html",
       "/posts/250325-wo-ist-klaus/index.html",
       "/posts/241101-bildschirmnutzung-vor-dem-schlafen/index.html",
       "/posts/241001-uebersicht-handyverbote/index.html",
@@ -25,8 +22,11 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
+      "/empfehlungen/index.html",
+      "/faq/index.html",
+      "/empfehlungen/03-links.html",
       "/posts/250325-wo-ist-klaus/index.html",
       "/posts/241101-bildschirmnutzung-vor-dem-schlafen/index.html",
       "/posts/241001-uebersicht-handyverbote/index.html",
