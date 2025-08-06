@@ -9,7 +9,7 @@
 <link>https://www.bewusstsein.digital/</link>
 <atom:link href="https://www.bewusstsein.digital/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Wo ist Klaus?</title>
@@ -898,7 +898,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/</guid>
-  <pubDate>Wed, 04 Jun 2025 07:28:59 GMT</pubDate>
+  <pubDate>Wed, 06 Aug 2025 09:51:46 GMT</pubDate>
 </item>
 <item>
   <title>Fragen und Tipps</title>
@@ -943,7 +943,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/faq/</guid>
-  <pubDate>Wed, 04 Jun 2025 07:28:59 GMT</pubDate>
+  <pubDate>Wed, 06 Aug 2025 09:51:46 GMT</pubDate>
 </item>
 <item>
   <title>Materialien und Literatur</title>
@@ -1023,7 +1023,7 @@ Böttger, T.; Poschik, M.; Zierer, K. Does the Brain Drain Effect Really Exist? 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a> ]]></description>
   <guid>https://www.bewusstsein.digital/empfehlungen/03-links.html</guid>
-  <pubDate>Wed, 04 Jun 2025 07:28:59 GMT</pubDate>
+  <pubDate>Wed, 06 Aug 2025 09:51:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
